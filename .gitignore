@@ -136,6 +136,8 @@ celerybeat.pid
 
 # Environments
 .env
+data/raw_api/
+__pycache__/
 *.env
 .env.*
 .envrc

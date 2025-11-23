@@ -1,7 +1,7 @@
 # Tech-Salary-Benchmarking-Cross-Market-Analysis-for-Competitive-Salary-Bands
 
 ## Introduction 
-Tech salaries vary widely across our locations because of:
+Tech salaries vary widely across locations because of:
 - local talent demand vs offer
 - cost of living
 - market maturity
@@ -13,7 +13,7 @@ For the People Team, creating salary bands that are competitive, fair and market
 - retention
 - equity
 - forecasting costs
-- global mobility decisions
+- global mobility/relocation decisions
 
 Because markets use different currencies, all compensation figures will be standardised into GBP for consistent comparison.
 
