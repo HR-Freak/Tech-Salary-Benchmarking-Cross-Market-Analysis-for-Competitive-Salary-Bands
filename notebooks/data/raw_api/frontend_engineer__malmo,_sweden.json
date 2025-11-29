@@ -1,0 +1,23 @@
+{
+  "status": "OK",
+  "request_id": "a3beabf3-e406-408e-8f75-304da8fa3dd6",
+  "data": [
+    {
+      "location": "Lund, Sweden",
+      "job_title": "Frontend Engineer",
+      "min_salary": 42000,
+      "max_salary": 44000,
+      "median_salary": 42500,
+      "min_base_salary": 42000,
+      "max_base_salary": 44000,
+      "median_base_salary": 42500,
+      "salary_period": "MONTH",
+      "salary_currency": "SEK",
+      "salary_count": 3,
+      "salaries_updated_at": "2024-12-06T01:50:58.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Frontend%20Engineer&locT=C&locId=3238054",
+      "confidence": "LOW"
+    }
+  ]
+}

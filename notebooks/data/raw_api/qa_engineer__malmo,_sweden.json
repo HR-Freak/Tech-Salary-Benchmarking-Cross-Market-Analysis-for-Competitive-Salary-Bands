@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "2dd55c01-cc99-4602-ab9c-82b5863949ce",
+  "data": [
+    {
+      "location": "Lund, Sweden",
+      "job_title": "QA Engineer",
+      "min_salary": 32166.666666666668,
+      "max_salary": 43456.916666666664,
+      "median_salary": 36666.666666666664,
+      "min_base_salary": 31000,
+      "max_base_salary": 38500,
+      "median_base_salary": 35000,
+      "min_additional_pay": 1166.6666666666667,
+      "max_additional_pay": 4956.916666666667,
+      "median_additional_pay": 1666.6666666666667,
+      "salary_period": "MONTH",
+      "salary_currency": "SEK",
+      "salary_count": 7,
+      "salaries_updated_at": "2025-09-18T01:31:37.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=QA%20Engineer&locT=C&locId=3238054",
+      "confidence": "HIGH"
+    }
+  ]
+}

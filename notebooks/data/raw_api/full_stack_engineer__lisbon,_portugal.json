@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "36eedbd8-fe2f-4c03-9326-4da5601d3c21",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "Full Stack Engineer",
+      "min_salary": 1308.514,
+      "max_salary": 2041.513,
+      "median_salary": 1525.0135,
+      "min_base_salary": 1212.5,
+      "max_base_salary": 1937.5,
+      "median_base_salary": 1425,
+      "min_additional_pay": 96.014,
+      "max_additional_pay": 104.013,
+      "median_additional_pay": 100.01349999999998,
+      "salary_period": "MONTH",
+      "salary_currency": "EUR",
+      "salary_count": 7,
+      "salaries_updated_at": "2025-01-10T08:57:00.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Full%20Stack%20Engineer&locT=C&locId=3192045",
+      "confidence": "HIGH"
+    }
+  ]
+}

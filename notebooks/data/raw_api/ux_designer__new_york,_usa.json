@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "a74b39d1-50c7-4d60-a0be-a0aa812700dd",
+  "data": [
+    {
+      "location": "New York State",
+      "job_title": "UX Designer",
+      "min_salary": 80397.3275,
+      "max_salary": 149848.33,
+      "median_salary": 107196.43,
+      "min_base_salary": 63248.677500000005,
+      "max_base_salary": 117837.53,
+      "median_base_salary": 84331.57,
+      "min_additional_pay": 17148.65,
+      "max_additional_pay": 32010.8,
+      "median_additional_pay": 22864.86,
+      "salary_period": "YEAR",
+      "salary_currency": "USD",
+      "salary_count": 885,
+      "salaries_updated_at": "2025-04-10T23:59:59.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=UX%20Designer&locT=S&locId=428",
+      "confidence": "CONFIDENT"
+    }
+  ]
+}

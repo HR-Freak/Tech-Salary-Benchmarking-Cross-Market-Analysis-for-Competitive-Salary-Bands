@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "bb2aeccb-6c21-4ea5-b6c3-f9fd8b6cd080",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "Backend Engineer",
+      "min_salary": 38025,
+      "max_salary": 64710,
+      "median_salary": 52500,
+      "min_base_salary": 36225,
+      "max_base_salary": 56550,
+      "median_base_salary": 50000,
+      "min_additional_pay": 1800,
+      "max_additional_pay": 8160,
+      "median_additional_pay": 2500,
+      "salary_period": "YEAR",
+      "salary_currency": "EUR",
+      "salary_count": 42,
+      "salaries_updated_at": "2025-11-03T02:05:39.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Backend%20Engineer&locT=C&locId=3192045",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

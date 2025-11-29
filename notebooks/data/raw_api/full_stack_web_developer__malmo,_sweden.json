@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "554aa239-7963-4357-9754-9176678c39bd",
+  "data": [
+    {
+      "location": "Lund, Sweden",
+      "job_title": "Full Stack Web Developer",
+      "min_salary": 37795.35,
+      "max_salary": 44863.11666666667,
+      "median_salary": 41329.23333333333,
+      "min_base_salary": 37000,
+      "max_base_salary": 44000,
+      "median_base_salary": 40500,
+      "min_additional_pay": 795.35,
+      "max_additional_pay": 863.1166666666667,
+      "median_additional_pay": 829.2333333333332,
+      "salary_period": "MONTH",
+      "salary_currency": "SEK",
+      "salary_count": 2,
+      "salaries_updated_at": "2022-01-02T12:29:35.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Full%20Stack%20Web%20Developer&locT=C&locId=3238054",
+      "confidence": "LOW"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "4a92f94a-b081-48e8-91c8-d4d998ffb2de",
+  "data": [
+    {
+      "location": "Lund, Sweden",
+      "job_title": "Software Engineer",
+      "min_salary": 41666.666666666664,
+      "max_salary": 54291.666666666664,
+      "median_salary": 47833.333333333336,
+      "min_base_salary": 40000,
+      "max_base_salary": 50125,
+      "median_base_salary": 45000,
+      "min_additional_pay": 1666.6666666666667,
+      "max_additional_pay": 4166.666666666667,
+      "median_additional_pay": 2833.3333333333335,
+      "salary_period": "MONTH",
+      "salary_currency": "SEK",
+      "salary_count": 384,
+      "salaries_updated_at": "2025-11-19T12:31:54.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Software%20Engineer&locT=C&locId=3238054",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

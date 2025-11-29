@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "57605672-1258-4b1b-94f0-ed83ccacad8a",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "Software Engineer",
+      "min_salary": 33346.5,
+      "max_salary": 58290,
+      "median_salary": 43200,
+      "min_base_salary": 31246.5,
+      "max_base_salary": 53775,
+      "median_base_salary": 40000,
+      "min_additional_pay": 2100,
+      "max_additional_pay": 4515,
+      "median_additional_pay": 3200,
+      "salary_period": "YEAR",
+      "salary_currency": "EUR",
+      "salary_count": 1504,
+      "salaries_updated_at": "2025-11-25T05:43:12.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Software%20Engineer&locT=C&locId=3192045",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

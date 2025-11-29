@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "56350f85-abd3-4a70-9d0f-39aa9277adf8",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "Mobile Developer",
+      "min_salary": 1491.6666666666667,
+      "max_salary": 3008.0833333333335,
+      "median_salary": 1875,
+      "min_base_salary": 1350,
+      "max_base_salary": 2000,
+      "median_base_salary": 1625,
+      "min_additional_pay": 141.66666666666666,
+      "max_additional_pay": 1008.0833333333334,
+      "median_additional_pay": 250,
+      "salary_period": "MONTH",
+      "salary_currency": "EUR",
+      "salary_count": 36,
+      "salaries_updated_at": "2025-10-01T16:31:32.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Mobile%20Developer&locT=C&locId=3192045",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

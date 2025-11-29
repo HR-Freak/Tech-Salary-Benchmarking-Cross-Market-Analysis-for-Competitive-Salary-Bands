@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "9132200f-165a-4401-85f8-d41459375f7f",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "Frontend Engineer",
+      "min_salary": 40479.75,
+      "max_salary": 57250,
+      "median_salary": 46000,
+      "min_base_salary": 39529.75,
+      "max_base_salary": 55000,
+      "median_base_salary": 45000,
+      "min_additional_pay": 950,
+      "max_additional_pay": 2250,
+      "median_additional_pay": 1000,
+      "salary_period": "YEAR",
+      "salary_currency": "EUR",
+      "salary_count": 52,
+      "salaries_updated_at": "2025-09-18T07:01:32.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Frontend%20Engineer&locT=C&locId=3192045",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

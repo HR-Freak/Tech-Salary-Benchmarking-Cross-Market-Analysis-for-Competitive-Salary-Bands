@@ -35,7 +35,9 @@ def save_raw(payload, filename):
 def fetch_role_location(role, location, years_experience=None, force_refresh=False):
     safe_role = role.lower().replace(" ", "_").replace("/", "_")
     safe_location = location.lower().replace(" ", "_").replace("/", "_")
-    filename = f"{safe_role}__{safe_location}.json"
+    years_tag = "na" if years_experience is None else str(years_experience)
+    filename = f"{safe_role}__{safe_location}__y{years_tag}.json"
+
     filepath = RAW_DIR / filename
 
     if filepath.exists() and not force_refresh:

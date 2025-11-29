@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "a4c19a50-259d-4820-9295-dc216fd5e081",
+  "data": [
+    {
+      "location": "Lund, Sweden",
+      "job_title": "Software Developer",
+      "min_salary": 35167.833333333336,
+      "max_salary": 55491.666666666664,
+      "median_salary": 43666.666666666664,
+      "min_base_salary": 34334.5,
+      "max_base_salary": 46000,
+      "median_base_salary": 40000,
+      "min_additional_pay": 833.3333333333334,
+      "max_additional_pay": 9491.666666666666,
+      "median_additional_pay": 3666.6666666666665,
+      "salary_period": "MONTH",
+      "salary_currency": "SEK",
+      "salary_count": 244,
+      "salaries_updated_at": "2025-11-05T11:28:12.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Software%20Developer&locT=C&locId=3238054",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "34db79b0-7195-477c-9e81-6453fef8e07b",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "UX Designer",
+      "min_salary": 1340,
+      "max_salary": 2660,
+      "median_salary": 1750,
+      "min_base_salary": 1240,
+      "max_base_salary": 2275,
+      "median_base_salary": 1500,
+      "min_additional_pay": 100,
+      "max_additional_pay": 385,
+      "median_additional_pay": 250,
+      "salary_period": "MONTH",
+      "salary_currency": "EUR",
+      "salary_count": 49,
+      "salaries_updated_at": "2025-09-25T05:51:19.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=UX%20Designer&locT=C&locId=3192045",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

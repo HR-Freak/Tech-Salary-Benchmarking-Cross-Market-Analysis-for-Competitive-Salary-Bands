@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "a8e70e62-7fca-4e0c-8044-2e42e965ea80",
+  "data": [
+    {
+      "location": "Lund, Sweden",
+      "job_title": "Product Designer",
+      "min_salary": 33333.333333333336,
+      "max_salary": 80166.66666666667,
+      "median_salary": 42500,
+      "min_base_salary": 32500,
+      "max_base_salary": 76000,
+      "median_base_salary": 40000,
+      "min_additional_pay": 833.3333333333334,
+      "max_additional_pay": 4166.666666666667,
+      "median_additional_pay": 2500,
+      "salary_period": "MONTH",
+      "salary_currency": "SEK",
+      "salary_count": 9,
+      "salaries_updated_at": "2025-10-13T02:58:02.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Product%20Designer&locT=C&locId=3238054",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

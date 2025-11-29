@@ -1,0 +1,23 @@
+{
+  "status": "OK",
+  "request_id": "d6a7bfb2-99cf-4b55-86b5-da9c5bfb1997",
+  "data": [
+    {
+      "location": "Lund, Sweden",
+      "job_title": "Full Stack Engineer",
+      "min_salary": 418690.8,
+      "max_salary": 460028.8,
+      "median_salary": 439359.8,
+      "min_base_salary": 418690.8,
+      "max_base_salary": 460028.8,
+      "median_base_salary": 439359.8,
+      "salary_period": "YEAR",
+      "salary_currency": "SEK",
+      "salary_count": 1,
+      "salaries_updated_at": "2024-02-14T13:23:02.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Full%20Stack%20Engineer&locT=C&locId=3238054",
+      "confidence": "LOW"
+    }
+  ]
+}

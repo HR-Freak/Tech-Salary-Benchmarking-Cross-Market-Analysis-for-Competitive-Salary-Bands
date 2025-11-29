@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "1a7b293c-d020-4744-b315-8105ee9a4a01",
+  "data": [
+    {
+      "location": "New York State",
+      "job_title": "Full Stack Web Developer",
+      "min_salary": 73025.18,
+      "max_salary": 124595.47,
+      "median_salary": 94927.37,
+      "min_base_salary": 59763.82,
+      "max_base_salary": 99840.92,
+      "median_base_salary": 77245.55,
+      "min_additional_pay": 13261.36,
+      "max_additional_pay": 24754.55,
+      "median_additional_pay": 17681.82,
+      "salary_period": "YEAR",
+      "salary_currency": "USD",
+      "salary_count": 291,
+      "salaries_updated_at": "2025-04-10T23:59:59.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Full%20Stack%20Web%20Developer&locT=S&locId=428",
+      "confidence": "CONFIDENT"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "d509318d-d8c8-4b21-ac93-95837e46f2a3",
+  "data": [
+    {
+      "location": "New York State",
+      "job_title": "Software Engineer",
+      "min_salary": 116489.5,
+      "max_salary": 193101.81,
+      "median_salary": 149025.89,
+      "min_base_salary": 90030.01,
+      "max_base_salary": 143710.76,
+      "median_base_salary": 113746.57,
+      "min_additional_pay": 26459.49,
+      "max_additional_pay": 49391.05,
+      "median_additional_pay": 35279.32,
+      "salary_period": "YEAR",
+      "salary_currency": "USD",
+      "salary_count": 56921,
+      "salaries_updated_at": "2025-04-10T23:59:59.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Software%20Engineer&locT=S&locId=428",
+      "confidence": "CONFIDENT"
+    }
+  ]
+}

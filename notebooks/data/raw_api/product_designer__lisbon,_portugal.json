@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "26602b88-4f4e-4c28-87b6-9bc190967971",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "Product Designer",
+      "min_salary": 29675,
+      "max_salary": 53000,
+      "median_salary": 39000,
+      "min_base_salary": 28000,
+      "max_base_salary": 48000,
+      "median_base_salary": 36000,
+      "min_additional_pay": 1675,
+      "max_additional_pay": 5000,
+      "median_additional_pay": 3000,
+      "salary_period": "YEAR",
+      "salary_currency": "EUR",
+      "salary_count": 122,
+      "salaries_updated_at": "2025-11-23T10:56:16.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Product%20Designer&locT=C&locId=3192045",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

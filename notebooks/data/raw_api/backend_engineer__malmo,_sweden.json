@@ -1,0 +1,23 @@
+{
+  "status": "OK",
+  "request_id": "9365c86a-bcbd-468d-b2a5-34ea27c5431a",
+  "data": [
+    {
+      "location": "Lund, Sweden",
+      "job_title": "Backend Engineer",
+      "min_salary": 43193.7,
+      "max_salary": 47242.8,
+      "median_salary": 45218.25,
+      "min_base_salary": 43193.7,
+      "max_base_salary": 47242.8,
+      "median_base_salary": 45218.25,
+      "salary_period": "MONTH",
+      "salary_currency": "SEK",
+      "salary_count": 1,
+      "salaries_updated_at": "2024-05-20T00:39:07.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Backend%20Engineer&locT=C&locId=3238054",
+      "confidence": "LOW"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "0dc4c726-9c37-4731-a03a-248f58060edb",
+  "data": [
+    {
+      "location": "New York State",
+      "job_title": "Product Designer",
+      "min_salary": 88017.39,
+      "max_salary": 152786.75,
+      "median_salary": 115349.36,
+      "min_base_salary": 69947.36,
+      "max_base_salary": 119056.03,
+      "median_base_salary": 91255.99,
+      "min_additional_pay": 18070.03,
+      "max_additional_pay": 33730.72,
+      "median_additional_pay": 24093.37,
+      "salary_period": "YEAR",
+      "salary_currency": "USD",
+      "salary_count": 2588,
+      "salaries_updated_at": "2025-04-10T23:59:59.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Product%20Designer&locT=S&locId=428",
+      "confidence": "CONFIDENT"
+    }
+  ]
+}

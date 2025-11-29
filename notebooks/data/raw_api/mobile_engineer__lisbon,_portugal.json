@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "344c3b09-d1c6-4d3a-826c-f5f44a767bc1",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "Mobile Engineer",
+      "min_salary": 49642.64,
+      "max_salary": 110312.16,
+      "median_salary": 62977.4,
+      "min_base_salary": 42000,
+      "max_base_salary": 102000,
+      "median_base_salary": 55000,
+      "min_additional_pay": 7642.64,
+      "max_additional_pay": 8312.16,
+      "median_additional_pay": 7977.4,
+      "salary_period": "YEAR",
+      "salary_currency": "EUR",
+      "salary_count": 3,
+      "salaries_updated_at": "2024-11-26T08:43:31.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Mobile%20Engineer&locT=C&locId=3192045",
+      "confidence": "LOW"
+    }
+  ]
+}
