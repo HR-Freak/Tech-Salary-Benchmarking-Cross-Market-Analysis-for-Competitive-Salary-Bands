@@ -1,0 +1,953 @@
+{
+  "status": "OK",
+  "request_id": "5a8be4de-a37c-416f-987f-7e60152ff51e",
+  "parameters": {
+    "query": "UX Designer salary in New York, NY",
+    "page": 1,
+    "num_pages": 1,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": [
+    {
+      "job_id": "nW8RAL7srFpKiLFTAAAAAA==",
+      "job_title": "Mid-Level UI/UX Designer (Contract)",
+      "employer_name": "Studio Haven",
+      "employer_logo": null,
+      "employer_website": "https://www.studiohaven.co",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Part-time and Contractor",
+      "job_employment_types": [
+        "PARTTIME",
+        "CONTRACTOR"
+      ],
+      "job_apply_link": "https://www.indeed.com/viewjob?jk=65f3614a783d4405&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=65f3614a783d4405&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/mid-level-ui-ux-designer-contract-studio-haven-JV_IC1132348_KO0,33_KE34,46.htm?jl=1009944430990&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Qureos",
+          "apply_link": "https://app.qureos.com/jobs/mid-level-uiux-designer-contract-1763632553659?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "EchoTalent",
+          "apply_link": "https://echotalent.net/jobs/58ffddffa3df311b/mid-level-girlsboys-designer-remote-35-40hr?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "About Studio Haven\n\nStudio Haven is a digital product design studio specializing in UI/UX design and innovation consulting for mission-driven tech startups, nonprofits, and small businesses. We are actively scaling from a solo practice and seeking essential hires to help us grow in 2026.\n\nJob overview\n\nWe are seeking a Mid-Level UI/UX Designer to join us on a contract basis.\n\nThe role begins with a specific pilot project: You will partner with the Owner to design the UX/UI for a new website. You will take existing copy and page structures (already defined) and translate them into a polished, responsive visual design ready for development on Semplice (WordPress).\n\nUpon successful collaboration on the website, this role will transition into more UI/UX work for 2026.\n\nHours and compensation\n• Contract Type: 1099 Independent Contractor\n• Hours: Flexible (approx. 10–25 hours/week depending on project phase)\n• Hourly Rate: $50–$55\n• Work Model: Hybrid (Must be located in NYC for occasional in-person collaboration).\n• Start Date: Immediate / January 2026\n\nKey responsibilities\n\n1. Immediate focus: website redesign\n• Translate established page structures and Google Doc copy into high-fidelity, responsive web designs.\n• Design with development in mind: Create layouts that are visually unique but compatible with the structural logic of Semplice / WordPress (you do not need to code, but must understand Semplice’s limitations).\n• Create assets, and prepare clean Figma and export assets for the developer.\n\n2. Ongoing projects\n• Translate user needs into functional, elegant interfaces for client web and mobile applications.\n• Execute end-to-end design flows: from wireframes to high-fidelity mockups.\n• Build interactive prototypes in Figma to communicate interactions to stakeholders.\n• Maintain design systems to ensure consistency across user journeys.\n\nRequired skills & qualifications\n• Portfolio: Must showcase both strong marketing web design (portfolios, agency sites) and functional product design (dashboards, apps).\n• Figma Mastery: Non-negotiable (Auto Layout, Components, Prototyping).\n• Web Fundamentals: Strong understanding of grid systems, responsive breakpoints, and how design translates to CMS platforms like Squarespace, WordPress/Semplice.\n• Experience: 3–5 years professional experience.\n• Communication: Ability to articulate design decisions clearly and work collaboratively with the Owner.\n\nValues & culture\n• Strong desire to work on mission-driven projects for non-profits and startups.\n• Proactive: You take initiative to manage tasks and anticipate needs.\n• Adaptable: Comfortable pivoting between branding/web design and deep UX product work.\n\nTo apply\n\nPlease submit your application: https://form.typeform.com/to/KINvI6Eb\n\nPay: $50.00 - $55.00 per hour\n\nExpected hours: 10.0 – 25.0 per week\n\nWork Location: Remote",
+      "job_is_remote": false,
+      "job_posted_at": "4 days ago",
+      "job_posted_at_timestamp": 1763510400,
+      "job_posted_at_datetime_utc": "2025-11-19T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnW8RAL7srFpKiLFTAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 50,
+      "job_max_salary": 55,
+      "job_salary_period": "HOUR",
+      "job_highlights": {
+        "Qualifications": [
+          "Portfolio: Must showcase both strong marketing web design (portfolios, agency sites) and functional product design (dashboards, apps)",
+          "Figma Mastery: Non-negotiable (Auto Layout, Components, Prototyping)",
+          "Web Fundamentals: Strong understanding of grid systems, responsive breakpoints, and how design translates to CMS platforms like Squarespace, WordPress/Semplice",
+          "Experience: 3–5 years professional experience",
+          "Communication: Ability to articulate design decisions clearly and work collaboratively with the Owner",
+          "Strong desire to work on mission-driven projects for non-profits and startups",
+          "Proactive: You take initiative to manage tasks and anticipate needs",
+          "Adaptable: Comfortable pivoting between branding/web design and deep UX product work"
+        ],
+        "Benefits": [
+          "Contract Type: 1099 Independent Contractor",
+          "Hourly Rate: $50–$55",
+          "Pay: $50.00 - $55.00 per hour",
+          "Expected hours: 10.0 – 25.0 per week"
+        ],
+        "Responsibilities": [
+          "The role begins with a specific pilot project: You will partner with the Owner to design the UX/UI for a new website",
+          "You will take existing copy and page structures (already defined) and translate them into a polished, responsive visual design ready for development on Semplice (WordPress)",
+          "Upon successful collaboration on the website, this role will transition into more UI/UX work for 2026",
+          "Hours: Flexible (approx",
+          "10–25 hours/week depending on project phase)",
+          "Work Model: Hybrid (Must be located in NYC for occasional in-person collaboration)",
+          "Start Date: Immediate / January 2026",
+          "Immediate focus: website redesign",
+          "Translate established page structures and Google Doc copy into high-fidelity, responsive web designs",
+          "Design with development in mind: Create layouts that are visually unique but compatible with the structural logic of Semplice / WordPress (you do not need to code, but must understand Semplice’s limitations)",
+          "Create assets, and prepare clean Figma and export assets for the developer",
+          "Ongoing projects",
+          "Translate user needs into functional, elegant interfaces for client web and mobile applications",
+          "Execute end-to-end design flows: from wireframes to high-fidelity mockups",
+          "Build interactive prototypes in Figma to communicate interactions to stakeholders",
+          "Maintain design systems to ensure consistency across user journeys"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "IabBYkWqOIxdCn55AAAAAA==",
+      "job_title": "Staff UX Designer, Ads Privacy and Safety",
+      "employer_name": "Google",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRldVK5BvQ9SiezY-SWdG7abFs0rxkg8Wko1O8D&s=0",
+      "employer_website": null,
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.glassdoor.com/job-listing/staff-ux-designer-ads-privacy-and-safety-google-JV_IC1132348_KO0,40_KE41,47.htm?jl=1009941645105&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/staff-ux-designer-ads-privacy-and-safety-google-JV_IC1132348_KO0,40_KE41,47.htm?jl=1009941645105&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/staff-ux-designer-ads-privacy-and-safety-at-google-4322758883?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=a776da20ca9115e8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LocalJobs.com",
+          "apply_link": "https://www.localjobs.com/job/new-york-ny-staff-ux-designer-ads-privacy-and-safety?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Google/Job/Staff-UX-Designer,-Ads-Privacy-and-Safety/-in-New-York,NY?jid=1c9c9ef329c5530b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/staff-ux-designer-ads-privacy-and-safety-google-new-york-ny_84479481?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "AnitaB.org Job Board",
+          "apply_link": "https://jobs.anitab.org/companies/google-24698/jobs/62232736-staff-ux-designer-ads-privacy-and-safety?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ITJobsWeb.com",
+          "apply_link": "https://www.itjobsweb.com/job/staff-ux-designer-ads-privacy-and-safety/81231089/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Note: By applying to this position you will have an opportunity to share your preferred working location from the following: New York, NY, USA; Seattle, WA, USA.\nMinimum qualifications:\n• Bachelor's degree or equivalent practical experience.\n• 8 years of experience in product design or UX.\n• Include a portfolio, website, or any other relevant link to your work in your resume (providing a viewable link or access instructions).\n\nPreferred qualifications:\n• 12 years of experience in product design or UX.\n• 5 years of experience working in a complex, cross-functional organization.\n• 4 years of experience leading design projects.\n• Experience working in user trust areas with regulation.\n• Understanding of the regulatory landscape.\n\nAbout the job\n\nAt Google, we follow a simple but vital premise: \"Focus on the user and all else will follow.\" Google’s Interaction Designers take complex tasks and make them intuitive and easy-to-use for billions of people around the globe. Throughout the design process—from creating user flows and wireframes to building user interface mockups and prototypes—you’ll envision how people will experience our products, and bring that vision to life in a way that feels inspired, refined, and even magical.\n\nGoogle User Experience (UX) is made up of multi-disciplinary teams of UX Designers, Researchers, Writers, Content Strategists, Program Managers, and Engineers: we care deeply about the people who use our products. The UX team plays an integral part in gathering insights about the attitudes, emotions, and behaviors of people who use our products to inspire and inform design. We collaborate closely with each other and with engineering and product management to create industry-leading products that deliver value for the people who use them, and for Google’s businesses.\n\nIn this role, you will rely on user-centered design methods to craft industry-leading user experiences from concept to execution. You will collaborate with design partners to leverage and evolve the Google design language to build innovative, inspired products. You will evaluate potential paths in reaction to economic, regulatory, technological and user expectation shifts.\n\nIn Google Search, we're reimagining what it means to search for information – any way and anywhere. To do that, we need to solve complex engineering challenges and expand our infrastructure, while maintaining a universally accessible and useful experience that people around the world rely on. In joining the Search team, you'll have an opportunity to make an impact on billions of people globally.\n\nThe US base salary range for this full-time position is $178,000-$265,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.\n\nResponsibilities\n• Partner with Product Manager, Trust and Safety, Government Affairs and Public Policy (GAPP) and other UXers to understand themes and requirements across regulations and our policy responses to identify the impact positive and negative on users, consumers, advertisers and publishers.\n• Collaborate with Product Manager, UX, Engineer, Legal, Policy and other stakeholders across Google to develop innovative early stage product and policy concepts that address these impacts.\n• Translate research insights into user, product and policy requirements.\n• Demonstrate user and ecosystem impacts via user journeys, swimlanes, causal loops, mockups, prototypes, storyboards, and story telling.\n• Set the standard for UX design practice not only as a means to delivering solutions, but as a way of deepening understanding and driving strategic conversations in a complex problem space.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+      "job_is_remote": false,
+      "job_posted_at": "7 days ago",
+      "job_posted_at_timestamp": 1763251200,
+      "job_posted_at_datetime_utc": "2025-11-16T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIabBYkWqOIxdCn55AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 178000,
+      "job_max_salary": 265000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor's degree or equivalent practical experience",
+          "8 years of experience in product design or UX",
+          "Include a portfolio, website, or any other relevant link to your work in your resume (providing a viewable link or access instructions)"
+        ],
+        "Benefits": [
+          "The US base salary range for this full-time position is $178,000-$265,000 + bonus + equity + benefits",
+          "Our salary ranges are determined by role, level, and location",
+          "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training",
+          "Your recruiter can share more about the specific salary range for your preferred location during the hiring process"
+        ],
+        "Responsibilities": [
+          "In this role, you will rely on user-centered design methods to craft industry-leading user experiences from concept to execution",
+          "You will collaborate with design partners to leverage and evolve the Google design language to build innovative, inspired products",
+          "You will evaluate potential paths in reaction to economic, regulatory, technological and user expectation shifts",
+          "Partner with Product Manager, Trust and Safety, Government Affairs and Public Policy (GAPP) and other UXers to understand themes and requirements across regulations and our policy responses to identify the impact positive and negative on users, consumers, advertisers and publishers",
+          "Collaborate with Product Manager, UX, Engineer, Legal, Policy and other stakeholders across Google to develop innovative early stage product and policy concepts that address these impacts",
+          "Translate research insights into user, product and policy requirements",
+          "Demonstrate user and ecosystem impacts via user journeys, swimlanes, causal loops, mockups, prototypes, storyboards, and story telling",
+          "Set the standard for UX design practice not only as a means to delivering solutions, but as a way of deepening understanding and driving strategic conversations in a complex problem space"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "w9WqYXUSAEEU8KrmAAAAAA==",
+      "job_title": "Sr UX Designer - New York",
+      "employer_name": "Photon",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ziRfcizR3wC4vCNyiWt0Rucnw13jOJaFouQJ&s=0",
+      "employer_website": "https://www.photon.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.indeed.com/viewjob?jk=9d9ceb4a40926e1f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=9d9ceb4a40926e1f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/sr-ux-designer-new-york-photon-JV_IC1132348_KO0,23_KE24,30.htm?jl=1009872653918&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/LzjUKiNB-BP41LPfA0zH1Oe7MKCXC-k5GNHplz2nGvU9DnvKeItzUA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Bandana.com",
+          "apply_link": "https://bandana.com/jobs/7632cd60-cbb7-416a-bd8b-81be2d556ec6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobrapido",
+          "apply_link": "https://us.jobrapido.com/jobpreview/900545122452635648?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "• Minimum 8+ years of relevant design experience\n• Strong portfolio that demonstrates an expert capability in design principles and solutions\n• Extensive experience with visual design, principles of UI design, layouts, graphics development, typography, color, and visual theories\n• Extensive experience in user experience disciplines such as UX architecture, research, usability, and content strategies\n• Proficient in tool like Figma, Sketch and Adobe XD\n• Experience working with cross-functional teams\n• Trained and experienced in digital design, web, and mobile development in an enterprise environment\n• Experience designing with mobile layouts in mind\n• Experience designing enterprise applications\n• Good to have experience in financial domain\n• Good to have experience in data heavy organizations\n• Good to have experience in UX for AI\n• Capable of understanding and articulating technical feasibility of solutions\n• Capable of communicating with technical developers to transfer design to deliverables\n• Self motivated and individual contributor\n\nCompensation, Benefits and Duration\n\nMinimum Compensation: USD 47,000\nMaximum Compensation: USD 165,000\nCompensation is based on actual experience and qualifications of the candidate. The above is a reasonable and a good faith estimate for the role.\nMedical, vision, and dental benefits, 401k retirement plan, variable pay/incentives, paid time off, and paid holidays are available for full time employees.\nThis position is not available for independent contractors\nNo applications will be considered if received more than 120 days after the date of this post",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "dental_coverage",
+        "paid_time_off",
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dw9WqYXUSAEEU8KrmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 47000,
+      "job_max_salary": 165000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "Minimum 8+ years of relevant design experience",
+          "Strong portfolio that demonstrates an expert capability in design principles and solutions",
+          "Extensive experience with visual design, principles of UI design, layouts, graphics development, typography, color, and visual theories",
+          "Extensive experience in user experience disciplines such as UX architecture, research, usability, and content strategies",
+          "Proficient in tool like Figma, Sketch and Adobe XD",
+          "Experience working with cross-functional teams",
+          "Trained and experienced in digital design, web, and mobile development in an enterprise environment",
+          "Experience designing with mobile layouts in mind",
+          "Experience designing enterprise applications",
+          "Good to have experience in financial domain",
+          "Good to have experience in data heavy organizations",
+          "Good to have experience in UX for AI",
+          "Capable of understanding and articulating technical feasibility of solutions",
+          "Capable of communicating with technical developers to transfer design to deliverables",
+          "Self motivated and individual contributor"
+        ],
+        "Benefits": [
+          "Compensation, Benefits and Duration",
+          "Minimum Compensation: USD 47,000",
+          "Maximum Compensation: USD 165,000",
+          "Compensation is based on actual experience and qualifications of the candidate",
+          "The above is a reasonable and a good faith estimate for the role",
+          "Medical, vision, and dental benefits, 401k retirement plan, variable pay/incentives, paid time off, and paid holidays are available for full time employees"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "oWC5DquqJzY5jGMpAAAAAA==",
+      "job_title": "Staff Product Designer / UX & UI",
+      "employer_name": "FoundersCard",
+      "employer_logo": null,
+      "employer_website": "https://founderscard.com",
+      "job_publisher": "ZipRecruiter",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.ziprecruiter.com/c/FoundersCard/Job/Staff-Product-Designer-(UX-UI)/-in-New-York,NY?jid=bf1823d968fd61e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/FoundersCard/Job/Staff-Product-Designer-(UX-UI)/-in-New-York,NY?jid=bf1823d968fd61e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=70b7bc914eefac69&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/staff-product-designer-ux-ui-at-founderscard-4338510183?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/-200721366492971922?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/staff-product-designer-ux-and-ui-founderscard-JV_IC1132348_KO0,32_KE33,45.htm?jl=1009920044576&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "GrabJobs",
+          "apply_link": "https://grabjobs.co/us/job/full-time/others/staff-product-designer-ux-and-ui-150632921?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobrapido",
+          "apply_link": "https://us.jobrapido.com/jobpreview/7626133229866582016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Jobs.weekday.works",
+          "apply_link": "https://jobs.weekday.works/founderscard-staff-product-designer-%2F-ux-%26-ui-avih?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Join us on our mission to empower entrepreneurs to access more, travel better and grow faster.\n\nFoundersCard is the membership for ambitious entrepreneurs and leaders who value access, privileges and community. For entrepreneurs and leaders seeking both tangible rewards and a meaningful network, FoundersCard combines high-value benefits with a community that empowers members to access more, travel better, and connect with the people and ideas that elevate their success.\n\nWe’re entering an exciting new chapter of growth and innovation, and design is at the heart of it. As our Staff Product Designer (UX / UI), you will help reimagine the FoundersCard digital experience across web and mobile app. This is a high-impact role where you’ll lead end-to-end product design (UX & UI), user research, UX writing, and experimentation across our platform.\n\nIf you’re a hands-on design leader who thrives at the intersection of craft, strategy, and innovation and you want to help shape the future of a premium lifestyle + business brand - we should talk!\n\nWhat you'll do:\n- Own and elevate the FoundersCard experience. Lead design across our core product surfaces (web, mobile, member dashboard), refining UX and UI to deliver a seamless, premium experience that aligns with our premium brand.\n- Lead with craft and clarity. Design intuitive, elegant user flows using modern design tools. Deliver thoughtful interaction models and polished visual design. Work closely with engineers and other stakeholders to ensure a high-quality implementation\n- Drive user-centered innovation. Conduct generative and evaluative research (including user interviews, usability testing, and behavioral analysis) to deeply understand member needs, behaviors, and pain points.\n- Uplevel the entire experience. Rethink navigation, benefit discovery, personalization, onboarding, and renewal flows using data and direct feedback from our members.\n- Build a design system. Standardize components, patterns, and guidelines across platforms while advocating for simplicity, accessibility, and scalability.\n- Prototype with the future in mind. Explore AI-driven interfaces, personalization strategies, and lightweight ML-enhanced tools to enrich the member experience.\n- Partner closely with product, engineering, and marketing. Collaborate on product strategy, frequent growth experiments, and lifecycle initiatives. Be a key voice in defining our product roadmap.\n- Champion design culture. Lead critiques, mentor junior designers (incl contractors), and foster cross-functional understanding of what great design can do.\n\nWhat we're looking for:\n- 6+ years of product design experience (UX & UI), with some focus on premium consumer-facing (B2C) experiences\n- A strong portfolio that showcases exceptional interaction design, UX research, and visual polish\n- Demonstrated ability to conduct, synthesize, and apply user research—both qualitative and quantitative\n- Experience with personalization, segmentation, or lifecycle UX is a strong plus\n- Ability to play senior and junior roles - you'll both work on brand and visual identity as well as execute designs at pace\n- Bias for speed - we are small and nimble. We can do in days what takes most teams weeks.\n- A modern design toolkit and fluency in prototyping techniques, including with AI tools\n- Understanding of front-end technologies (HTML/CSS/JavaScript/React) is a bonus\n- An entrepreneurial mindset—you can operate independently, prioritize effectively, and make high-quality decisions with limited structure\n\nWhat's in it for you:\n- A pivotal role in redefining a premium product experience for 250K+ paying members\n- The opportunity to drive product-led growth through design\n- A high-impact role in a lean, profitable, founder-led company with real momentum\n- Opportunity to build a small team as we scale\n- Competitive compensation: $200K-240k base salary plus bonus, 401k and comprehensive benefits\n- Free lunch, snacks and gym at the brand new office at 57th and Madison\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
+      "job_is_remote": false,
+      "job_posted_at": "27 days ago",
+      "job_posted_at_timestamp": 1761523200,
+      "job_posted_at_datetime_utc": "2025-10-27T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoWC5DquqJzY5jGMpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 200000,
+      "job_max_salary": 240000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "6+ years of product design experience (UX & UI), with some focus on premium consumer-facing (B2C) experiences",
+          "A strong portfolio that showcases exceptional interaction design, UX research, and visual polish",
+          "Demonstrated ability to conduct, synthesize, and apply user research—both qualitative and quantitative",
+          "Experience with personalization, segmentation, or lifecycle UX is a strong plus",
+          "Ability to play senior and junior roles - you'll both work on brand and visual identity as well as execute designs at pace",
+          "Bias for speed - we are small and nimble",
+          "A modern design toolkit and fluency in prototyping techniques, including with AI tools",
+          "Understanding of front-end technologies (HTML/CSS/JavaScript/React) is a bonus",
+          "An entrepreneurial mindset—you can operate independently, prioritize effectively, and make high-quality decisions with limited structure"
+        ],
+        "Benefits": [
+          "A pivotal role in redefining a premium product experience for 250K+ paying members",
+          "The opportunity to drive product-led growth through design",
+          "A high-impact role in a lean, profitable, founder-led company with real momentum",
+          "Opportunity to build a small team as we scale",
+          "Competitive compensation: $200K-240k base salary plus bonus, 401k and comprehensive benefits",
+          "Free lunch, snacks and gym at the brand new office at 57th and Madison"
+        ],
+        "Responsibilities": [
+          "Own and elevate the FoundersCard experience",
+          "Lead design across our core product surfaces (web, mobile, member dashboard), refining UX and UI to deliver a seamless, premium experience that aligns with our premium brand",
+          "Lead with craft and clarity",
+          "Design intuitive, elegant user flows using modern design tools",
+          "Deliver thoughtful interaction models and polished visual design",
+          "Work closely with engineers and other stakeholders to ensure a high-quality implementation",
+          "Drive user-centered innovation",
+          "Conduct generative and evaluative research (including user interviews, usability testing, and behavioral analysis) to deeply understand member needs, behaviors, and pain points",
+          "Uplevel the entire experience",
+          "Rethink navigation, benefit discovery, personalization, onboarding, and renewal flows using data and direct feedback from our members",
+          "Build a design system",
+          "Standardize components, patterns, and guidelines across platforms while advocating for simplicity, accessibility, and scalability",
+          "Explore AI-driven interfaces, personalization strategies, and lightweight ML-enhanced tools to enrich the member experience",
+          "Partner closely with product, engineering, and marketing",
+          "Collaborate on product strategy, frequent growth experiments, and lifecycle initiatives",
+          "Be a key voice in defining our product roadmap",
+          "Champion design culture",
+          "Lead critiques, mentor junior designers (incl contractors), and foster cross-functional understanding of what great design can do"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "uRBWUc6ougl-K4koAAAAAA==",
+      "job_title": "Lead UI/UX Designer — Global Digital Experiences Job at SAP SE in New York",
+      "employer_name": "SAP SE",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYWXThCbdXsacCgM1_-Avv4JuSQIqH6CKl2PG&s=0",
+      "employer_website": null,
+      "job_publisher": "Media Bistro",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.mediabistro.com/jobs/1822509480-lead-ui-ux-designer-global-digital-experiences-job-at-sap-se-in-new-york?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Media Bistro",
+          "apply_link": "https://www.mediabistro.com/jobs/1822509480-lead-ui-ux-designer-global-digital-experiences-job-at-sap-se-in-new-york?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "A leading enterprise software company in New York is seeking an experienced UI/UX designer to lead user experience design activities. In this role, you will guide the design process from strategy to implementation, collaborate with teams, and focus on impactful design methodologies. The ideal candidate has over 5 years of UX design experience, excellent communication skills, and a passion for creative problem-solving. This position offers a competitive salary range and a collaborative working environment.\n#J-18808-Ljbffr",
+      "job_is_remote": false,
+      "job_posted_at": "2 days ago",
+      "job_posted_at_timestamp": 1763683200,
+      "job_posted_at_datetime_utc": "2025-11-21T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuRBWUc6ougl-K4koAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "The ideal candidate has over 5 years of UX design experience, excellent communication skills, and a passion for creative problem-solving"
+        ],
+        "Benefits": [
+          "This position offers a competitive salary range and a collaborative working environment"
+        ],
+        "Responsibilities": [
+          "In this role, you will guide the design process from strategy to implementation, collaborate with teams, and focus on impactful design methodologies"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "hXOCez1jYjKxoC2GAAAAAA==",
+      "job_title": "Staff UX Writer and Content Designer, Search",
+      "employer_name": "Google",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRldVK5BvQ9SiezY-SWdG7abFs0rxkg8Wko1O8D&s=0",
+      "employer_website": null,
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.glassdoor.com/job-listing/staff-ux-writer-and-content-designer-search-google-JV_IC1132348_KO0,43_KE44,50.htm?jl=1009944138254&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/staff-ux-writer-and-content-designer-search-google-JV_IC1132348_KO0,43_KE44,50.htm?jl=1009944138254&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/staff-ux-writer-and-content-designer-search-at-google-4323245274?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=075d27c6e6e0d960&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Experteer.nl",
+          "apply_link": "https://www.experteer.nl/career/view-jobs/staff-ux-writer-and-content-designer-search-new-york-ny-usa-54967938?signup_hook=lo_job_title&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Google/Job/Staff-UX-Writer-and-Content-Designer,-Search/-in-New-York,NY?jid=09f1a4fd06f9b741&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/staff-ux-writer-and-content-designer-search-google-new-york-ny_82339839?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Experteer",
+          "apply_link": "https://us.experteer.com/career/view-jobs/staff-ux-writer-and-content-designer-search-new-york-ny-usa-54967938?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SpaceTalent Job Board",
+          "apply_link": "https://jobs.spacetalent.org/companies/fitbit/jobs/62330193-staff-ux-writer-and-content-designer-search?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA.\nMinimum qualifications:\n• Bachelor's degree or equivalent practical experience.\n• 8 years of experience in UX writing, content design, technical writing, writing, editorial, marketing, or related, as well as leading content strategy projects.\n• Include a portfolio, website, or any other relevant link to your work in your resume (providing a viewable link or access instructions).\n\nPreferred qualifications:\n• 8 years of experience in writing, editorial, marketing, or UX writing in an agency setting.\n• 7 years of experience interacting with executive leadership.\n• 5 years of experience working in a complex, cross-functional technology organization.\n\nAbout the job\n\nAs a UX writer, you are an advocate for Google design, shaping product experiences by creating useful, meaningful text that helps users complete tasks. You help set the vision for content and drive cohesive product narratives across multiple platforms and touch points. As a stellar writer, your portfolio of work demonstrates content that simplifies and beautifies the overall user experience. You work with people in a variety of UX design-related jobs including researchers, product managers, engineers, marketing and customer operations. Collaborating with each, you strive to establish cohesive language and a unified voice across products and platforms. You regularly use empathy, logic and data to inform content choices and recommendations that include the right words and sometimes complementary data and images.\n\nIn this role, you will help pioneer what's next for Search by shaping clear, reliable, and high-quality experiences. You will lead a team focused on genAI content safety, developing and implementing innovative content strategies, patterns, and model training methods for some of Search’s most sensitive use cases.\n\nYou will blend design thinking, editorial expertise, and content strategy with data analysis and additional skills like prompt engineering and rubric development.\n\nIn Google Search, we're reimagining what it means to search for information – any way and anywhere. To do that, we need to solve complex engineering challenges and expand our infrastructure, while maintaining a universally accessible and useful experience that people around the world rely on. In joining the Search team, you'll have an opportunity to make an impact on billions of people globally.\n\nThe US base salary range for this full-time position is $165,000-$245,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.\n\nResponsibilities\n• Understand and advocate for all User Experience (UX) functions as essential to the product life-cycle.\n• Drive the development of innovative UX writing and content design solutions to user, product, and business problems.\n• Build alignment by collaborating with product managers, team members, and other cross-functional stakeholders (e.g., marketing, legal, engineering) to develop a product narrative, goal, mission, or principles.\n• Lead the establishment and improvement of holistic UX writing and content design processes, systems, frameworks or patterns across multiple teams or products.\n• Influence the development of priorities across projects to balance tactical and efforts in alignment with larger project goals.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+      "job_is_remote": false,
+      "job_posted_at": "5 days ago",
+      "job_posted_at_timestamp": 1763424000,
+      "job_posted_at_datetime_utc": "2025-11-18T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhXOCez1jYjKxoC2GAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 165000,
+      "job_max_salary": 245000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor's degree or equivalent practical experience",
+          "8 years of experience in UX writing, content design, technical writing, writing, editorial, marketing, or related, as well as leading content strategy projects",
+          "Include a portfolio, website, or any other relevant link to your work in your resume (providing a viewable link or access instructions)"
+        ],
+        "Benefits": [
+          "The US base salary range for this full-time position is $165,000-$245,000 + bonus + equity + benefits",
+          "Our salary ranges are determined by role, level, and location",
+          "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training",
+          "Your recruiter can share more about the specific salary range for your preferred location during the hiring process"
+        ],
+        "Responsibilities": [
+          "As a UX writer, you are an advocate for Google design, shaping product experiences by creating useful, meaningful text that helps users complete tasks",
+          "You help set the vision for content and drive cohesive product narratives across multiple platforms and touch points",
+          "As a stellar writer, your portfolio of work demonstrates content that simplifies and beautifies the overall user experience",
+          "You work with people in a variety of UX design-related jobs including researchers, product managers, engineers, marketing and customer operations",
+          "Collaborating with each, you strive to establish cohesive language and a unified voice across products and platforms",
+          "You regularly use empathy, logic and data to inform content choices and recommendations that include the right words and sometimes complementary data and images",
+          "In this role, you will help pioneer what's next for Search by shaping clear, reliable, and high-quality experiences",
+          "You will lead a team focused on genAI content safety, developing and implementing innovative content strategies, patterns, and model training methods for some of Search’s most sensitive use cases",
+          "You will blend design thinking, editorial expertise, and content strategy with data analysis and additional skills like prompt engineering and rubric development",
+          "Understand and advocate for all User Experience (UX) functions as essential to the product life-cycle",
+          "Drive the development of innovative UX writing and content design solutions to user, product, and business problems",
+          "Build alignment by collaborating with product managers, team members, and other cross-functional stakeholders (e.g., marketing, legal, engineering) to develop a product narrative, goal, mission, or principles",
+          "Lead the establishment and improvement of holistic UX writing and content design processes, systems, frameworks or patterns across multiple teams or products",
+          "Influence the development of priorities across projects to balance tactical and efforts in alignment with larger project goals"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "pbfA3V2r_TAx46_qAAAAAA==",
+      "job_title": "Senior UX Designer - Strategy & Systems",
+      "employer_name": "CoCreativ",
+      "employer_logo": null,
+      "employer_website": "https://www.cocreativ.co",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.indeed.com/viewjob?jk=e466d4c95f463992&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=e466d4c95f463992&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/CoCreativ/Job/Senior-UX-Designer-Strategy-&-Systems/-in-New-York,NY?jid=35f10dd544ef2bec&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Built In NYC",
+          "apply_link": "https://www.builtinnyc.com/job/senior-ux-designer-strategy-systems/6933602?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/senior-ux-designer-strategy-systems/6933602?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/6Iz1hoJP6qoah7ewLdgowXSMhNS22lcc9Ng9XahMTsE4lAY-FPsPlg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/-638618262284004778?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Monster",
+          "apply_link": "https://www.monster.com/job-openings/senior-ux-designer-strategy-systems-new-york-ny--ff9372a2-7865-4574-a1c8-579d0cb651af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Experteer",
+          "apply_link": "https://us.experteer.com/career/view-jobs/senior-ux-designer-strategy-and-systems-new-york-ny-usa-53091719?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About Us\n\nGlobaledit, a division of CoCreativ, is the leading provider of a powerful SaaS platform that optimizes and accelerates creative production. We are Private Equity-backed, based in New York City & Los Angeles with a well-established client base. Our Clients include leading fashion brands, retailers, and entertainment companies. This role is a hybrid position based onsite in our offices in Tribeca 3 days per week.\n\nJob Description\n\nGlobaledit is undergoing a transformation from a trusted digital asset management platform into the central creative operations hub for modern e-commerce teams. To bring this vision to life, we’re looking for a Senior UX Designer who can lead our upstream UX strategy and conceptual thinking.\n\nYou’ll take ownership of understanding our customers’ goals, pain points, and workflows, and translate those into elegant, modular user experiences. While our existing product designer focuses on visual design and polish within our design system, your superpower is making sense of complexity - mapping flows, designing interfaces that scale, and testing ideas before we build.\n\nThis is a hands-on, high-impact role for someone who’s energized by systems thinking, user research, and early-stage concepting.\n\nResponsibilities\n• Own and drive the early phases of UX design: research, problem definition, user journeys, wireframes, and rapid prototyping.\n• Translate customer pain points and business objectives into testable UX flows and system-level interaction models.\n• Lead structured discovery processes—whether through user interviews, analytics, customer feedback, or collaborative workshops.\n• Explore and validate modular UX approaches that allow teams to build workflows across connected platforms.\n• Partner closely with product, engineering, and visual design to ensure your concepts are grounded in technical feasibility and business value.\n• Help evolve our design system’s structure to support more dynamic, customizable, and extensible workflows.\n• Mentor and pair with our current designer on upstream UX and research best practices.\n\nRequirements\n\nExperience\n• 7+ years of experience in UX or product design, preferably within B2B SaaS or platform-centric tools.\n• Deep experience working on complex systems with multiple user roles, workflows, or integrations.\n• A portfolio that showcases systems thinking, UX strategy, and concept work (not just polished UI).\n• Experience leading user research and synthesis, and translating findings into usable, testable frameworks.\n• Proficiency with Figma and common prototyping tools.\n• Strong collaboration and communication skills—you know how to tell a compelling product story.\n• High comfort level operating in ambiguous, evolving product environments.\n\nNice to Have\n• Experience working on creative, media, or e-commerce tools.\n• Familiarity with DAM, PIM, CMS, or workflow orchestration platforms.\n• Exposure to AI-powered design or content workflows.\n• Background in service design or modular interface design.\n\nBenefits\n\nThe anticipated salary range for this role is $150,000 - $175,000 annually. Ranges are based on various factors including the labor market, job type, internal equity, and budget. Exact offers are calibrated by work location, individual candidate experience, and skills relative to the defined job requirements.\n\nThis is a hybrid role with several days per week onsite in our studios in Tribeca and requires flexibility to work in-office and remotely.\n\nWe offer a competitive benefits package including major medical, dental and vision insurance, FSA, HSA, and employee discounts.\n\nIndustrial Color is a division of CoCreativ, a family of integrated creative production companies. Industrial Color partners with top brands, agencies, and creative professionals providing a full range of essential production services. For over 30 years, we've led the industry through a culture of innovation, bringing state-of-the-art digital production and post-production solutions to our clients.\n\nOur headquarters is based in Tribeca, NY, with offices in Los Angeles and studios in Brooklyn and Los Angeles. Our clients include: L'Oreal, Publicis, Procter & Gamble, Tommy Hilfiger, Absolut Vodka, Nike, Estee Lauder, Amazon.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpbfA3V2r_TAx46_qAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 150000,
+      "job_max_salary": 175000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "This is a hands-on, high-impact role for someone who’s energized by systems thinking, user research, and early-stage concepting",
+          "7+ years of experience in UX or product design, preferably within B2B SaaS or platform-centric tools",
+          "Deep experience working on complex systems with multiple user roles, workflows, or integrations",
+          "A portfolio that showcases systems thinking, UX strategy, and concept work (not just polished UI)",
+          "Experience leading user research and synthesis, and translating findings into usable, testable frameworks",
+          "Proficiency with Figma and common prototyping tools",
+          "Strong collaboration and communication skills—you know how to tell a compelling product story",
+          "High comfort level operating in ambiguous, evolving product environments",
+          "Experience working on creative, media, or e-commerce tools",
+          "Familiarity with DAM, PIM, CMS, or workflow orchestration platforms",
+          "Exposure to AI-powered design or content workflows",
+          "Background in service design or modular interface design"
+        ],
+        "Benefits": [
+          "The anticipated salary range for this role is $150,000 - $175,000 annually",
+          "We offer a competitive benefits package including major medical, dental and vision insurance, FSA, HSA, and employee discounts"
+        ],
+        "Responsibilities": [
+          "You’ll take ownership of understanding our customers’ goals, pain points, and workflows, and translate those into elegant, modular user experiences",
+          "While our existing product designer focuses on visual design and polish within our design system, your superpower is making sense of complexity - mapping flows, designing interfaces that scale, and testing ideas before we build",
+          "Own and drive the early phases of UX design: research, problem definition, user journeys, wireframes, and rapid prototyping",
+          "Translate customer pain points and business objectives into testable UX flows and system-level interaction models",
+          "Lead structured discovery processes—whether through user interviews, analytics, customer feedback, or collaborative workshops",
+          "Explore and validate modular UX approaches that allow teams to build workflows across connected platforms",
+          "Partner closely with product, engineering, and visual design to ensure your concepts are grounded in technical feasibility and business value",
+          "Help evolve our design system’s structure to support more dynamic, customizable, and extensible workflows",
+          "Mentor and pair with our current designer on upstream UX and research best practices"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "m11vnxsV4aya4dcUAAAAAA==",
+      "job_title": "Staff Product Designer (UX & UI)",
+      "employer_name": "FoundersCard",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpr8gT3bxbR9nolPwdBFmycNusaFQhC7W5D8N&s=0",
+      "employer_website": "https://founderscard.com",
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.linkedin.com/jobs/view/staff-product-designer-ux-ui-at-founderscard-4332830879?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/staff-product-designer-ux-ui-at-founderscard-4332830879?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Join us on our mission to empower entrepreneurs to access more, travel better and grow faster.\n\nFoundersCard is the membership for ambitious entrepreneurs and leaders who value access, privileges and community. For entrepreneurs and leaders seeking both tangible rewards and a meaningful network, FoundersCard combines high-value benefits with a community that empowers members to access more, travel better, and connect with the people and ideas that elevate their success.\n\nWe’re entering an exciting new chapter of growth and innovation, and design is at the heart of it. As our Staff Product Designer (UX / UI), you will help reimagine the FoundersCard digital experience across web and mobile app. This is a high-impact role where you’ll lead end-to-end product design (UX & UI), user research, UX writing, and experimentation across our platform.\n\nIf you’re a hands-on design leader who thrives at the intersection of craft, strategy, and innovation and you want to help shape the future of a premium lifestyle + business brand - we should talk!\n\nWhat you'll do:\n• Own and elevate the FoundersCard experience. Lead design across our core product surfaces (web, mobile, member dashboard), refining UX and UI to deliver a seamless, premium experience that aligns with our premium brand.\n• Lead with craft and clarity. Design intuitive, elegant user flows using modern design tools. Deliver thoughtful interaction models and polished visual design. Work closely with engineers and other stakeholders to ensure a high-quality implementation\n• Drive user-centered innovation. Conduct generative and evaluative research (including user interviews, usability testing, and behavioral analysis) to deeply understand member needs, behaviors, and pain points.\n• Uplevel the entire experience. Rethink navigation, benefit discovery, personalization, onboarding, and renewal flows using data and direct feedback from our members.\n• Build a design system. Standardize components, patterns, and guidelines across platforms while advocating for simplicity, accessibility, and scalability.\n• Prototype with the future in mind. Explore AI-driven interfaces, personalization strategies, and lightweight ML-enhanced tools to enrich the member experience.\n• Partner closely with product, engineering, and marketing. Collaborate on product strategy, frequent growth experiments, and lifecycle initiatives. Be a key voice in defining our product roadmap.\n• Champion design culture. Lead critiques, mentor junior designers (incl contractors), and foster cross-functional understanding of what great design can do.\n\nWhat we're looking for:\n• 6+ years of product design experience (UX & UI), with some focus on premium consumer-facing (B2C) experiences\n• A strong portfolio that showcases exceptional interaction design, UX research, and visual polish\n• Demonstrated ability to conduct, synthesize, and apply user research—both qualitative and quantitative\n• Experience with personalization, segmentation, or lifecycle UX is a strong plus\n• Ability to play senior and junior roles - you'll both work on brand and visual identity as well as execute designs at pace\n• Bias for speed - we are small and nimble. We can do in days what takes most teams weeks.\n• A modern design toolkit and fluency in prototyping techniques, including with AI tools\n• Understanding of front-end technologies (HTML/CSS/JavaScript/React) is a bonus\n• An entrepreneurial mindset—you can operate independently, prioritize effectively, and make high-quality decisions with limited structure\n\nWhat's in it for you:\n• A pivotal role in redefining a premium product experience for 250K+ members\n• The opportunity to drive product-led growth through design\n• A high-impact role in a lean, profitable, founder-led company with real momentum\n• Opportunity to build a small team as we scale\n• Competitive compensation: $200K-240k base salary plus bonus, 401k and comprehensive benefits\n• Free lunch, snacks and gym at the brand new office at 57th and Madison",
+      "job_is_remote": false,
+      "job_posted_at": "26 days ago",
+      "job_posted_at_timestamp": 1761609600,
+      "job_posted_at_datetime_utc": "2025-10-28T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dm11vnxsV4aya4dcUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 200000,
+      "job_max_salary": 240000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "6+ years of product design experience (UX & UI), with some focus on premium consumer-facing (B2C) experiences",
+          "A strong portfolio that showcases exceptional interaction design, UX research, and visual polish",
+          "Demonstrated ability to conduct, synthesize, and apply user research—both qualitative and quantitative",
+          "Experience with personalization, segmentation, or lifecycle UX is a strong plus",
+          "Ability to play senior and junior roles - you'll both work on brand and visual identity as well as execute designs at pace",
+          "Bias for speed - we are small and nimble",
+          "A modern design toolkit and fluency in prototyping techniques, including with AI tools",
+          "Understanding of front-end technologies (HTML/CSS/JavaScript/React) is a bonus",
+          "An entrepreneurial mindset—you can operate independently, prioritize effectively, and make high-quality decisions with limited structure"
+        ],
+        "Benefits": [
+          "A pivotal role in redefining a premium product experience for 250K+ members",
+          "The opportunity to drive product-led growth through design",
+          "A high-impact role in a lean, profitable, founder-led company with real momentum",
+          "Opportunity to build a small team as we scale",
+          "Competitive compensation: $200K-240k base salary plus bonus, 401k and comprehensive benefits",
+          "Free lunch, snacks and gym at the brand new office at 57th and Madison"
+        ],
+        "Responsibilities": [
+          "Own and elevate the FoundersCard experience",
+          "Lead design across our core product surfaces (web, mobile, member dashboard), refining UX and UI to deliver a seamless, premium experience that aligns with our premium brand",
+          "Lead with craft and clarity",
+          "Design intuitive, elegant user flows using modern design tools",
+          "Deliver thoughtful interaction models and polished visual design",
+          "Work closely with engineers and other stakeholders to ensure a high-quality implementation",
+          "Drive user-centered innovation",
+          "Conduct generative and evaluative research (including user interviews, usability testing, and behavioral analysis) to deeply understand member needs, behaviors, and pain points",
+          "Uplevel the entire experience",
+          "Rethink navigation, benefit discovery, personalization, onboarding, and renewal flows using data and direct feedback from our members",
+          "Build a design system",
+          "Standardize components, patterns, and guidelines across platforms while advocating for simplicity, accessibility, and scalability",
+          "Explore AI-driven interfaces, personalization strategies, and lightweight ML-enhanced tools to enrich the member experience",
+          "Partner closely with product, engineering, and marketing",
+          "Collaborate on product strategy, frequent growth experiments, and lifecycle initiatives",
+          "Be a key voice in defining our product roadmap",
+          "Lead critiques, mentor junior designers (incl contractors), and foster cross-functional understanding of what great design can do"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "gw_rm1sVLIVMrHhQAAAAAA==",
+      "job_title": "Senior Mobile UX Designer",
+      "employer_name": "Synchrony",
+      "employer_logo": null,
+      "employer_website": "https://www.synchrony.com",
+      "job_publisher": "ZipRecruiter",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.ziprecruiter.com/c/Synchrony/Job/Senior-Mobile-UX-Designer/-in-New-York,NY?jid=be449fcea007f5d8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Synchrony/Job/Senior-Mobile-UX-Designer/-in-New-York,NY?jid=be449fcea007f5d8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://us.bebee.com/job/8adee098ca0ba23b07183244940ff968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Job Description:\n\nRole Summary/Purpose:\n\nSynchrony's User Experience Group empowers both customers and clients to meet their goals and aspirations with innovative product experiences. We leverage our expertise, methodologies and customer data to create simple and delightful experiences that fulfill user-centered journeys. We are powered by our supportive and collaborative UX team culture and enabled by Synchrony's commitment to investing in user experience and creating engaging digital experiences. Our designers are given the guidance and autonomy they need to do the best work of their careers.\n\nAs a Senior Mobile UX Designer, you will join Synchrony's scaled agile teams and partner with CX, marketing, development, process owners, UX researchers and Mobile UI designers to conceptualize and develop engaging native app experiences for our strategically significant core customer-facing applications. The candidate will work collaboratively throughout the entire design process of our mobile applications and services through initial discovery and research through to conceptualization and design to deliver on user-centered designs that deliver a world-class native mobile app experience. Additionally, the candidate will act as a champion for user experience by providing thought leadership and Native app design expertise. This role is responsible for designing and delivering modern native app UX designs for both iOS and Android experiences.\n\nOur Way of Working\n\nWe're proud to offer you choice and flexibility. At Synchrony, our way of working allows you to have the option to work from home, near one of our Hubs or come into one of our offices. Occasionally you may be required to commute to our nearest office for in person engagement activities such as business or team meetings, training and culture events.\n\nEssential Responsibilities:\n• Apply design thinking methodologies with product owners and leaders to help shape product strategy, clarify requirements, and define and scope UX activities\n• Present to and persuade executives, leaders and agile teams to accept UX recommendations\n• Organize & facilitate design workshops as needed\n• Ideate on and champion new experiences\n• Mentor junior level designers\n• Develop user flows, site maps, information architecture, wireframes, and prototypes of native app experiences\n• Lead the design review cycle, synthesize feedback, and close on design requirements independently\n• Engage with UX research to assist in initiating, planning and running tests and incorporating their results into design\n• Engage with business and IT owners in agile processes\n• Be a part of daily/weekly agile ceremonies, present work, and articulate rationales\n• Act as an advocate for the end user's experience\n• Collaborate effectively with remote team members and managers\n• Perform other duties and/or special projects as assigned\n• Bring a strong positive attitude to project and UX teams\n\nQualifications/Requirements:\n• Bachelor's and a Minimum of 3 years of experience in user experience, visual design, product design, or interaction design experience; or in lieu of a Bachelor Degree, a high school diploma / GED and a Minimum of 6 years of experience in user experience, visual design, product design, or interaction design experience\n• Minimum of 1 year of experience in designing native mobile app user experiences\n• Strong understanding of user centered design, design thinking and related methodologies\n• Effective communication, time management, collaboration, and organizational skills\n• Expertise in modern design tools such as Sketch, Figma, Invision, Adobe XD, Adobe Creative Suite and/or similar tools\n• Willingness to travel to Synchrony offices for occasional team & business meetings\n\nDesired Characteristics:\n• Experience working on agile teams\n• Experience working in eCommerce and/or Financial Industry\n• Deep fluency and understanding of iOS Human Interface Guidelines and Android Material Design guidelines\n• Experience identifying and conducting User Research and User Testing\n• Ability to work in low or high fidelity as needed\n\nEligibility Requirements:\n• You must be 18 years or older\n• You must have a high school diploma or equivalent\n• You must be willing to take a drug test, submit to a background investigation and submit fingerprints as part of the onboarding process\n• You must be able to satisfy the requirements of Section 19 of the Federal Deposit Insurance Act.\n• New hires (Level 4-7) must have 9 months of continuous service with the company before they are eligible to post on other roles. Once this new hire time in position requirement is met, the associate will have a minimum 6 months' time in position before they can post for future non-exempt roles. Employees, level 8 or greater, must have at least 18 months' time in position before they can post. All internal employees must consistently meet performance expectations and have approval from your manager to post (or the approval of your manager and HR if you don't meet the time in position or performance expectations).\n\nLegal authorization to work in the U.S. is required. We will not sponsor individuals for employment visas, now or in the future, for this job opening.All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.\n\nOur Commitment:\n\nWhen you join us, you'll be part of an inclusive culture where your individual skills, experience, and voice are not only heard - but valued. Together, we're building a future where we can all belong, connect, and turn ideals into action. More than 50% of our workforce is engaged in our Employee Resource Groups (ERGs), where community and passion intersect to offer a safe space to learn and grow.\n\nThis starts when you choose to apply for a role at Synchrony. We ensure all qualified applicants will receive consideration for employment without regard to age, race, color, religion, gender, sexual orientation, gender identity, national origin, disability, or veteran status. We're proud to have an award-winning culture for all.\n\nReasonable Accommodation Notice:\n• Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.\n• If you need special accommodations, please call our Career Support Line so that we can discuss your specific situation. We can be reached at 1-866-301-5627. Representatives are available from 8am - 5pm Monday to Friday, Central Standard Time\n\nJob Family Group:\nMarketing",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dgw_rm1sVLIVMrHhQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Additionally, the candidate will act as a champion for user experience by providing thought leadership and Native app design expertise",
+          "This role is responsible for designing and delivering modern native app UX designs for both iOS and Android experiences",
+          "Bachelor's and a Minimum of 3 years of experience in user experience, visual design, product design, or interaction design experience; or in lieu of a Bachelor Degree, a high school diploma / GED and a Minimum of 6 years of experience in user experience, visual design, product design, or interaction design experience",
+          "Minimum of 1 year of experience in designing native mobile app user experiences",
+          "Strong understanding of user centered design, design thinking and related methodologies",
+          "Effective communication, time management, collaboration, and organizational skills",
+          "Expertise in modern design tools such as Sketch, Figma, Invision, Adobe XD, Adobe Creative Suite and/or similar tools",
+          "Willingness to travel to Synchrony offices for occasional team & business meetings",
+          "You must be 18 years or older",
+          "You must have a high school diploma or equivalent",
+          "You must be willing to take a drug test, submit to a background investigation and submit fingerprints as part of the onboarding process",
+          "You must be able to satisfy the requirements of Section 19 of the Federal Deposit Insurance Act",
+          "New hires (Level 4-7) must have 9 months of continuous service with the company before they are eligible to post on other roles",
+          "Employees, level 8 or greater, must have at least 18 months' time in position before they can post",
+          "All internal employees must consistently meet performance expectations and have approval from your manager to post (or the approval of your manager and HR if you don't meet the time in position or performance expectations)",
+          "Legal authorization to work in the U.S. is required"
+        ],
+        "Benefits": [
+          "At Synchrony, our way of working allows you to have the option to work from home, near one of our Hubs or come into one of our offices",
+          "Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities"
+        ],
+        "Responsibilities": [
+          "Synchrony's User Experience Group empowers both customers and clients to meet their goals and aspirations with innovative product experiences",
+          "The candidate will work collaboratively throughout the entire design process of our mobile applications and services through initial discovery and research through to conceptualization and design to deliver on user-centered designs that deliver a world-class native mobile app experience",
+          "Occasionally you may be required to commute to our nearest office for in person engagement activities such as business or team meetings, training and culture events",
+          "Apply design thinking methodologies with product owners and leaders to help shape product strategy, clarify requirements, and define and scope UX activities",
+          "Present to and persuade executives, leaders and agile teams to accept UX recommendations",
+          "Organize & facilitate design workshops as needed",
+          "Ideate on and champion new experiences",
+          "Mentor junior level designers",
+          "Develop user flows, site maps, information architecture, wireframes, and prototypes of native app experiences",
+          "Lead the design review cycle, synthesize feedback, and close on design requirements independently",
+          "Engage with UX research to assist in initiating, planning and running tests and incorporating their results into design",
+          "Engage with business and IT owners in agile processes",
+          "Be a part of daily/weekly agile ceremonies, present work, and articulate rationales",
+          "Act as an advocate for the end user's experience",
+          "Collaborate effectively with remote team members and managers",
+          "Perform other duties and/or special projects as assigned",
+          "Bring a strong positive attitude to project and UX teams"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "fU6tUIIudx_7KGO0AAAAAA==",
+      "job_title": "Graphic Designer (Print and UI & UX)",
+      "employer_name": "New York City",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-AeNZPb9OV9A2CCkKYvw3olB6_G1h5Z8pzzE&s=0",
+      "employer_website": null,
+      "job_publisher": "NYC.Gov Jobs",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://cityjobs.nyc.gov/job/graphic-designer-print-and-ui-and-ux-in-manhattan-jid-32958?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "NYC.Gov Jobs",
+          "apply_link": "https://cityjobs.nyc.gov/job/graphic-designer-print-and-ui-and-ux-in-manhattan-jid-32958?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=e9b75bce0782e71f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/City-of-New-York/Job/Graphic-Designer-(Print-and-UI-&-UX)/-in-New-York,NY?jid=7f375e41c7e4d036&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/graphic-designer-print-and-ui-ux-at-city-of-new-york-4224925494?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Smart Recruiters Jobs",
+          "apply_link": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990007842421-graphic-designer-print-and-ui-ux-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Snagajob",
+          "apply_link": "https://www.snagajob.com/jobs/1109195051?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Milwaukee Jobs",
+          "apply_link": "https://www.milwaukeejobs.com/job/detail/83593521/Graphic-Designer-Print-and-UI-UX?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Media Bistro",
+          "apply_link": "https://www.mediabistro.com/jobs/1816554840-graphic-designer-print-and-ui-and-ux?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "The New York City Department of Transportation (NYC DOT) is seeking a creative, hard-working graphic designer who can design for both digital and print mediums. Reporting directly to Executive Director of Creative Services, the ideal candidate will manage, among other duties, demanding, highly-visible, and large-scale design projects, including for citywide initiatives like Summer Streets, Vision Zero, Open Streets, Car-Free Earth Day, and more. The selected candidate should posess the ability to present creative concepts to the Executive Director of Creative Services and other agency staff, work with stakeholder on development, and oversee successful execution. This includes, recommending the best ways to visually communicate new safety and transportation improvement projects for the public across the various NYC DOT channels (print, web, and social media). Maintain existing NYC DOT brand and Vision Zero style guides. Design logos, icons, illustrations, postcards, flyers, posters, invitations, ads, brochures, banners, signage, diagrams and reports for print, websites, mobile apps, and social media platforms. Create animations and motion graphics for digital campaigns, websites and promotional content. Develop layouts, UI components and interactive elements that align with brand guidelines. Collaborate with agency developers to ensure designs translate effectively into functional UX web and app experiences. Design marketing materials, including banners, email templates, and digital ads as well as enhance brand consistency across digital touchpoints. Optimize designs for different screen sizes, ensuring responsiveness and usability. Stay updated on design trends, animation techniques, and emerging technologies.\n\nCOMMUNITY COORDINATOR - 56058\n\nMinimum Qualifications\n\n1. A baccalaureate degree from an accredited college and two years of experience in community work or community centered activities in an area related to the duties described above; or\n2. High school graduation or equivalent and six years of experience in community work or community centered activities in an area related to the duties as described above; or\n3. Education and/or experience which is equivalent to \"1\" or \"2\" above. However, all candidates must have at least one year of experience as described in \"1\" above.\n\nPreferred Skills\n\nBFA in graphic design or related art/design degree with 5 years of full-time, professional graphic design work experience. Superior graphic design ability and an excellent print/web portfolio. Must have extensive knowledge of graphic design, typography, color theory, digital printing process and Fiery output. Must be expert in graphic design for social media and web, as well as an understanding of user interface and web technologies. Proficiency in Adobe Creative Suite (InDesign, Illustrator, Photoshop and After Effects), Microsoft Office Suite and Extensis Connect/Portfolio. Experience with motion graphics, animations, and video editing. Ability to design for different social media formats and platforms. Knowledge of HTML, CSS, and basic JavaScript (not mandatory but preferred).\nPublic Service Loan Forgiveness\n\nAs a prospective employee of the City of New York, you may be eligible for federal loan forgiveness programs and state repayment assistance programs. For more information, please visit the U.S. Department of Education’s website at https://studentaid.gov/pslf/\nResidency Requirement\n\nNew York City residency is generally required within 90 days of appointment. However, City Employees in certain titles who have worked for the City for 2 continuous years may also be eligible to reside in Nassau, Suffolk, Putnam, Westchester, Rockland, or Orange County. To determine if the residency requirement applies to you, please discuss with the agency representative at the time of interview.\nAdditional Information\n\nThe City of New York is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual's sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfU6tUIIudx_7KGO0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "A baccalaureate degree from an accredited college and two years of experience in community work or community centered activities in an area related to the duties described above; or",
+          "High school graduation or equivalent and six years of experience in community work or community centered activities in an area related to the duties as described above; or",
+          "Education and/or experience which is equivalent to \"1\" or \"2\" above",
+          "However, all candidates must have at least one year of experience as described in \"1\" above",
+          "BFA in graphic design or related art/design degree with 5 years of full-time, professional graphic design work experience",
+          "Superior graphic design ability and an excellent print/web portfolio",
+          "Must have extensive knowledge of graphic design, typography, color theory, digital printing process and Fiery output",
+          "Must be expert in graphic design for social media and web, as well as an understanding of user interface and web technologies",
+          "Proficiency in Adobe Creative Suite (InDesign, Illustrator, Photoshop and After Effects), Microsoft Office Suite and Extensis Connect/Portfolio",
+          "Experience with motion graphics, animations, and video editing",
+          "Ability to design for different social media formats and platforms",
+          "New York City residency is generally required within 90 days of appointment",
+          "However, City Employees in certain titles who have worked for the City for 2 continuous years may also be eligible to reside in Nassau, Suffolk, Putnam, Westchester, Rockland, or Orange County"
+        ],
+        "Benefits": [
+          "Public Service Loan Forgiveness",
+          "As a prospective employee of the City of New York, you may be eligible for federal loan forgiveness programs and state repayment assistance programs"
+        ],
+        "Responsibilities": [
+          "Reporting directly to Executive Director of Creative Services, the ideal candidate will manage, among other duties, demanding, highly-visible, and large-scale design projects, including for citywide initiatives like Summer Streets, Vision Zero, Open Streets, Car-Free Earth Day, and more",
+          "The selected candidate should posess the ability to present creative concepts to the Executive Director of Creative Services and other agency staff, work with stakeholder on development, and oversee successful execution",
+          "This includes, recommending the best ways to visually communicate new safety and transportation improvement projects for the public across the various NYC DOT channels (print, web, and social media)",
+          "Maintain existing NYC DOT brand and Vision Zero style guides",
+          "Design logos, icons, illustrations, postcards, flyers, posters, invitations, ads, brochures, banners, signage, diagrams and reports for print, websites, mobile apps, and social media platforms",
+          "Create animations and motion graphics for digital campaigns, websites and promotional content",
+          "Develop layouts, UI components and interactive elements that align with brand guidelines",
+          "Collaborate with agency developers to ensure designs translate effectively into functional UX web and app experiences",
+          "Design marketing materials, including banners, email templates, and digital ads as well as enhance brand consistency across digital touchpoints",
+          "Optimize designs for different screen sizes, ensuring responsiveness and usability",
+          "Stay updated on design trends, animation techniques, and emerging technologies"
+        ]
+      },
+      "job_onet_soc": "27102400",
+      "job_onet_job_zone": "4"
+    }
+  ]
+}

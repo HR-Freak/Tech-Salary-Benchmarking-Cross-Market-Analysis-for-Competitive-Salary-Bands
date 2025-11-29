@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "request_id": "b56abe7b-0911-41c0-a7e4-d1332f145e8f",
+  "parameters": {
+    "query": "QA Engineer salary salary in Malmö, Sweden",
+    "page": 1,
+    "num_pages": 2,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": []
+}

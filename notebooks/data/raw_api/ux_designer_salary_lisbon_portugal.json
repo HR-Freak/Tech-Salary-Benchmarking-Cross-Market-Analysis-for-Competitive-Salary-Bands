@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "request_id": "78cf22d2-b2c8-4272-9aac-109801e79ffe",
+  "parameters": {
+    "query": "UX Designer salary salary in Lisbon, Portugal",
+    "page": 1,
+    "num_pages": 2,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": []
+}

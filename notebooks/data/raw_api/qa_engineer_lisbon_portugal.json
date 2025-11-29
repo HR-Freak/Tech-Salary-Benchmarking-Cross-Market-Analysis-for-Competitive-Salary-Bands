@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "request_id": "9a8d7b20-1dc7-4eb1-aa0c-6dd58354d72b",
+  "parameters": {
+    "query": "QA Engineer salary in Lisbon, Portugal",
+    "page": 1,
+    "num_pages": 1,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": []
+}

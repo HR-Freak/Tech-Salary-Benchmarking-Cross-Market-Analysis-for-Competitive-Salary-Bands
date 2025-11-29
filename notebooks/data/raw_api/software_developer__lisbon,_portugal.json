@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "9d6f1ef4-2a9d-4d19-809b-39170322e111",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "Software Developer",
+      "min_salary": 1612.5,
+      "max_salary": 2679.1666666666665,
+      "median_salary": 2000,
+      "min_base_salary": 1500,
+      "max_base_salary": 2300,
+      "median_base_salary": 1800,
+      "min_additional_pay": 112.5,
+      "max_additional_pay": 379.1666666666667,
+      "median_additional_pay": 200,
+      "salary_period": "MONTH",
+      "salary_currency": "EUR",
+      "salary_count": 1108,
+      "salaries_updated_at": "2025-11-20T09:38:26.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Software%20Developer&locT=C&locId=3192045",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

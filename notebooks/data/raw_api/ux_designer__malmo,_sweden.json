@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "a6e0a3c2-a7b8-441b-b575-6cae066ff298",
+  "data": [
+    {
+      "location": "Lund, Sweden",
+      "job_title": "UX Designer",
+      "min_salary": 37148.458333333336,
+      "max_salary": 46810.3125,
+      "median_salary": 40771.885416666664,
+      "min_base_salary": 36750,
+      "max_base_salary": 46375,
+      "median_base_salary": 40355,
+      "min_additional_pay": 398.4583333333333,
+      "max_additional_pay": 435.3125,
+      "median_additional_pay": 416.8854166666667,
+      "salary_period": "MONTH",
+      "salary_currency": "SEK",
+      "salary_count": 28,
+      "salaries_updated_at": "2025-09-02T06:04:42.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=UX%20Designer&locT=C&locId=3238054",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

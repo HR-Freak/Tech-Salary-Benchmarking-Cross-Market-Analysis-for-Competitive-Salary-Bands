@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "request_id": "85ab92a8-84a0-4381-a2b1-223f7ea86f5b",
+  "parameters": {
+    "query": "Full Stack Engineer salary in Lisbon, Portugal",
+    "page": 1,
+    "num_pages": 1,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": []
+}

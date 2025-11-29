@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "request_id": "332d4f5b-222f-43ad-8f06-82d7dc273c64",
+  "parameters": {
+    "query": "UX Designer salary in Tokyo, Japan",
+    "page": 1,
+    "num_pages": 1,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": []
+}

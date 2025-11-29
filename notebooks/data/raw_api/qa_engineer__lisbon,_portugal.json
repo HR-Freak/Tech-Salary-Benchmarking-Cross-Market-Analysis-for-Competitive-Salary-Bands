@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "d6a0b53b-d52e-47d3-bc91-1a7ae9b796e4",
+  "data": [
+    {
+      "location": "Lisbon, Portugal",
+      "job_title": "QA Engineer",
+      "min_salary": 1354.7916666666667,
+      "max_salary": 2708,
+      "median_salary": 1883.3333333333333,
+      "min_base_salary": 1318.75,
+      "max_base_salary": 2491.25,
+      "median_base_salary": 1800,
+      "min_additional_pay": 36.041666666666664,
+      "max_additional_pay": 216.75,
+      "median_additional_pay": 83.33333333333333,
+      "salary_period": "MONTH",
+      "salary_currency": "EUR",
+      "salary_count": 60,
+      "salaries_updated_at": "2025-11-19T09:00:43.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=QA%20Engineer&locT=C&locId=3192045",
+      "confidence": "VERY_HIGH"
+    }
+  ]
+}

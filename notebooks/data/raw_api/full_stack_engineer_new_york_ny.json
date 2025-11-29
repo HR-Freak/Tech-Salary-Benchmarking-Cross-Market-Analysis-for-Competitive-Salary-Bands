@@ -1,0 +1,1003 @@
+{
+  "status": "OK",
+  "request_id": "ef587431-6cc1-4040-9341-348c1ec01648",
+  "parameters": {
+    "query": "Full Stack Engineer salary in New York, NY",
+    "page": 1,
+    "num_pages": 1,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": [
+    {
+      "job_id": "gkljz8SpyhyrrQ_0AAAAAA==",
+      "job_title": "Senior Full-Stack Engineer",
+      "employer_name": "april",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZjOAAFmEchf494b8mEIYAwRTM9YWS_IMJfd1&s=0",
+      "employer_website": "https://www.getapril.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.indeed.com/viewjob?jk=f338f19c07e8090e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=f338f19c07e8090e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Wellfound",
+          "apply_link": "https://wellfound.com/jobs/3526910-senior-full-stack-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Current/Job/Senior-Full-Stack-Engineer/-in-New-York,NY?jid=2e598555264ce1d5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Built In NYC",
+          "apply_link": "https://www.builtinnyc.com/job/senior-full-stack-engineer/4046446?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/senior-full-stack-engineer/4046446?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-sendblue-4263173197?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs",
+          "apply_link": "https://jobs.ashbyhq.com/parambil/cc708973-ee67-459b-aba0-9c85ac189a00?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/Qr_qAWSpdKgXEzC54pXt8dZ_OAjf3tqlPizWpocXxkN6gD2qp7PdBw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About the Role\n\napril is looking for a brilliant, curious and creative Senior Full-Stack Engineer with a passion for data that’s ready to take on a huge opportunity to solve tax, and save people time and money. If you’re all that and looking to lead, invent, and grow professionally you should definitely consider applying to join us on our journey. Team members residing within the New York City metropolitan area must maintain a minimum on-site presence of three days per week.\n\nKey Responsibilities\n• Lead and own full-cycle (from idea to production) projects that are directly used by and impact millions of people\n• Work closely with the product & UX to define product requirements and execute the development plans\n• Design system architectures, select/ evaluate tools\n• Build cloud-native microservices\n• Mentor, and grow the team, our practices, and our technology stack\n\nExperience\n• 6+ years of software engineering experience building production-level web applications in large-scale products\n• 6+ years of experience with modern full-stack frameworks React/Angular/Vue or equivalent programming language, developing high-scale applications\n• 4+ years of experience building reactive web & mobile-web frontends using React/Next/Angular/Vue over TypeScript/JavaScript\n• 4+ years of experience with Python as a proper microservice backend\n• Passion for clean code and agile work\n• Experience with modern cloud environments (GCP, AWS)\n• Strong architecture skills – ability to design for scale, and velocity, robustness, and readability of end-to-end data-driven solutions\n• Passion for data, customer experience, and building high-quality software\n• Excellent communication skills, verbal and written\n• Bonus: gRPC, protobuf\n\nAbout april\n\napril is the only embedded, year-round tax platform built to power smarter financial decisions. From filing to planning to onboarding, april’s white-labeled tools bring real-time tax intelligence into the platforms people already use, helping users understand the impact of every paycheck, equity transaction, or income shift, and stay on top of tax payments throughout the year. Built to handle even the most complex tax situations, april’s AI-powered tax engine ingests data directly from partner apps to deliver accurate outcomes in record time—making tax planning and filing more connected, contextual, and accessible than ever. With API-first infrastructure and seamless data integrations, april helps partners deliver more value, deepen loyalty, and turn taxes into a strategic edge—for their clients and their business.\n\nCompensation Range: $160K - $190K",
+      "job_is_remote": false,
+      "job_posted_at": "20 days ago",
+      "job_posted_at_timestamp": 1762128000,
+      "job_posted_at_datetime_utc": "2025-11-03T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dgkljz8SpyhyrrQ_0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 160000,
+      "job_max_salary": 190000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "6+ years of software engineering experience building production-level web applications in large-scale products",
+          "6+ years of experience with modern full-stack frameworks React/Angular/Vue or equivalent programming language, developing high-scale applications",
+          "4+ years of experience building reactive web & mobile-web frontends using React/Next/Angular/Vue over TypeScript/JavaScript",
+          "4+ years of experience with Python as a proper microservice backend",
+          "Passion for clean code and agile work",
+          "Experience with modern cloud environments (GCP, AWS)",
+          "Strong architecture skills – ability to design for scale, and velocity, robustness, and readability of end-to-end data-driven solutions",
+          "Passion for data, customer experience, and building high-quality software",
+          "Excellent communication skills, verbal and written",
+          "Bonus: gRPC, protobuf",
+          "From filing to planning to onboarding, april’s white-labeled tools bring real-time tax intelligence into the platforms people already use, helping users understand the impact of every paycheck, equity transaction, or income shift, and stay on top of tax payments throughout the year"
+        ],
+        "Benefits": [
+          "Compensation Range: $160K - $190K"
+        ],
+        "Responsibilities": [
+          "Team members residing within the New York City metropolitan area must maintain a minimum on-site presence of three days per week",
+          "Lead and own full-cycle (from idea to production) projects that are directly used by and impact millions of people",
+          "Work closely with the product & UX to define product requirements and execute the development plans",
+          "Design system architectures, select/ evaluate tools",
+          "Build cloud-native microservices",
+          "Mentor, and grow the team, our practices, and our technology stack"
+        ]
+      },
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "D7HUXEXD-AaHvKXAAAAAAA==",
+      "job_title": "Engineer II - Full Stack Web Developer",
+      "employer_name": "GEICO",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ11HkYUdWXTM292xMM0NqdPOXD5dda8i8T8yN&s=0",
+      "employer_website": null,
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.indeed.com/viewjob?jk=961e849ffcceacb7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=961e849ffcceacb7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Geico/Job/Engineer-II-Full-Stack-Web-Developer/-in-New-York,NY?jid=92c8ab104d781bd8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/engineer-ii-full-stack-web-developer/7750266?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "JobzMall",
+          "apply_link": "https://www.jobzmall.com/verizon/job/full-stack-web-developer-5g-lab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Adzuna",
+          "apply_link": "https://www.adzuna.com/details/5508631111?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/new-york-city/new-york/software_development/4629211602/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobilize",
+          "apply_link": "https://www.jobilize.com/job/us-ny-new-york-engineer-ii-full-stack-web-developer-geico-government?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.\n\nEvery day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive through relentless innovation to exceed our customers’ expectations while making a real impact for our company through our shared purpose.\n\nWhen you join our company, we want you to feel valued, supported and proud to work here. That’s why we offer The GEICO Pledge: Great Company, Great Culture, Great Rewards and Great Careers.\n\nPosition Summary\n\nGEICO is seeking an experienced Engineer with a passion for building high-performance, low maintenance, zero-downtime platforms, and applications. You will help drive our insurance business transformation as we transition from a traditional IT model to a tech organization with engineering excellence as its mission, while co-creating the culture of psychological safety and continuous improvement.\n\nPosition Description\n\nOur Engineer II is a key member of the EUC Engineering Operations staff working across the organization to provide a friction-less experience to our customers and maintain the highest standards of protection and availability. Our team thrives and succeeds in delivering high quality technology products and services in a hyper-growth environment where priorities shift quickly. The ideal candidate has broad and deep technical knowledge, typically ranging from front-end UIs through back-end systems and all points in between.\n\nPosition Responsibilities\n\nAs an Engineer II, you will:\n• Scope, design, and build scalable, resilient distributed systems and maintains all websites and software applications.\n• Understands UI, cross-browser compatibility, and general web functions and standards.\n• Creates solutions for identified problems or bugs.\n• Executes assignments with the use of web applications, scripts, and programming languages such as HTML, CSS, JavaScript, and APIs.\n• Designs assignments with web services like GO, REST, SOAP, etc.\n• Evaluates written code to ensure it meets industry standards and is compatible with all devices.\n• Develops and validates test routines to ensure the quality of the external and internal interface.\n• Build product definition and leverage your technical skills to drive towards the right solution\n• Engage in cross-functional collaboration throughout the entire software lifecycle\n• Participate in design sessions and code reviews with peers to elevate the quality of engineering across the organization\n• Utilize programming languages like HTML, Kotlin, Java, JavaScript, TypeScript, Dart, Python, C#, SQL, and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of Azure tools and services\n• Consistently share best practices and improve processes within and across teams\n\nQualifications\n• Programming experience with at least two modern languages such as Kotlin, Java, JavaScript, TypeScript, JSX, Dart, Python, C++, or C# including object-oriented design\n• Experience using HTML, CSS, REST, GO, SOAP, etc\n• Experience contributing to the architecture and design (architecture, design patterns, reliability, and scaling) of new and current systems\n• In-depth knowledge of CS data structures and algorithms\n• Understanding of existing Operational Portals such as Azure Portal\n• Understanding of micro-services architecture and extensible REST APIs\n• Understanding of monitoring tools\n• Intermediate PowerShell scripting skills\n• Intermediate level understanding of Azure Network such as security zones, VNETs, and Public Peered Services\n• Understanding of Azure PaaS and IaaS services\n• Understanding of security protocols and products such as: Active Directory, Windows Authentication, SAML, OAuth\n• Experience in Datacenter structure, capabilities, and offerings, including the Azure platform and its native services\n• Knowledge of developer tooling across the software development life cycle (task management, source code, building, deployment, operations, real-time communication)\n• Understanding of DevOps Concepts, Cloud Architecture, and Azure DevOps Operational Framework\n• Experience in Application Frameworks\n• Experience in Risk Assessment\n• Experience in Android Studio, XCode, VS Code, or a similar IDE\n• Experience in Application monitoring and performance assessment\n• Experience in Source code management and code versioning tools such as GIT\n• Experience in esign patterns MVC, Decorator, Abstract Factory, Chain of Responsibility\n• Experience with Gradle\n• Experience with building out a application store on Windows/Mac OS\n• Experience in Android Studio\n• Analysis and estimation skills\n• Strong problem-solving ability\n• Strong oral and written communication skills\n• Ability to excel in a fast-paced, startup-like environment\n\nExperience\n• 2+ years of non-internship professional software development experience within Mobile and Web frameworks/SDKs/languages such as HTML/GO/Kotlin/Java, Android SDK, XCode, React, TypeScript/JavaScript, or Flutter/Dart\n• 2+ years of experience with architecture and design\n• 2+ years of experience with AWS, GCP, Azure, or another cloud service\n• 2+ years of experience in open-source frameworks\n\nEducation\n• Bachelor’s degree in computer science, Information Systems, or equivalent education or work experience\n\nAnnual Salary\n$71,750.00 - $129,150.00\n\nThe above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.\n\nAt this time, GEICO will not sponsor a new applicant for employment authorization for this position.\n\nThe GEICO Pledge:\n\nGreat Company: At GEICO, we help our customers through life’s twists and turns. Our mission is to protect people when they need it most and we’re constantly evolving to stay ahead of their needs.\n\nWe’re an iconic brand that thrives on innovation, exceeding our customers’ expectations and enabling our collective success. From day one, you’ll take on exciting challenges that help you grow and collaborate with dynamic teams who want to make a positive impact on people’s lives.\n\nGreat Careers: We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind. You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels.\n\nGreat Culture: We foster an inclusive culture of shared success, rooted in integrity, a bias for action and a winning mindset. Grounded by our core values, we have an an established culture of caring, inclusion, and belonging, that values different perspectives. Our teams are led by dynamic, multi-faceted teams led by supportive leaders, driven by performance excellence and unified under a shared purpose.\n\nAs part of our culture, we also offer employee engagement and recognition programs that reward the positive impact our work makes on the lives of our customers.\n\nGreat Rewards: We offer compensation and benefits built to enhance your physical well-being, mental and emotional health and financial future.\n• Comprehensive Total Rewards program that offers personalized coverage tailor-made for you and your family’s overall well-being.\n• Financial benefits including market-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition-based incentives; and tuition assistance.\n• Access to additional benefits like mental healthcare as well as fertility and adoption assistance.\n• Supports flexibility- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year.\n\nThe equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.\n\nGEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.",
+      "job_is_remote": false,
+      "job_posted_at": "4 days ago",
+      "job_posted_at_timestamp": 1763510400,
+      "job_posted_at_datetime_utc": "2025-11-19T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD7HUXEXD-AaHvKXAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 71750,
+      "job_max_salary": 129150,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "The ideal candidate has broad and deep technical knowledge, typically ranging from front-end UIs through back-end systems and all points in between",
+          "Programming experience with at least two modern languages such as Kotlin, Java, JavaScript, TypeScript, JSX, Dart, Python, C++, or C# including object-oriented design",
+          "Experience using HTML, CSS, REST, GO, SOAP, etc",
+          "Experience contributing to the architecture and design (architecture, design patterns, reliability, and scaling) of new and current systems",
+          "In-depth knowledge of CS data structures and algorithms",
+          "Understanding of existing Operational Portals such as Azure Portal",
+          "Understanding of micro-services architecture and extensible REST APIs",
+          "Understanding of monitoring tools",
+          "Intermediate PowerShell scripting skills",
+          "Intermediate level understanding of Azure Network such as security zones, VNETs, and Public Peered Services",
+          "Understanding of Azure PaaS and IaaS services",
+          "Understanding of security protocols and products such as: Active Directory, Windows Authentication, SAML, OAuth",
+          "Experience in Datacenter structure, capabilities, and offerings, including the Azure platform and its native services",
+          "Knowledge of developer tooling across the software development life cycle (task management, source code, building, deployment, operations, real-time communication)",
+          "Understanding of DevOps Concepts, Cloud Architecture, and Azure DevOps Operational Framework",
+          "Experience in Application Frameworks",
+          "Experience in Risk Assessment",
+          "Experience in Android Studio, XCode, VS Code, or a similar IDE",
+          "Experience in Application monitoring and performance assessment",
+          "Experience in Source code management and code versioning tools such as GIT",
+          "Experience in esign patterns MVC, Decorator, Abstract Factory, Chain of Responsibility",
+          "Experience with Gradle",
+          "Experience with building out a application store on Windows/Mac OS",
+          "Experience in Android Studio",
+          "Analysis and estimation skills",
+          "Strong problem-solving ability",
+          "Strong oral and written communication skills",
+          "Ability to excel in a fast-paced, startup-like environment",
+          "2+ years of non-internship professional software development experience within Mobile and Web frameworks/SDKs/languages such as HTML/GO/Kotlin/Java, Android SDK, XCode, React, TypeScript/JavaScript, or Flutter/Dart",
+          "2+ years of experience with architecture and design",
+          "2+ years of experience with AWS, GCP, Azure, or another cloud service",
+          "2+ years of experience in open-source frameworks",
+          "Bachelor’s degree in computer science, Information Systems, or equivalent education or work experience"
+        ],
+        "Benefits": [
+          "$71,750.00 - $129,150.00",
+          "The above annual salary range is a general guideline",
+          "Multiple factors are taken into consideration to arrive at the final hourly rate/ annual salary to be offered to the selected candidate",
+          "Great Careers: We offer a career where you can learn, grow, and thrive through personalized development programs, created with your career – and your potential – in mind",
+          "You’ll have access to industry leading training, certification assistance, career mentorship and coaching with supportive leaders at all levels",
+          "Great Rewards: We offer compensation and benefits built to enhance your physical well-being, mental and emotional health and financial future",
+          "Comprehensive Total Rewards program that offers personalized coverage tailor-made for you and your family’s overall well-being",
+          "Financial benefits including market-competitive compensation; a 401K savings plan vested from day one that offers a 6% match; performance and recognition-based incentives; and tuition assistance",
+          "Access to additional benefits like mental healthcare as well as fertility and adoption assistance",
+          "Supports flexibility- We provide workplace flexibility as well as our GEICO Flex program, which offers the ability to work from anywhere in the US for up to four weeks per year"
+        ],
+        "Responsibilities": [
+          "Scope, design, and build scalable, resilient distributed systems and maintains all websites and software applications",
+          "Understands UI, cross-browser compatibility, and general web functions and standards",
+          "Creates solutions for identified problems or bugs",
+          "Executes assignments with the use of web applications, scripts, and programming languages such as HTML, CSS, JavaScript, and APIs",
+          "Designs assignments with web services like GO, REST, SOAP, etc",
+          "Evaluates written code to ensure it meets industry standards and is compatible with all devices",
+          "Develops and validates test routines to ensure the quality of the external and internal interface",
+          "Build product definition and leverage your technical skills to drive towards the right solution",
+          "Engage in cross-functional collaboration throughout the entire software lifecycle",
+          "Participate in design sessions and code reviews with peers to elevate the quality of engineering across the organization",
+          "Utilize programming languages like HTML, Kotlin, Java, JavaScript, TypeScript, Dart, Python, C#, SQL, and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of Azure tools and services",
+          "Consistently share best practices and improve processes within and across teams"
+        ]
+      },
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "eTSGubPN1FYoMy7-AAAAAA==",
+      "job_title": "Senior Full Stack Engineer- Python/React",
+      "employer_name": "Motion Recruitment",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDqBTZuAIr6f0kWr7DgfzQZ2QHZAk59sgc2bn_&s=0",
+      "employer_website": "https://motionrecruitment.com",
+      "job_publisher": "Motion Recruitment",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://motionrecruitment.com/tech-jobs/new-york-city/direct-hire/senior-full-stack-engineer-python-react-/799557?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Motion Recruitment",
+          "apply_link": "https://motionrecruitment.com/tech-jobs/new-york-city/direct-hire/senior-full-stack-engineer-python-react-/799557?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/c0113577-2507-4dac-98ec-788ff37aa615?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-python-react-at-motion-recruitment-4336722340?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/3262284591789705100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=8171d357f558732f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glynn Capital Job Board",
+          "apply_link": "https://jobs.glynncapital.com/jobs?q=ML+Engineering+Manager,+Model+Graph&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "9am.works",
+          "apply_link": "https://app.9am.works/job/89631d2e-8b6a-4e91-821c-6c5636a43a17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Expertini",
+          "apply_link": "https://us.expertini.com/jobs/job/senior-full-stack-engineer-pythonreact-new-york-city-ny-motion-recruitment-5501636019/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Senior Full Stack Engineer- Python/React\n\nLocation: New York, New York- (On-site 4 days/week)\n\nHours: Full Time-Perm\n\nCompensation: $170-200K + Bonus\n\nThis full time Full Stack engineering role is coming from a company that is building an AI powered due diligence platform that is used by private equity firms to help speed up the acquisition process and research. Based in New York City, you will be working with Python and React to build the features for a fast-growing product supported by strong leadership.\n\nThey are taking on one of private equity’s major obstacles; everything you will be building will have direct impact to high value deals. They are looking for a senior Full-Stack engineer who can work 50/50 from backend to frontend and be flexible to 60/40. This role comes with high ownership, hands on building and learning, and the opportunity to shape a quickly scaling AI platform.\n\nRequired Skills & Experience •\nPython\n\nReact\n\nFull-Stack engineering experience\n\nAbility to work on-site 4 days per week\n\nDesired Skills & Experience\n\n5+ Years of experience\n\nAI/ Data platform background\n\nWorked or been exposed to work within Fintech or Private Equity",
+      "job_is_remote": false,
+      "job_posted_at": "6 days ago",
+      "job_posted_at_timestamp": 1763337600,
+      "job_posted_at_datetime_utc": "2025-11-17T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeTSGubPN1FYoMy7-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 180000,
+      "job_max_salary": 220000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "They are looking for a senior Full-Stack engineer who can work 50/50 from backend to frontend and be flexible to 60/40",
+          "Python",
+          "Full-Stack engineering experience",
+          "Ability to work on-site 4 days per week",
+          "5+ Years of experience",
+          "AI/ Data platform background",
+          "Worked or been exposed to work within Fintech or Private Equity"
+        ],
+        "Benefits": [
+          "Compensation: $170-200K + Bonus"
+        ],
+        "Responsibilities": [
+          "Hours: Full Time-Perm",
+          "Based in New York City, you will be working with Python and React to build the features for a fast-growing product supported by strong leadership",
+          "They are taking on one of private equity’s major obstacles; everything you will be building will have direct impact to high value deals",
+          "This role comes with high ownership, hands on building and learning, and the opportunity to shape a quickly scaling AI platform"
+        ]
+      },
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "Jv-wOABRf_RzNy-zAAAAAA==",
+      "job_title": "Senior Full-Stack Software Engineer, Discover",
+      "employer_name": "Circle.so",
+      "employer_logo": null,
+      "employer_website": "https://circle.so",
+      "job_publisher": "ZipRecruiter",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.ziprecruiter.com/c/Circle.so/Job/Senior-Full-Stack-Software-Engineer,-Discover/-in-New-York,NY?jid=01d7abbd08caabb0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Circle.so/Job/Senior-Full-Stack-Software-Engineer,-Discover/-in-New-York,NY?jid=01d7abbd08caabb0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Jobgether",
+          "apply_link": "https://jobgether.com/offer/67b453790e8d2dbf00805eb5-senior-software-engineer-full-stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs",
+          "apply_link": "https://jobs.ashbyhq.com/onebrief/7d6a2098-0889-487a-9ced-280b359ae376?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=97a87aae36f176ed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs | Solana",
+          "apply_link": "https://jobs.solana.com/companies/phantom/jobs/44292706-senior-software-engineer-full-stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In NYC",
+          "apply_link": "https://www.builtinnyc.com/job/senior-full-stack-software-engineer-crm/7320932?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Workday",
+          "apply_link": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Senior-Software-Engineer--Full-Stack_JR-202504408?trk=test&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In San Francisco",
+          "apply_link": "https://www.builtinsf.com/job/senior-software-engineer-full-stack/4499023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About Us\n\nCircle is building the world's leading all-in-one platform for online communities. We make it possible for creators, coaches, educators, and businesses to bring together their audience with engaging discussions, live streams, events, chat, courses, and payments — all in one place, all under their own brand.\n\nWe're proud to be a fully remote company of around 200 (and growing!) team members from 30+ countries around the world. We seek exceptional individuals around the world, set them up to do the best work of their lives, and in turn, create a meaningful impact in their own lives. We don't track hours, but we do manage for high expectations very closely. We collaborate across time zones, are highly async, and like to document a lot.\n\nTwice a year, we bring the whole company together in beautiful places around the world for our company offsites. So far, we've hosted offsites in Turkey, Portugal, Mexico, Thailand, Colombia, Italy, Ireland, and more, with still more to come!\n\nCheck out our Careers page for more about working at Circle.\n\nAbout the role\n\nWe're looking for a seasoned full-stack engineer to help evolve and expand Discover -Circle's curated marketplace for finding and buying digital experiences (communities, courses, memberships and more).\n\nAs a part of the Discover team, you'll build the product surface area that helps members explore, discover, and join digital experiences -from algorithmic recommendations to rich listings and seamless purchasing flows. We're looking for someone who's excited to shape how people find value in community, and cares deeply about creating intuitive, performant, and elegant user experiences at scale.\nWhat you'll be doing\n• Build polished, high-converting purchasing experiences that help members discover digital experiences and communities sell digital memberships, courses, and content at scale.\n• Work autonomously on a product built in Ruby on Rails backend with React and Next.js front-end applications.\n• Build and maintain Next.js applications alongside our existing Ruby on Rails + React codebase.\n• Implement Next.js best practices including SSR/SSG, routing, and performance optimization.\n• Improve the quality of our codebase and identify architectural deficiencies.\n• Work closely with Circle's leaders throughout the feature design process.\n• Work closely with our designers to create a world-class user experience.\n• Foster a bias for action, prioritizing speed of iteration without compromising on the quality of code or user experience.\nWhat you'll need to be successful\n• 5+ years experience working as a full-stack engineer on complex web applications with significant scale (100k+ rpm, 100GB+ databases).\n• Strong proficiency in Ruby on Rails, MySQL/Postgresql, ReactJS, TypeScript, Next.js, Tailwind. Familiarity with both frontend and backend is necessary, but a high degree of proficiency in both is not a requirement.\n• A desire to work in an environment which values speed of iteration and individual autonomy, while also embracing personal accountability and the ability to collaborate effectively as part of a dynamic team.\n• Comfortable in a fast-paced environment with a certain level of ambiguity, especially when learning and picking up new technologies when projects require it.\n• Experience working on a fully distributed remote team.\n• Strong alignment with our values, find our values on our career page if you haven't read up on them yet.\n• You are proficient in English (spoken, written, and reading) at a CEFR Level C2 / ILR Level 5.\nBonus points\n• Previous experience working with creator-platforms, social content feeds, or marketplaces.\n• Production experience with Next.js in high-traffic applications.\n• Experience migrating React applications to Next.js or architecting hybrid React/Next.js systems\n$130,000 - $140,000 USD per year\n\nThe cash compensation range shown is a starting point. In addition to equity, benefits and perks, your cash compensation is subject to an annual review and increase on a once per year basis.\n\nThe fun stuff\n• Fully remote: work from anywhere in the world!\n• Autonomy and trust to do your job: we care about outcomes over everything else.\n• Paid time away: all employees are given 35 days of PTO annually. We also offer a paid sabbatical after 5 years.\n• Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*\n• Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*\n• Parental leave for parents expanding their family, or just starting one.\n• Home office stipend to help you get up and running.\n• Learning & development stipend to help you level up your professional skills.\n• Annual bonus potential for roles that don't already receive variable income or commission.\n• Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world! We've had past retreats in Colombia, Portugal, and Mexico, with more planned on the horizon.\n• Check out our Careers page for more.\n• Your role, location and unique circumstance may affect this.\nDiversity, Equity & Inclusion\n\nAs a fully-remote international company, diversity is baked into our DNA. Here's how our CEO, Sid Yadav, frames our hiring mission: \"let's find talent in underserved and under-represented corners of the world, set them up to do the best work of their lives, and in turn, change their life.\" To achieve this hiring mission, we offer competitive U.S. benchmarked compensation no matter where someone's located in the world, and we proactively seek candidates who expand representation of backgrounds, cultures and lived experiences in our teams.\nEqual Employment Opportunity\n\nCircle is an equal opportunity employer and as such, we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or any other characteristic protected by applicable laws. If you require any accommodations during the recruitment process, please let us know and we will work with you to meet your needs.\nHow We Use Candidate Data\n\nAt Circle, we are committed to protecting your personal information. As a job applicant, the personal data you provide to us is collected and processed in accordance with the General Data Protection Regulation (GDPR) in the EU and the California Consumer Privacy Act (CCPA). This notice outlines the types of personal information we collect, the purpose for collecting it, and your rights.\n\nInformation We Collect: We collect the following categories of personal information from job applicants:\n• Contact information (such as name, email address, phone number)\n• Employment history and qualifications\n• Education history\n• References and any other information you choose to share with us during the application process\n\nPurpose of Collection: We collect this information for the following purposes:\n• To assess your qualifications and suitability for the position\n• To communicate with you during the recruitment process\n• To comply with legal and regulatory obligations\n\nYour Rights Under GDPR and CCPA: You have the following rights regarding your personal information:\n• The right to request access to the personal information we hold about you.\n• The right to request the deletion of your personal information, subject to certain legal exceptions.\n• The right to opt out of the sale of your personal information (Note: We do not sell personal information).\n\nFor more information about how we handle your personal data or to exercise your rights, please refer to our full Privacy Policy.\n\nBy submitting your application, you acknowledge that you have read and understood this privacy notice.",
+      "job_is_remote": true,
+      "job_posted_at": "1 month ago",
+      "job_posted_at_timestamp": 1761177600,
+      "job_posted_at_datetime_utc": "2025-10-23T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance",
+        "paid_time_off"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJv-wOABRf_RzNy-zAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 130000,
+      "job_max_salary": 140000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "5+ years experience working as a full-stack engineer on complex web applications with significant scale (100k+ rpm, 100GB+ databases)",
+          "Strong proficiency in Ruby on Rails, MySQL/Postgresql, ReactJS, TypeScript, Next.js, Tailwind",
+          "Familiarity with both frontend and backend is necessary, but a high degree of proficiency in both is not a requirement",
+          "A desire to work in an environment which values speed of iteration and individual autonomy, while also embracing personal accountability and the ability to collaborate effectively as part of a dynamic team",
+          "Comfortable in a fast-paced environment with a certain level of ambiguity, especially when learning and picking up new technologies when projects require it",
+          "Experience working on a fully distributed remote team",
+          "Strong alignment with our values, find our values on our career page if you haven't read up on them yet",
+          "You are proficient in English (spoken, written, and reading) at a CEFR Level C2 / ILR Level 5",
+          "Previous experience working with creator-platforms, social content feeds, or marketplaces",
+          "Production experience with Next.js in high-traffic applications",
+          "Experience migrating React applications to Next.js or architecting hybrid React/Next.js systems",
+          "Contact information (such as name, email address, phone number)",
+          "Employment history and qualifications",
+          "Education history",
+          "To communicate with you during the recruitment process",
+          "To comply with legal and regulatory obligations"
+        ],
+        "Benefits": [
+          "$130,000 - $140,000 USD per year",
+          "The cash compensation range shown is a starting point",
+          "In addition to equity, benefits and perks, your cash compensation is subject to an annual review and increase on a once per year basis",
+          "Fully remote: work from anywhere in the world!",
+          "Autonomy and trust to do your job: we care about outcomes over everything else",
+          "Paid time away: all employees are given 35 days of PTO annually",
+          "We also offer a paid sabbatical after 5 years",
+          "Generous U.S. benchmarked compensation and startup equity no matter where you are in the world.*",
+          "Awesome medical coverage with 100% coverage for you and your family, or medical reimbursement options where applicable!*",
+          "Parental leave for parents expanding their family, or just starting one",
+          "Home office stipend to help you get up and running",
+          "Learning & development stipend to help you level up your professional skills",
+          "Annual bonus potential for roles that don't already receive variable income or commission",
+          "Company retreats: Twice a year, the Circle team gets together for a fully paid company retreat in incredible places around the world!"
+        ],
+        "Responsibilities": [
+          "Build polished, high-converting purchasing experiences that help members discover digital experiences and communities sell digital memberships, courses, and content at scale",
+          "Work autonomously on a product built in Ruby on Rails backend with React and Next.js front-end applications",
+          "Build and maintain Next.js applications alongside our existing Ruby on Rails + React codebase",
+          "Implement Next.js best practices including SSR/SSG, routing, and performance optimization",
+          "Improve the quality of our codebase and identify architectural deficiencies",
+          "Work closely with Circle's leaders throughout the feature design process",
+          "Work closely with our designers to create a world-class user experience",
+          "Foster a bias for action, prioritizing speed of iteration without compromising on the quality of code or user experience"
+        ]
+      },
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "-00FBfeN3JpQTBvAAAAAAA==",
+      "job_title": "Senior Software Engineer, Full Stack",
+      "employer_name": "Capital One",
+      "employer_logo": null,
+      "employer_website": "https://www.capitalone.com",
+      "job_publisher": "Capital One Careers",
+      "job_employment_type": "Full-time and Part-time",
+      "job_employment_types": [
+        "FULLTIME",
+        "PARTTIME"
+      ],
+      "job_apply_link": "https://www.capitalonecareers.com/en/job/new-york/senior-software-engineer-full-stack/1732/86594376640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Capital One Careers",
+          "apply_link": "https://www.capitalonecareers.com/en/job/new-york/senior-software-engineer-full-stack/1732/86594376640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Alldus",
+          "apply_link": "https://alldus.com/job/53384-senior-software-engineer-full-stack-new-york-new-york/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Jobs",
+          "apply_link": "https://jobs.ashbyhq.com/siro/d19f92f2-dc59-4ef9-b5fe-2155579c2ed6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=8a00d2382f466f58&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Wellfound",
+          "apply_link": "https://wellfound.com/jobs/3480510-senior-software-engineer-full-stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Evertune/Job/Senior-Software-Engineer,-Full-Stack-(NYC)/-in-New-York,NY?jid=2ae93713cd4f9457&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Women In Tech Network",
+          "apply_link": "https://www.womentech.net/job/zocdoc/new-york/senior-software-engineer-full-stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "AnitaB.org Job Board",
+          "apply_link": "https://jobs.anitab.org/companies/capital-one/jobs/59508786-senior-software-engineer-full-stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Senior Software Engineer, Full Stack\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nWhat You’ll Do:\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services\n\nBasic Qualifications:\n• Bachelor’s Degree\n• At least 3 years of experience in software engineering (Internship experience does not apply)\n\nPreferred Qualifications:\n• 5+ years of experience in at least one of the following: JavaScript, Java, TypeScript, SQL, Python, or Go\n• 1+ years of experience with AWS, GCP, Microsoft Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer)\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nNew York, NY: $173,000 - $197,400 for Senior Software Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-00FBfeN3JpQTBvAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor’s Degree",
+          "At least 3 years of experience in software engineering (Internship experience does not apply)",
+          "At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer)"
+        ],
+        "Benefits": [
+          "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+          "New York, NY: $173,000 - $197,400 for Senior Software Engineer",
+          "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+          "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+          "Incentives could be discretionary or non discretionary depending on the plan",
+          "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+        ],
+        "Responsibilities": [
+          "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
+          "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
+          "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+          "Utilize programming languages like JavaScript, Java, HTML/CSS, TypeScript, SQL, Python, and Go, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services"
+        ]
+      },
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "O_yCUyhWGFsP3jFOAAAAAA==",
+      "job_title": "Full Stack Java Developer - NYC - Fintech - salary up to 220K/year depending on experience",
+      "employer_name": "Adaptive Financial Consulting",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxmN4FqOLIr-A7lbIt16mEpnYNoVUvpwmAoUrb&s=0",
+      "employer_website": "https://www.adaptivefc.com",
+      "job_publisher": "Wellfound",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://wellfound.com/jobs/3355851-full-stack-java-developer-nyc-fintech-salary-up-to-220k-year-depending-on-experience?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Wellfound",
+          "apply_link": "https://wellfound.com/jobs/3355851-full-stack-java-developer-nyc-fintech-salary-up-to-220k-year-depending-on-experience?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/qa-lead-nyc-fintech-up-to-180k-depending-on-experience-benefits-adaptive-financial-consulting-new-york-ny_82421035?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LazyApply",
+          "apply_link": "https://lazyapply.com/jobpreview/full-stack-java-developer-nyc-fintech-salary-up-to-220k-year-depending-on-experience-adaptive-financial-consulting-new-york-ny_82655232?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "WE ARE:\n\nAt Adaptive, we are a financial consulting firm that partners with capital, commodity, and digital market participants. We value differentiation through technology. Our experienced teams design and deliver complex front-office technology solutions using our proven accelerators to create long-term competitive advantage.\n\nOur clients include the world’s leading investment banks, investment managers, fintechs, and capital market service providers. With offices in London, Manila, New York, Barcelona, and Montreal, we have a global reach and a proven track record of delivering powerful, elegant, and intuitive trading technology solutions.\n\nWe are now looking for a Fullstack Java Developer to join our New York team on an exciting project, building an auction and trading platform with one of our institutional investment clients.\n\nYOU ARE:\n• A JVM lover who really enjoys working with the latest technologies and advanced design patterns.\n• Experienced in building application front ends, particularly with JavaScript/TypeScript and React.\n• Eager to solve complex technical challenges, especially in cloud-based environments and event-driven architecture patterns.\n• Someone looking to work in a collaborative environment, sharing knowledge and helping each other.\n• Experienced in Capital Markets software.\n\nYOU HAVE:\n• Significant, professional server-side software development experience using Core Java. Exposure to Java 17+ is a plus.\n• General familiarity with data structures such as sets, hashes, caches, etc...\n• General knowledge of data injection/inversion of control.\n• Experience using JavaScript and modern UI web tooling - build tools, package managers, styling engines, web framework landscape, etc...\n• Typescript production experience; A preference for Typescript over JavaScript.\n• Proficiency with client-side debugging tools (Chrome Developer Tools, React Devtools).\n• Experience developing Front Office financial systems (OMS/EMS/Exchange systems/eTrading) and FIX Protocol.\n• Experience in an Agile environment (Scrum, Kanban).\n\nWHY US:\n• To be immersed in high-standard engineering culture. Our fantastic team takes pride in crafting complex technical solutions but also loves sharing their knowledge and helping you grow professionally (we have extraordinary minds at Adaptive You can learn from anyone here, which is the beauty of it.\n• To take part in the growth and development of a great company.\n• Our teams feel free to speak up, make suggestions and raise concerns.\n• Collaborative team environment: we all work together, respect each other, and pitch in.\n• Great consideration for work/life balance (highly-flexible, hybrid working model.\n• We work hard to provide a positive, collaborative and inclusive culture and to positively impact our staff and local communities through different well-being, diversity and inclusion programmes.\n\nWHAT PEOPLE THINK OF US\n\nYou can check our Glassdoor page.\n\nBENEFITS (What we offer in return // what you’ll get ):\n• Medical from the 1st of month following your start date (i.e. if you join on the 24th of July, it starts on the 1st of August). We have 6 Aetna plans to choose from as provided by our PEO, Justworks. We make a flat monthly contribution to your healthcare costs.\n• Dental and vision from the 1st of the month following your start date - we have 3 dental and 2 vision plans to choose from. We make fixed contributions to each.\n• 23 days of vacation per calendar year plus 11 public holidays.\n• Group disability insurance: short-term and long-term (60% and taxable).\n• 401K safe harbor plan where we match contributions up to 5% of base pay on a paycheck-to-paycheck basis (you can opt in after 90 days of service).\n• Gym subsidy of up to $50 per month (and we pay the taxes on that, so it's a real $50), post probation.\n• Life insurance at 2 x salary.\n• Commuter benefits.\n• Health Savings Account and Flexible Spending Account.\n\nTHE PROCESS:\n\nLong interview processes are stressful and boring and that is not us.\n\nWe want to make sure that everything runs smoothly.\n\nSo here you will have three stage interviews:\n\n1- A chat with one of our great recruiters, reviewing the role and the company.\n\n2- A zoom chat with one of our colleagues where they will ask you detailed questions about your experience.\n\n3- A Face to Face interview (either in our office or via Zoom). ​​During this interview, we will dig even deeper, doing a live coding kata session with our engineers.\n\nEverything will be explained to you step by step by your recruiter.\n\nA little tip for you during those stages:\n\nCollaboration is massively important to us, so don't hesitate to share your thoughts, ask questions, and ask for help when needed.\n\nDIVERSITY & INCLUSION:\n\nDiversity and inclusion are key to a great workplace, and Adaptive is better when it’s more representative of the world around us. We want everyone to feel comfortable bringing their whole selves to work without any fear of judgment or negativity. All we ask is that our colleagues are respectful, collaborative, passionate about what they do, and have the skills needed to be successful in their roles.\n\nBackground check: The employment/engagement is subject to an acceptable background check that will be run by Adaptive.\n\nE-Verify: Adaptive Financial Consulting Inc. makes use of E-Verify to validate someone's right to work in the US. We will provide the Social Security Administration, and, if necessary, the Department of Homeland Security, with information from each new employee's Form I-9 to confirm work authorization. Please note that we do not use this information to pre-screen job applicants.\n\nBase pay will be determined on an individualized basis and is only part of the total compensation package. Pay is based on candidate skills and experience.New York pay range$180,000—$220,000 USD",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance",
+        "dental_coverage",
+        "paid_time_off"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DO_yCUyhWGFsP3jFOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 180000,
+      "job_max_salary": 220000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "A JVM lover who really enjoys working with the latest technologies and advanced design patterns",
+          "Experienced in building application front ends, particularly with JavaScript/TypeScript and React",
+          "Eager to solve complex technical challenges, especially in cloud-based environments and event-driven architecture patterns",
+          "Someone looking to work in a collaborative environment, sharing knowledge and helping each other",
+          "Experienced in Capital Markets software",
+          "Significant, professional server-side software development experience using Core Java",
+          "General familiarity with data structures such as sets, hashes, caches, etc..",
+          "General knowledge of data injection/inversion of control",
+          "Experience using JavaScript and modern UI web tooling - build tools, package managers, styling engines, web framework landscape, etc..",
+          "Typescript production experience; A preference for Typescript over JavaScript",
+          "Proficiency with client-side debugging tools (Chrome Developer Tools, React Devtools)",
+          "Experience developing Front Office financial systems (OMS/EMS/Exchange systems/eTrading) and FIX Protocol",
+          "Experience in an Agile environment (Scrum, Kanban)",
+          "3- A Face to Face interview (either in our office or via Zoom)",
+          "Background check: The employment/engagement is subject to an acceptable background check that will be run by Adaptive"
+        ],
+        "Benefits": [
+          "Great consideration for work/life balance (highly-flexible, hybrid working model",
+          "We work hard to provide a positive, collaborative and inclusive culture and to positively impact our staff and local communities through different well-being, diversity and inclusion programmes",
+          "You can check our Glassdoor page",
+          "Medical from the 1st of month following your start date (i.e. if you join on the 24th of July, it starts on the 1st of August)",
+          "We have 6 Aetna plans to choose from as provided by our PEO, Justworks",
+          "We make a flat monthly contribution to your healthcare costs",
+          "Dental and vision from the 1st of the month following your start date - we have 3 dental and 2 vision plans to choose from",
+          "We make fixed contributions to each",
+          "23 days of vacation per calendar year plus 11 public holidays",
+          "Group disability insurance: short-term and long-term (60% and taxable)",
+          "401K safe harbor plan where we match contributions up to 5% of base pay on a paycheck-to-paycheck basis (you can opt in after 90 days of service)",
+          "Gym subsidy of up to $50 per month (and we pay the taxes on that, so it's a real $50), post probation",
+          "Life insurance at 2 x salary",
+          "Commuter benefits",
+          "Health Savings Account and Flexible Spending Account",
+          "Pay is based on candidate skills and experience",
+          "New York pay range$180,000—$220,000 USD"
+        ],
+        "Responsibilities": [
+          "Our teams feel free to speak up, make suggestions and raise concerns",
+          "Collaborative team environment: we all work together, respect each other, and pitch in"
+        ]
+      },
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "L1X2sqWMYG-01B_3AAAAAA==",
+      "job_title": "Sr. Software Engineer- Full Stack",
+      "employer_name": "BBR Partners",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmcWiyrpDR3CScW1KFC9y_w1-1BGTev-RWHjOC&s=0",
+      "employer_website": "https://www.bbrpartners.com",
+      "job_publisher": "ZipRecruiter",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.ziprecruiter.com/c/BBR-Partners/Job/Sr.-Software-Engineer-Full-Stack/-in-New-York,NY?jid=b60a7e90e0483512&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/BBR-Partners/Job/Sr.-Software-Engineer-Full-Stack/-in-New-York,NY?jid=b60a7e90e0483512&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Hello, World! System Design Newsletter",
+          "apply_link": "https://hw.glich.co/jobboard/jobs/sr-software-engineer-full-stack-at-bbr-partners-zsantm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Adzuna",
+          "apply_link": "https://www.adzuna.com/details/5455605595?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Lensa",
+          "apply_link": "https://lensa.com/job-v1/bbr-partners/new-york-ny/senior-software-engineer/c39f5136dbc76ca8710d9e95f9032d04?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs Trabajo.org",
+          "apply_link": "https://us.trabajo.org/job-3635-9eb858275b4e70c5aa551bb380deca18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "FIRM OVERVIEW\n\nBBR Partners is a boutique wealth management firm providing customized investment strategies and bespoke advice to high-net-worth individuals and families. Our clients are comprised of the brightest minds in the financial and investing worlds, entrepreneurs, business owners, leaders, and influential families who entrust us with the holistic care of their fiscal well-being. The firm was founded in early 2000 and for over 20 years has nurtured our culture with talented people from diverse backgrounds who care about each other, our clients, and our collective communities. In our quest for continuous improvement, we strive to develop not only world class talent, but world class humans!\n\nPOSITION OVERVIEW\n\nBBR Partners is seeking a Senior Full-Stack Software Engineer to play a key role in developing our modern application ecosystem with an API-first, product engineered architecture. Your work will directly support the growing needs of our advisory, operations, and research organizations. In this role, you will collaborate with business stakeholders, data teams, and other developers to design, build, and implement robust software solutions that meet both technical and operational requirements.\n\nYou'll be designing and delivering modern, scalable systems in production, under live client constraints, while strategically decoupling legacy applications that power critical asset management capabilities (e.g. Client Reporting, Portfolio Management, Trading, and Operations). You'll work alongside a team of skilled Software Engineers to build API products, own end-to-end product modules, establish engineering standards, and expand engineering rigor across the team through this transformation. This role requires technical depth, pragmatic decision-making, and the ability to operate effectively with both engineers and business stakeholders in a high-trust, fast-moving environment.\n\nRESPONSIBILITIES\n• Design and Build: Full-stack applications and APIs to support portfolio management, trading, and operational workflows in conjunction with technical and business teams.\n• Modernize Under Constraints: Incrementally replace legacy functionality with maintainable, API-backed services—without breaking production or disrupting critical client workflows; implement feature flags, rollback strategies, and validation mechanisms to ensure zero regressions.\n• Architect Modern Solutions: Design and expand modern web applications while incorporating best practices, focusing on maintainability, scalability, performance, and correctness for complex investment domains (securities, accounts, mandates, performance, composites).\n• Integrate with 3rd Party Systems: Develop APIs and integrations with third-party asset management platforms and data providers, including market data providers (FactSet, Bloomberg, Refinitiv), execution platforms, reporting tools (Seismic, d1g1t), and portfolio accounting systems (APX).\n• Maintain Infrastructure: Deploy, configure, and manage Python (Django/FastAPI) and React applications across a hybrid environment (Linux/Windows, Docker, VMs) to ensure reliable deployment and uptime; instrument services with observability tooling (Datadog) and participate in on-call rotations.\n• Propagate Best Practices: Introduce and enforce unified standards, unit testing, CI/CD pipelines, version control workflows, secrets management, and other development best practices to improve the team's workflow and code quality.\n• Collaborate with Data Teams: Partner with data engineers on versioned data contracts (dbt + Snowflake) and service integration patterns to support decoupling applications from direct database dependencies.\n• Mentor and Upskill: Provide mentorship to team members through code reviews, pairing sessions, and design feedback, promoting a culture of learning and technical growth while raising engineering standards.\n\nQUALIFICATIONS\n• Technical Expertise\n• 6+ years of professional software engineering experience with significant full-stack ownership and production accountability.\n• Proven success modernizing legacy systems under production constraints - demonstrated experience sunsetting and replacing outdated software solutions with maintainable, scalable systems.\n• Python web frameworks: Deep, hands-on experience building scalable services using Django, Flask, or FastAPI in production environments.\n• React and TypeScript: Production experience delivering data-heavy, high-trust user interfaces for complex workflows.\n• Relational databases: Strong expertise modeling and querying relational data (PostgreSQL, SQL Server, MySQL) with attention to schema design, performance, referential integrity, and auditability.\n• Cloud and infrastructure: Hands-on experience with containers (Docker), CI/CD pipelines, secrets management, and runtime observability using Datadog, New Relic, or similar platforms.\n• Testing mindset: Demonstrated use of unit, integration, and E2E testing frameworks (pytest, vitest, Playwright, or equivalents).\n• Domain Knowledge\n• Financial services experience: Background developing or supporting systems for portfolio management, trading, risk management, or wealth management operations.\n• Investment data fluency: Familiarity with financial data providers (Bloomberg, FactSet, Refinitiv), common identifiers (FIGI, SEDOL, CUSIP), and third-party platforms (OMS/EMS, portfolio accounting systems like Advent APX or Geneva).\n• Knowledge of financial instruments, market data, and investment workflows (performance attribution, composite construction, rebalancing, reconciliation).\n• Professional Attributes\n• Clear communication and product sense: Ability to collaborate effectively with both technical and non-technical stakeholders; translate business needs into technical solutions without over-engineering.\n• Bias for pragmatism: Track record of making well-reasoned tradeoffs, favoring readable code, small iterations, and sustainable progress over perfection.\n• Strong collaborator: Performs thoughtful code reviews, writes clear design feedback, pairs with teammates, and helps raise engineering standards through mentoring, knowledge sharing, and consistent follow-through on team practices.\n• Comfort with ambiguity: Able to work independently, prioritize effectively, and operate in a dynamic environment where requirements evolve and legacy constraints are real.\n• Development Practices\n• Experience advancing SDLC maturity - version control (Git), branching strategies, pull request workflows, and automated testing/deployment.\n• Familiarity with API design (REST, OpenAPI/Swagger), versioning strategies, and backward compatibility.\n• Understanding of security and compliance requirements in financial applications (least-privilege access, audit logging, secrets rotation).\n\nWHAT WE OFFER\n• Opportunity to collaborate with accomplished colleagues in an entrepreneurial and fast-paced environment.\n• Competitive base salary and incentive compensation.\n• Company subsidized health, dental and vision insurance for employee, partner, and dependents.\n• 401K plan, Life insurance, and short & long-term disability coverage.\n• One Medical membership (covered for employee and dependents), Employee assistance program (EAP), Gym reimbursement and other wellness offerings.\n• Pre-tax transit and parking programs, Health Savings Account (HSA) and flexible spending programs for medical and dependent care.\n• Personalized development and career opportunities.\n• Flexible time off, paid parental leave, and opportunity for Sabbatical with company tenure.\n• Hybrid remote work environment, \"Work from Anywhere\" weeks, and casual dress.\n• New office space with a variety of perks and amenities including catered lunches and stocked pantry.\n\nADDITIONAL INFORMATION\nBase salary for this position will be determined during the interview process and will vary based on multiple reasons, including but not limited to prior experience, relevant expertise, current business needs, and market factors. The expected base salary for the role will generally be between $150,000 and $200,000 per year at the commencement of employment, but the final salary offered may be outside this range based on these reasons and individual circumstances. Additionally, base salary is only part of the total compensation package, which, depending on the position, may also include discretionary bonuses, alternative incentive packages and Company-sponsored benefit programs. This position is at-will, and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.\n\nWe value and seek diversity of thought and equity of representation. The environment at BBR is inclusive of all, collaborative and endlessly curious. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance",
+        "paid_time_off",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DL1X2sqWMYG-01B_3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Technical Expertise",
+          "6+ years of professional software engineering experience with significant full-stack ownership and production accountability",
+          "Proven success modernizing legacy systems under production constraints - demonstrated experience sunsetting and replacing outdated software solutions with maintainable, scalable systems",
+          "Python web frameworks: Deep, hands-on experience building scalable services using Django, Flask, or FastAPI in production environments",
+          "React and TypeScript: Production experience delivering data-heavy, high-trust user interfaces for complex workflows",
+          "Relational databases: Strong expertise modeling and querying relational data (PostgreSQL, SQL Server, MySQL) with attention to schema design, performance, referential integrity, and auditability",
+          "Cloud and infrastructure: Hands-on experience with containers (Docker), CI/CD pipelines, secrets management, and runtime observability using Datadog, New Relic, or similar platforms",
+          "Testing mindset: Demonstrated use of unit, integration, and E2E testing frameworks (pytest, vitest, Playwright, or equivalents)",
+          "Domain Knowledge",
+          "Financial services experience: Background developing or supporting systems for portfolio management, trading, risk management, or wealth management operations",
+          "Investment data fluency: Familiarity with financial data providers (Bloomberg, FactSet, Refinitiv), common identifiers (FIGI, SEDOL, CUSIP), and third-party platforms (OMS/EMS, portfolio accounting systems like Advent APX or Geneva)",
+          "Knowledge of financial instruments, market data, and investment workflows (performance attribution, composite construction, rebalancing, reconciliation)",
+          "Professional Attributes",
+          "Clear communication and product sense: Ability to collaborate effectively with both technical and non-technical stakeholders; translate business needs into technical solutions without over-engineering",
+          "Bias for pragmatism: Track record of making well-reasoned tradeoffs, favoring readable code, small iterations, and sustainable progress over perfection",
+          "Strong collaborator: Performs thoughtful code reviews, writes clear design feedback, pairs with teammates, and helps raise engineering standards through mentoring, knowledge sharing, and consistent follow-through on team practices",
+          "Comfort with ambiguity: Able to work independently, prioritize effectively, and operate in a dynamic environment where requirements evolve and legacy constraints are real",
+          "Development Practices",
+          "Experience advancing SDLC maturity - version control (Git), branching strategies, pull request workflows, and automated testing/deployment",
+          "Familiarity with API design (REST, OpenAPI/Swagger), versioning strategies, and backward compatibility",
+          "Understanding of security and compliance requirements in financial applications (least-privilege access, audit logging, secrets rotation)"
+        ],
+        "Benefits": [
+          "Opportunity to collaborate with accomplished colleagues in an entrepreneurial and fast-paced environment",
+          "Competitive base salary and incentive compensation",
+          "Company subsidized health, dental and vision insurance for employee, partner, and dependents",
+          "401K plan, Life insurance, and short & long-term disability coverage",
+          "One Medical membership (covered for employee and dependents), Employee assistance program (EAP), Gym reimbursement and other wellness offerings",
+          "Pre-tax transit and parking programs, Health Savings Account (HSA) and flexible spending programs for medical and dependent care",
+          "Personalized development and career opportunities",
+          "Flexible time off, paid parental leave, and opportunity for Sabbatical with company tenure",
+          "Hybrid remote work environment, \"Work from Anywhere\" weeks, and casual dress",
+          "New office space with a variety of perks and amenities including catered lunches and stocked pantry",
+          "The expected base salary for the role will generally be between $150,000 and $200,000 per year at the commencement of employment, but the final salary offered may be outside this range based on these reasons and individual circumstances",
+          "Additionally, base salary is only part of the total compensation package, which, depending on the position, may also include discretionary bonuses, alternative incentive packages and Company-sponsored benefit programs",
+          "This position is at-will, and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors"
+        ],
+        "Responsibilities": [
+          "Your work will directly support the growing needs of our advisory, operations, and research organizations",
+          "In this role, you will collaborate with business stakeholders, data teams, and other developers to design, build, and implement robust software solutions that meet both technical and operational requirements",
+          "You'll be designing and delivering modern, scalable systems in production, under live client constraints, while strategically decoupling legacy applications that power critical asset management capabilities (e.g. Client Reporting, Portfolio Management, Trading, and Operations)",
+          "You'll work alongside a team of skilled Software Engineers to build API products, own end-to-end product modules, establish engineering standards, and expand engineering rigor across the team through this transformation",
+          "This role requires technical depth, pragmatic decision-making, and the ability to operate effectively with both engineers and business stakeholders in a high-trust, fast-moving environment",
+          "Design and Build: Full-stack applications and APIs to support portfolio management, trading, and operational workflows in conjunction with technical and business teams",
+          "Modernize Under Constraints: Incrementally replace legacy functionality with maintainable, API-backed services—without breaking production or disrupting critical client workflows; implement feature flags, rollback strategies, and validation mechanisms to ensure zero regressions",
+          "Architect Modern Solutions: Design and expand modern web applications while incorporating best practices, focusing on maintainability, scalability, performance, and correctness for complex investment domains (securities, accounts, mandates, performance, composites)",
+          "Integrate with 3rd Party Systems: Develop APIs and integrations with third-party asset management platforms and data providers, including market data providers (FactSet, Bloomberg, Refinitiv), execution platforms, reporting tools (Seismic, d1g1t), and portfolio accounting systems (APX)",
+          "Maintain Infrastructure: Deploy, configure, and manage Python (Django/FastAPI) and React applications across a hybrid environment (Linux/Windows, Docker, VMs) to ensure reliable deployment and uptime; instrument services with observability tooling (Datadog) and participate in on-call rotations",
+          "Propagate Best Practices: Introduce and enforce unified standards, unit testing, CI/CD pipelines, version control workflows, secrets management, and other development best practices to improve the team's workflow and code quality",
+          "Collaborate with Data Teams: Partner with data engineers on versioned data contracts (dbt + Snowflake) and service integration patterns to support decoupling applications from direct database dependencies",
+          "Mentor and Upskill: Provide mentorship to team members through code reviews, pairing sessions, and design feedback, promoting a culture of learning and technical growth while raising engineering standards"
+        ]
+      },
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "acXfcRl1abspILpDAAAAAA==",
+      "job_title": "Lead Full-Stack Engineer (Node.js and Angular)",
+      "employer_name": "EPAM",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlMEtPsn-ZVOBDsgm3AaYCDla0BgiBCatqrqD&s=0",
+      "employer_website": null,
+      "job_publisher": "Ladders",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.theladders.com/job/lead-full-stack-engineer-node-js-and-angular-epam-new-york-ny_82198976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/lead-full-stack-engineer-node-js-and-angular-epam-new-york-ny_82198976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We are actively seeking a proficient Full-Stack Developer knowledgeable in Angular and Node.js.\n\nThis role requires someone who can integrate seamlessly into our dynamic team and contribute to our ongoing projects effectively. Req.#825503395\n\n#LI-DNI#LI-KS4\n\nResponsibilities\n• Design and develop robust front-end applications as well as Microservices using REST APIs, ensuring responsive and efficient user experiences\n• Lead full-stack development initiatives, demonstrating hands-on technical leadership within the project team\n• Analyze existing legacy systems and strategize optimal future state architectures and solutions\n• Foster an agile development environment, continuously iterating and improving product features and processes\n• Engage with diverse teams across our organization, collaborating effectively with Database divisions, CTO organization, and the API Economy team\n\nRequirements\n• Bachelors Degree in Computer Science or a similar field; a Masters degree in Computer Science is preferred\n• At least 8 years of relevant professional experience in full-stack development\n• Expertise in front-end technologies including Angular and TypeScript and backend integration using Node.js\n• Proficient with AWS cloud services such as EC2, S3, Lambda, and DynamoDB amongst others\n• Knowledge of database management systems like DynamoDB, PostgreSQL (optional), and DB2 (legacy)\n• Experience with Splunk for monitoring and Cucumber for API testing tools\n• Excellent communication skills, capable of leading client-facing discussions and internal team collaborations\n• Strong problem-solving abilities, adept at managing ambiguities and driving clarity in complex scenarios\n• Proven track record of effective team leadership and meticulous attention to detail\n• Exceptional analytical skills with an ability to foresee and circumnavigate potential challenges in software environments\n• Demonstrated resilience and adaptability within dynamic and challenging environments\n• A robust portfolio of successful full-stack development projects\n\nWe offer\n• Medical, Dental and Vision Insurance (Subsidized)\n• Health Savings Account\n• Flexible Spending Accounts (Healthcare, Dependent Care, Commuter)\n• Short-Term and Long-Term Disability (Company Provided)\n• Life and AD&D Insurance (Company Provided)\n• Employee Assistance Program\n• Unlimited access to LinkedIn learning solutions\n• Matched 401(k) Retirement Savings Plan\n• Paid Time Off the employee will be eligible to accrue 15-25 paid days, depending on specific level and tenure with EPAM (accrual eligibility may change over time)\n• Paid Holidays - nine (9) total per year\n• Legal Plan and Identity Theft Protection\n• Accident Insurance\n• Employee Discounts\n• Pet Insurance\n• Employee Stock Purchase Program\n• If otherwise eligible, participation in the discretionary annual bonus program\n• If otherwise eligible and hired into a qualifying level, participation in the discretionary Long-Term Incentive (LTI) Program\n\nFor remote work in New York City only.\n\nEPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential.\n\nYouTube video player\n\nThis posting includes a good faith range of the salary EPAM would reasonably expect to pay the selected candidate. The range provided reflects base salary only. Individual compensation offers within the range are based on a variety of factors, including, but not limited to: geographic location, experience, credentials, education, training; the demand for the role; and overall business and labor market considerations. Most candidates are hired at a salary within the range disclosed. Salary range: $95,000 - $170,000. In addition, the details highlighted in this job posting above are a general description of all other expected benefits and compensation for the position.\n\nApplications will be accepted on a rolling basis.\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "health_insurance",
+        "paid_time_off",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DacXfcRl1abspILpDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 95000,
+      "job_max_salary": 170000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "We are actively seeking a proficient Full-Stack Developer knowledgeable in Angular and Node.js",
+          "This role requires someone who can integrate seamlessly into our dynamic team and contribute to our ongoing projects effectively",
+          "At least 8 years of relevant professional experience in full-stack development",
+          "Expertise in front-end technologies including Angular and TypeScript and backend integration using Node.js",
+          "Proficient with AWS cloud services such as EC2, S3, Lambda, and DynamoDB amongst others",
+          "Knowledge of database management systems like DynamoDB, PostgreSQL (optional), and DB2 (legacy)",
+          "Experience with Splunk for monitoring and Cucumber for API testing tools",
+          "Excellent communication skills, capable of leading client-facing discussions and internal team collaborations",
+          "Strong problem-solving abilities, adept at managing ambiguities and driving clarity in complex scenarios",
+          "Proven track record of effective team leadership and meticulous attention to detail",
+          "Exceptional analytical skills with an ability to foresee and circumnavigate potential challenges in software environments",
+          "Demonstrated resilience and adaptability within dynamic and challenging environments",
+          "A robust portfolio of successful full-stack development projects"
+        ],
+        "Benefits": [
+          "We offer",
+          "Medical, Dental and Vision Insurance (Subsidized)",
+          "Health Savings Account",
+          "Flexible Spending Accounts (Healthcare, Dependent Care, Commuter)",
+          "Short-Term and Long-Term Disability (Company Provided)",
+          "Life and AD&D Insurance (Company Provided)",
+          "Employee Assistance Program",
+          "Unlimited access to LinkedIn learning solutions",
+          "Matched 401(k) Retirement Savings Plan",
+          "Paid Time Off the employee will be eligible to accrue 15-25 paid days, depending on specific level and tenure with EPAM (accrual eligibility may change over time)",
+          "Paid Holidays - nine (9) total per year",
+          "Legal Plan and Identity Theft Protection",
+          "Accident Insurance",
+          "Employee Discounts",
+          "Pet Insurance",
+          "Employee Stock Purchase Program",
+          "If otherwise eligible, participation in the discretionary annual bonus program",
+          "If otherwise eligible and hired into a qualifying level, participation in the discretionary Long-Term Incentive (LTI) Program",
+          "This posting includes a good faith range of the salary EPAM would reasonably expect to pay the selected candidate",
+          "The range provided reflects base salary only",
+          "Individual compensation offers within the range are based on a variety of factors, including, but not limited to: geographic location, experience, credentials, education, training; the demand for the role; and overall business and labor market considerations",
+          "Most candidates are hired at a salary within the range disclosed",
+          "Salary range: $95,000 - $170,000",
+          "In addition, the details highlighted in this job posting above are a general description of all other expected benefits and compensation for the position"
+        ],
+        "Responsibilities": [
+          "Design and develop robust front-end applications as well as Microservices using REST APIs, ensuring responsive and efficient user experiences",
+          "Lead full-stack development initiatives, demonstrating hands-on technical leadership within the project team",
+          "Analyze existing legacy systems and strategize optimal future state architectures and solutions",
+          "Foster an agile development environment, continuously iterating and improving product features and processes",
+          "Engage with diverse teams across our organization, collaborating effectively with Database divisions, CTO organization, and the API Economy team"
+        ]
+      },
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "FWeyswh4jD9DJWmNAAAAAA==",
+      "job_title": "Senior Full Stack Engineer - up to $200k + equity in New York",
+      "employer_name": "Energy Jobline ZR",
+      "employer_logo": null,
+      "employer_website": "https://www.energyjobline.com",
+      "job_publisher": "JobLeads",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.jobleads.com/us/job/senior-full-stack-engineer-up-to-200k-equity-in-new-york--new-york--e1beff837ca2a07122402d841551d5cc4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "JobLeads",
+          "apply_link": "https://www.jobleads.com/us/job/senior-full-stack-engineer-up-to-200k-equity-in-new-york--new-york--e1beff837ca2a07122402d841551d5cc4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About Us\n\nWe are a specialized law firm focused on private markets, leveraging AI-powered software to deliver high-quality legal analysis with greater speed and efficiency than traditional methods. Our clients include top-tier endowments, foundations, and institutional investors across private equity, venture capital, real estate, and hedge funds. We have completed a seed round led by Flybridge Capital Partners.\n\nAbout the Role\n\nAs our first Senior Full-Stack Engineer, you'll play a critical role in shaping the technology stack, designing scalable solutions, and owning both backend and frontend development. You will report into the CTO. We seek a problem solver who thrives in the dynamic environment of a startup and is eager to engage with cutting‑edge technologies in AI and legal tech.\n\nResponsibilities\n• Design, build, and maintain scalable distributed systems with robust server‑side logic\n• Develop and refine GraphQL APIs, focusing on serverless architectures and seamless third‑party API integrations\n• Manage and optimize relational databases (Postgres or similar)\n• Drive frontend development using Next.js and TypeScript, delivering clean, maintainable, and performant code\n• Improve application performance, scalability, and reliability through strategic use of cloud platforms (Vercel, AWS, or GCP)\n• Implement and uphold best practices in engineering processes, including CI/CD, automated testing, and code quality\n• Respond proactively to production‑level alerts and participate in on‑call rotations as needed\n\nRequirements\n• 7+ years of experience as a full‑stack engineer in a fast‑paced startup or agile environment\n• Strong API design skills, especially with GraphQL and serverless architectures and proficient in relational database management\n• Deep expertise with Next.js, TypeScript, and modern frontend development practices\n• Proven experience deploying and managing applications on cloud platforms such as Vercel, AWS, or GCP\n• Knowledge of security best practices, particularly around data security and SOC2 compliance\n• Excellent communication skills, capable of clearly articulating technical concepts\n\nTeam\n\nOur goal as a company is to remain as efficient as possible by using technology. We will have a hiring constraint and encourage all leaders to use AI and other technologies to create efficiencies and leverage.\n\nWork Arrangements\n\nOur current plan is that all professional employees will be located within commuting distance to NYC and will come into the office 3 days a week.\n\nBenefits and Paid Time Off\n\nWe provide healthcare, dental and vision coverage. Currently, we do not specify the number of days of paid time off an employee may take (which is often referred to as unlimited paid time off). Benefits are subject to change as the company grows and evolves.\n\nCompensation\n\nThe expected base salary range for this position is between $175,000 and $200,000 plus equity. Actual compensation will be determined based on experience and other factors as permitted by law.\n\nIf you are interested in applying for this job please press the Apply Button and follow the application process. Energy Jobline wishes you the very best of luck in your next career move.",
+      "job_is_remote": false,
+      "job_posted_at": "6 days ago",
+      "job_posted_at_timestamp": 1763337600,
+      "job_posted_at_datetime_utc": "2025-11-17T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": [
+        "paid_time_off",
+        "health_insurance",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFWeyswh4jD9DJWmNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": 175000,
+      "job_max_salary": 200000,
+      "job_salary_period": "YEAR",
+      "job_highlights": {
+        "Qualifications": [
+          "7+ years of experience as a full‑stack engineer in a fast‑paced startup or agile environment",
+          "Strong API design skills, especially with GraphQL and serverless architectures and proficient in relational database management",
+          "Deep expertise with Next.js, TypeScript, and modern frontend development practices",
+          "Proven experience deploying and managing applications on cloud platforms such as Vercel, AWS, or GCP",
+          "Knowledge of security best practices, particularly around data security and SOC2 compliance",
+          "Excellent communication skills, capable of clearly articulating technical concepts"
+        ],
+        "Benefits": [
+          "Our current plan is that all professional employees will be located within commuting distance to NYC and will come into the office 3 days a week",
+          "Benefits and Paid Time Off",
+          "We provide healthcare, dental and vision coverage",
+          "Currently, we do not specify the number of days of paid time off an employee may take (which is often referred to as unlimited paid time off)",
+          "Benefits are subject to change as the company grows and evolves",
+          "The expected base salary range for this position is between $175,000 and $200,000 plus equity"
+        ],
+        "Responsibilities": [
+          "As our first Senior Full-Stack Engineer, you'll play a critical role in shaping the technology stack, designing scalable solutions, and owning both backend and frontend development",
+          "You will report into the CTO",
+          "Design, build, and maintain scalable distributed systems with robust server‑side logic",
+          "Develop and refine GraphQL APIs, focusing on serverless architectures and seamless third‑party API integrations",
+          "Manage and optimize relational databases (Postgres or similar)",
+          "Drive frontend development using Next.js and TypeScript, delivering clean, maintainable, and performant code",
+          "Improve application performance, scalability, and reliability through strategic use of cloud platforms (Vercel, AWS, or GCP)",
+          "Implement and uphold best practices in engineering processes, including CI/CD, automated testing, and code quality",
+          "Respond proactively to production‑level alerts and participate in on‑call rotations as needed"
+        ]
+      },
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "c1juEtUlbXNZ6GX2AAAAAA==",
+      "job_title": "Full Stack Software Engineer FT up to $280K visa ok",
+      "employer_name": "Career Mentors",
+      "employer_logo": null,
+      "employer_website": "https://www.mentoringcomplete.com",
+      "job_publisher": "Jooble",
+      "job_employment_type": null,
+      "job_employment_types": [],
+      "job_apply_link": "https://jooble.org/jdp/8778532660624612740?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/8778532660624612740?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Job description\n\n💼 Full Stack Software Engineer — Our Client (Brooklyn, NY | On-Site | Visa Sponsorship Available)\n\nIndustry: Software Development · AI · Data Engineering\n\nAbout the Role\n\nOur client is seeking a Full Stack Software Engineer who thrives on solving complex problems and building high-impact systems that shape how enterprises use and interact with data.\n\nYou’ll work with a world-class team on cutting-edge AI and automation technology designed to make data truly accessible — no technical barriers, no limits.\n\nWhat You’ll Do\n• Design, build, and maintain core product features across the full stack ( Rust, React, Python )\n• Take ownership of challenging technical initiatives and deliver scalable, reliable solutions\n• Collaborate closely with cross-functional teams to drive innovation and improve system performance\n• Develop and refine data ingestion and processing systems for multiple formats\n\nJob requirements\n\nWhat We’re Looking For\n• 2–4 years of professional software engineering experience\n• Strong foundation in compiled languages and exceptional algorithmic/problem-solving skills\n• Proven ability to learn new technologies quickly and adapt in dynamic environments\n• Full-stack experience (frontend + backend)\n• Bonus: Experience with startups , robotics , or systems programming\n\nPerks & Compensation\n\n💰 Base Salary: $150K – $280K\n💎 Equity: 0.3% – 1%\n🌍 Visa sponsorship & relocation support available\n📍 Must be able to relocate to NYC within 2 months of hire\n\nWhy Join?\n\n✨ Work on cutting-edge enterprise AI systems redefining how businesses leverage data.\n🧠 Tackle advanced technical challenges in a fast-paced, innovation-driven culture.\n📈 Competitive pay + meaningful equity in a high-growth environment.\n\nTopTech Talent is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.\n\n🚫 Third-party recruiters, please do not reach out for this role.\n\nAll done!\n\nYour application has been successfully submitted!",
+      "job_is_remote": false,
+      "job_posted_at": "2 days ago",
+      "job_posted_at_timestamp": 1763683200,
+      "job_posted_at_datetime_utc": "2025-11-21T00:00:00.000Z",
+      "job_location": "New York, NY",
+      "job_city": "New York",
+      "job_state": "New York",
+      "job_country": "US",
+      "job_latitude": 40.7127753,
+      "job_longitude": -74.0059728,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dc1juEtUlbXNZ6GX2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "2–4 years of professional software engineering experience",
+          "Strong foundation in compiled languages and exceptional algorithmic/problem-solving skills",
+          "Proven ability to learn new technologies quickly and adapt in dynamic environments",
+          "Full-stack experience (frontend + backend)",
+          "Bonus: Experience with startups , robotics , or systems programming",
+          "📍 Must be able to relocate to NYC within 2 months of hire"
+        ],
+        "Benefits": [
+          "Perks & Compensation",
+          "💰 Base Salary: $150K – $280K",
+          "💎 Equity: 0.3% – 1%",
+          "🌍 Visa sponsorship & relocation support available"
+        ],
+        "Responsibilities": [
+          "Design, build, and maintain core product features across the full stack ( Rust, React, Python )",
+          "Take ownership of challenging technical initiatives and deliver scalable, reliable solutions",
+          "Collaborate closely with cross-functional teams to drive innovation and improve system performance",
+          "Develop and refine data ingestion and processing systems for multiple formats"
+        ]
+      },
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    }
+  ]
+}

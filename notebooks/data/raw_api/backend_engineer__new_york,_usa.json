@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "request_id": "75ec6fdb-0709-421e-9eb2-cda2cc47088e",
+  "data": [
+    {
+      "location": "New York State",
+      "job_title": "Backend Engineer",
+      "min_salary": 121388.53,
+      "max_salary": 212611.99,
+      "median_salary": 159653.05,
+      "min_base_salary": 91915.98,
+      "max_base_salary": 157596.57,
+      "median_base_salary": 120356.32,
+      "min_additional_pay": 29472.55,
+      "max_additional_pay": 55015.42,
+      "median_additional_pay": 39296.73,
+      "salary_period": "YEAR",
+      "salary_currency": "USD",
+      "salary_count": 188,
+      "salaries_updated_at": "2025-04-10T23:59:59.000Z",
+      "publisher_name": "Glassdoor",
+      "publisher_link": "https://www.glassdoor.com/Salaries/company-salaries.htm?suggestCount=0&suggestChosen=false&sc.keyword=Backend%20Engineer&locT=S&locId=428",
+      "confidence": "CONFIDENT"
+    }
+  ]
+}

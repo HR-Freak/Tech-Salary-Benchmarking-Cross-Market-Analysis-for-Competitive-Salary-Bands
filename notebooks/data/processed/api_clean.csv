@@ -1,0 +1,8 @@
+location_clean,job_title_clean,min_salary_annual_gbp,max_salary_annual_gbp,avg_salary_annual_gbp,confidence,publisher_name,source_file
+Sweden,UX Designer,33436.80375,42128.89874999999,37782.85125,VERY_HIGH,Glassdoor,"ux-designer_malmo,-sweden.json"
+Portugal,QA Engineer,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,"qa_engineer__lisbon,_portugal.json"
+Portugal,Software Developer,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,"software_developer__lisbon,_portugal.json"
+New York,Backend Engineer,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,"backend_engineer__new_york,_usa.json"
+Sweden,UX Designer,33433.612499999996,42129.28125,37781.446875,VERY_HIGH,Glassdoor,"ux_designer__malmo,_sweden.json"
+New York,Frontend Engineer,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,"frontend_engineer__new_york,_usa.json"
+Portugal,QA Engineer,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,"qa-engineer_lisbon,-portugal.json"

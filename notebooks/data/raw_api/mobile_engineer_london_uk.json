@@ -1,0 +1,644 @@
+{
+  "status": "OK",
+  "request_id": "06f2560a-d9ab-481b-a19e-1e63c10e932d",
+  "parameters": {
+    "query": "Mobile Engineer salary in London, UK",
+    "page": 1,
+    "num_pages": 1,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": [
+    {
+      "job_id": "lSRnpR39bi6tvl9UAAAAAA==",
+      "job_title": "Mobile Engineer - Flutter | London",
+      "employer_name": "TransPerfect",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIFlWgybCwUEM-VAYbsvOLpsXuP9E-Doxcxi-&s=0",
+      "employer_website": "https://www.transperfect.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=360cf5b7605c4fb1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=360cf5b7605c4fb1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/mobile-engineer-flutter-london-transperfect-JV_IC2671300_KO0,30_KE31,43.htm?jl=1009855861597&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "EFinancialCareers",
+          "apply_link": "https://www.efinancialcareers.co.uk/jobs-United_Kingdom-London-Senior_Mobile_Engineer_-_iOS.id23430913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.uk/job/V8oj6MxHSv2UZGnY5iOioKy2tBrp23JySG-y43yutrwcgWmNRMVxKg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "TransPerfect - Recruitee",
+          "apply_link": "https://transperfect.recruitee.com/o/mobile-engineer-flutter-london?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talents By StudySmarter",
+          "apply_link": "https://talents.studysmarter.co.uk/companies/getapron-com/mobile-engineer-ios-6415929/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.co.uk/jobs/468334659-mobile-engineer-flutter-london-at-transperfect-gaming-solutions?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs.weekday.works",
+          "apply_link": "https://jobs.weekday.works/spotify-ios-engineer---music-mobile-experience?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "TransPerfect is an established company with a start-up culture seeking creative entrepreneurial people like you to join our team. We’re hiring a Mobile Engineer to join our global team to be responsible for crafting top-tier user experiences in the iOS and Android platforms. This full-time hybrid role demands both independent and collaborative work within a high-impact team, focused on delivering innovative products.\n\nThis role is full-time, and the ideal applicant will be an expert in working in iOS and Android apps built within Flutter and building new components from the ground up.\n\nAbout the team you will be joining at TransPerfect – TechOps:\n\nThe TransPerfect TechOps team has been a vital part of the company’s success since its formation 10 years ago – delivering technology and services that have drastically simplified the lives of our clients and colleagues – from workflow improvements for colleagues to core services that form the basis of the company’s GlobalLink platform, to creating scalable client interfaces that allow novice users to navigate complex ecosystems.\n\nYour responsibilities and tasks will include:\n• Be the subject matter expertise on mobile app development – helping define the team’s mobile development practices, design thinking and deployment processes\n• Collaborate with product managers, engineers, product designers and QA to define and build compelling user experiences on iOS and Android\n• Own and lead delivery of major mobile app features, components, foundations and overall entire application solutions in partnership with technical leads and senior engineers\n• Operate in an agile environment, communicate and manage internal and external implementation requirements and expectations\n• Provide constructive feedback to the technical staff during all phases of the software lifecycle to keep development priorities aligned with business needs\n• Write clean, efficient, and maintainable code following best practices and coding standards\n• Stay up-to-date with latest trends, technologies, and best practices in mobile development\n\nThe minimum we’re looking for (show us what you got if you aren’t a perfect fit):\n• 4+ years of experience in mobile applications development\n• Proficiency in Flutter\n• Solid knowledge of Dart\n• Deep understanding of mobile app UX/UI best practices\n• Expertise in CI/CD, testing, and agile methodologies\n• Experience deploying applications to Apple App Store and Google Play\n• Experience with Agile methodologies like SCRUM/Kanban\n• Excellent communication and collaboration skills with a proven ability to work effectively in a team environment\n\nWhy you should join us? Let's see:\n• Competitive salary in line with your experience and knowledge.\n• You will work in a dynamic, well-functioning software development division with the world's largest provider of language services and technology solutions.\n• Significant room for growth.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlSRnpR39bi6tvl9UAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "AIh-h3eg5OInSpksAAAAAA==",
+      "job_title": "Mobile Air Conditioning Engineer – £55,000 – London",
+      "employer_name": "CTR Engineering",
+      "employer_logo": null,
+      "employer_website": "https://www.ctrengineeringinc.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=9db181177950f6df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=9db181177950f6df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/mobile-air-conditioning-engineer-%E2%80%93-%C2%A355-000-%E2%80%93-london-ctr-engineering-JV_IC2671300_KO0,51_KE52,67.htm?jl=1009941532632&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Talents By StudySmarter",
+          "apply_link": "https://talents.studysmarter.co.uk/companies/prs-ltd/air-conditioning-engineer-battersea-8063643/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee GB",
+          "apply_link": "https://gb.bebee.com/job/2ac57a2497f03cfa547e74f64f0c3880?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "United Kingdom Jobs Expertini",
+          "apply_link": "https://uk.expertini.com/job/van-mobile-air-conditioning-engineer-london-city-of-london-prs-ltd-766-11773916/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobilize",
+          "apply_link": "https://www.jobilize.com/job/gb-london-van-mobile-air-conditioning-engineer-prs-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "My Jobs Asia",
+          "apply_link": "https://myjobsasia.com/job/mobile-air-conditioning-engineer-55000-london/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Mobile Air Conditioning Engineer – £55,000 – London\n\nAn exciting opportunity has arisen for an experienced Mobile Air Conditioning Engineer to join a leading building services company, working across Central London on a range of commercial office contracts.\n\nPackage:\n• Salary: £55,000 per annum\n• 40-hour week (8am – 5pm, Monday to Friday)\n• Company van & fuel card\n• 8 days paid sick allowance\n• Overtime available (Saturdays optional)\n• Annual 2.5% pay rise\n• Pension scheme\n\nThe Role:\n• Service, maintenance, and repair of split systems, FCUs, and VRF/VRV systems\n• Working on commercial office environments\n• Ensuring all work is completed safely, efficiently, and to a high standard\n• Providing excellent customer service while representing the company on client sites\n\nRequirements:\n• NVQ Level 2 in Air Conditioning & Refrigeration\n• CSCS Card\n• F-GAS certification (preferred)\n• Minimum 8 years’ experience in air conditioning service and maintenance\n• Strong experience with FCUs and all types of AC systems\n\nThis is a fantastic opportunity for a skilled Air Conditioning Engineer seeking long-term stability, excellent earning potential, and the chance to work with a highly professional team in Central London.\n\nApply now to join a growing and supportive company offering rewarding work and progression opportunities.\n\nINDED\n\nJob Types: Full-time, Permanent\n\nPay: £55,000.00 per year\n\nBenefits:\n• Company car\n• Company events\n• Company pension\n• Free or subsidised travel\n• Free parking\n• Life insurance\n• On-site parking\n• Sick pay\n\nWork Location: On the road",
+      "job_is_remote": false,
+      "job_posted_at": "6 days ago",
+      "job_posted_at_timestamp": 1763337600,
+      "job_posted_at_datetime_utc": "2025-11-17T00:00:00.000Z",
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAIh-h3eg5OInSpksAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "49902100",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "geEM3RzWz36msgevAAAAAA==",
+      "job_title": "Mobile Application Developer - London, UK",
+      "employer_name": "Newsroom AI",
+      "employer_logo": null,
+      "employer_website": null,
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=c1f6b61e01e1d0c4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=c1f6b61e01e1d0c4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/mobile-application-developer-london-uk-newsroom-ai-JV_IC2671300_KO0,38_KE39,50.htm?jl=1008230561612&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.uk/job/g0ZEUnwGkKiNyOvs5ZkItQIwY__oJroEDRy_btlb3rzmsr2aX0f1OA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee GB",
+          "apply_link": "https://gb.bebee.com/job/884d15bd1953f1eb3de4be5a246f424e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About the\n\nDevelopment\n\nteam:\n\nA highly capable and ambitious engineering team, responsible for overcoming difficult technical challenges to bring our users industry leading usability, performance and reliability. We're building a team of individuals with strong fundamentals, good intuition, and an appreciation for clean and functional code, that can stay ahead of industry trends.\n\nSalary information:\n\nN/A - Depending on experience\n\nResponsibilities:\n\nWe're looking for well-rounded engineers, to help scale our platform and launch new features. You will be highly involved in both product roadmap creation and product delivery, as well as technical and architectural decisions. There are opportunities to work on all areas of our stack, and develop novel solutions to difficult problems in data processing and machine learning.\n\nPerformance Profile:\n• Polyglot developer with experience in a variety of languages.\n• Experience in handling large amounts of data, distributed systems, or machine learning.\n• Comfortable working in a unix environment (sysadmin experience).\n• Good communication skills and able to work with a high degree of autonomy.\n• Creative ideas and the drive to take them forward.\n\nTech we use:\n• Languages: Clojure, Clojurescript, Python, Javascript\n• Frameworks: Django, Celery, Om, Rum, Google Closure Compiler, ReactJS\n• Databases: PostgreSQL, Yandex ClickHouse, Redis\n• AWS services: CloudFront, S3, Kinesis Streams, AWS Lambda, ElastiCache\n\n‍\n\nOffice:\n\nOur London office is based at the bright and spacious WeWork London Victoria. We offer a flexible 3-days in the office and 2 days remote work setup.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgeEM3RzWz36msgevAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "xpX27V8NhHBbCmpiAAAAAA==",
+      "job_title": "Technical Lead Engineer - Front End & Mobile",
+      "employer_name": "SilverRail",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6erf7Uls2NRLwE8_eIC4wlgjlAVNY4hEqCcr7&s=0",
+      "employer_website": "https://silverrailtech.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=fe9fe68ced782341&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=fe9fe68ced782341&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Flexa Careers",
+          "apply_link": "https://flexa.careers/jobs/silverrail-technical-lead-engineer-front-end-mobile-6903577e2213524eae0c2c0f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In London",
+          "apply_link": "https://builtinlondon.uk/job/technical-lead-engineer-front-end-mobile/7521310?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/technical-lead-engineer-front-end-mobile/7521310?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Accel Job Board",
+          "apply_link": "https://jobs.accel.com/companies/silverrail-2-42136b9c-0c3e-4b94-a77c-e2f812429149/jobs/61354460-technical-lead-engineer-front-end-mobile?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.uk/job/Nj8Au3KisWqxWqjKNVgkPWymsHn56fdgD_IyhbZ8Ohsa1QEu-yrOMg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee GB",
+          "apply_link": "https://gb.bebee.com/job/52d275c37bf6a59d58535add5dc840d3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/technical-lead-engineer-front-end-and-mobile-silverrail-technologies-JV_IC2671300_KO0,44_KE45,68.htm?jl=1009923636951&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Technical Lead Engineer – Front End & Mobile Development\n\nWho We Are and What We Do\n\nAt SilverRail, we're on a mission to reshape the way the world travels, and we're inviting you to be part of this journey. Rail is becoming the go-to choice for short and medium-haul travel worldwide, and we're here to help make it happen.\n\nIn the face of the ongoing climate crisis, our vision is crystal clear. We are transforming the online customer experience for rail travel, making it easier than ever for customers to find, buy and use rail. Our cutting-edge technology is the backbone of rail and travel agencies worldwide, making it effortless for travellers to choose the eco-friendly option and reduce their carbon footprint.\n\nWe have more than 15 years of trailblazing success behind us, and our teams are spread across the globe, with bases in London, Boston, Brisbane, and Stockholm. We thrive on the philosophy of 'fail-fast-fail-early,' which drives us to find ingenious solutions to complex challenges.\n\nJoin us, and help shape the future of travel!\n\nThe Role\n\nWe are seeking an experienced Technical Lead Engineer to lead the design, development, and optimization of our front-end, web and mobile applications. In this role, you will oversee the implementation of scalable, high-performance, and accessible web and mobile applications that deliver exceptional user experiences. You'll collaborate closely with product, design, and backend teams to build maintainable, testable, and modern mobile-first applications using technologies including JavaScript, TypeScript, React.js, Node.js, Kotlin, Jetpack Compose for Android, and Swift for iOS.\n\nAs a technical leader, you will grow and mentor engineers, drive architectural decisions, and champion best practices across the user-facing applications team. This is a hands-on leadership position that combines technical expertise, strategic thinking, and a passion for creating intuitive, elegant, and reliable web and mobile applications.\n\nKey Responsibilities\n\nTechnical Leadership & Architecture:\n• Lead the design and development of modern, scalable, maintainable, and modular front-end and mobile architecture using technologies including JavaScript, TypeScript, React.js, Node.js, Kotlin, Jetpack Compose and Swift.\n• Accountable for coding standards, architectural principles, and development best practices across the fuser-facing applications.\n• Collaborate with backend engineers to ensure efficient API design and data integration via Node.js and REST/GraphQL interfaces.\n• Evaluate new technologies and frameworks, guiding technical direction and user applications strategy.\n• Drive the implementation of performance optimization strategies, accessibility improvements, and responsive design principles.\n• Set goals for yourself and the team, communicate progress, risks and mitigations\n• Accountable for team goals' outcomes.\n• Champion and communicate the work the team does across the company.\n\nDevelopment & Testing:\n• Develop high-quality, production-ready applications that have clear performance indicators (KPIs) across front end and mobile development.\n• Implement component libraries and design systems using Storybook to ensure UI consistency and reusability.\n• Write and maintain comprehensive automated test suites using Cypress, React Testing Library, and Jest.\n• Integrate continuous testing and CI/CD practices to maintain quality and stability throughout the deployment pipeline.\n• Ensure cross-browser, cross-platform, and device compatibility while maintaining performance benchmarks.\n\nManagement and Leadership:\n• Strong people management practices: 1:1s, team building, performance management, effective meeting facilitation.\n• Work with light-touch product support to own the backlog, prioritization, scoping and estimation of the work for the team.\n• Organise the team and the work to iteratively deliver outcomes and business impact within an agile, scrum-based execution.\n• Partner closely with UX/UI designers, product managers, and backend engineers to translate business requirements into technical solutions.\n• Ensure scalable and timely code review practices, provide constructive feedback, and foster a culture of learning and collaboration within the engineering team.\n• Lead by example, motivate, reward and support each individual team member's growth and development.\n• Communicate team's charter, mission and vision, technical decisions, trade-offs, and progress effectively to both technical and non-technical stakeholders.\n• Understand the company goals and strategy and help the team set meaningful goals that support the overall strategy. Serve as a conduit between the team and the business, help the team understand how their contributions impact the overall strategy.\n\nKey Technologies and Tools:\n• Languages: JavaScript (ES6+), TypeScript, Kotlin, Node.js\n• Frameworks & Libraries: React.js, Swift UI, Jetpack Compose, Docker\n• UI Development: Storybook, Styled Components, Tailwind CSS\n• Testing Frameworks: Cypress, Jest, React Testing Library\n• Build & Tooling: Webpack, Vite, Babel, ESLint, Prettier\n• Version Control & CI/CD: Git, GitLab\n• Cloud: AWS\n• Collaboration Tools: Jira, Confluence\n\nCompetence and Skills\n\nRequired:\n• 5 or more years of hands-on application development, with at least 2 years in a team leadership capacity.\n• Strong expertise in JavaScript, TypeScript, React.js, Kotlin and modern web and mobile ecosystems.\n• Proven experience architecting large-scale, component-driven web and mobile applications.\n• Deep understanding of application performance optimization, accessibility (WCAG), and responsive design.\n• Solid experience with automated testing frameworks (Jest, Cypress, React Testing Library).\n• Solid experience managing and leading cross-functional teams in an agile sprint/scrum framework.\n• Strong collaboration, communication, and team leadership skills.\n\nPreferred:\n• Degree in Computer Science/Engineering, or a related field.\n• Experience with server-side rendering (SSR) or static site generation (e.g., Next.js).\n• Familiarity with Node.js backend development and REST/GraphQL API integration.\n• Experience building and maintaining shared UI component libraries and design systems.\n• Experience building hybrid and native mobile apps.\n• Knowledge of CI/CD pipelines, DevOps, Cloud and containerized environments (Docker, Kubernetes).\n• Contributions to open-source projects or experience leading technical communities is a plus.\n\nWhy us?\n• We are an accredited flexible company and were named in Flexa's Top 50 Most Flexible Companies: https://flexa.careers/companies/silverrail\n• We utilise a hybrid working model, providing equipment for home working alongside one or two monthly visits to our beautiful central London office.\n• We offer a highly competitive benefits package including private healthcare and YuLife rewards, bonus leave days, volunteer days and a personal learning and development budget.\n• We provide a wealth of career development opportunities with training that is individual, focused on improving your skills and helping you become the best professional you can be.\n• Our team's health and wellness is genuinely important to us, so we offer a number of wellbeing seminars and membership to the #1 leading meditation app.\n• A unique opportunity to work for a tech company that is helping the environment by revolutionising the way we travel.\n\nOur values are simple: Do Good by working for a better tomorrow; Think Big Act Smart by being curious, adaptable and data-driven; and remember that through collaboration we will always be Stronger Together.\n• We are a neurodiverse employer and are working hard to improve our recruitment processes, so if there is any way that we can make the recruitment experience better for you then please let us know in your application - all information will be treated as strictly confidential*",
+      "job_is_remote": false,
+      "job_posted_at": "24 days ago",
+      "job_posted_at_timestamp": 1761782400,
+      "job_posted_at_datetime_utc": "2025-10-30T00:00:00.000Z",
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxpX27V8NhHBbCmpiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "job_id": "d-lY1fMifea1_DKlAAAAAA==",
+      "job_title": "Mobile Engineer",
+      "employer_name": "Wates",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX--084vMPzms_1boRyul4wbmfbVxHGlT25V2r&s=0",
+      "employer_website": "https://www.wates.co.uk",
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.glassdoor.co.uk/job-listing/mobile-engineer-wates-JV_IC3314108_KO0,15_KE16,21.htm?jl=1009896149687&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/mobile-engineer-wates-JV_IC3314108_KO0,15_KE16,21.htm?jl=1009896149687&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.uk/job/YrTsS_-y66Ri3lHS3cDVFAoAOTrrwt1EJE0Ye3vg1LnTSl04xGHQgQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Expertini",
+          "apply_link": "https://croydon.uk.expertini.com/job/mobile-engineer-croydon-wates-d3d08fbc1965/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "?? Mobile Engineer – South East\n\nLocation: South East England (Mobile)\n\nAbout the Role\n\nWates Property Services is looking for a skilled and motivated Mobile Engineer to join our team, providing high-quality maintenance and repair services across residential and commercial properties in the South East region.\n\nAs a Mobile Engineer, you’ll play a key role in ensuring our clients receive prompt, professional, and effective service. You’ll be responsible for diagnosing faults, carrying out repairs, and ensuring compliance with health and safety standards.\n\nKey Responsibilities\n• Carry out planned and reactive maintenance across multiple sites\n• Diagnose and repair faults in building services systems\n• Ensure all work is completed to a high standard and in line with regulations\n• Maintain accurate records of work completed\n• Liaise with clients and colleagues to ensure excellent service delivery\n• Travel across the South East region as required\n\nWhat We’re Looking For\n• Proven experience in a similar mobile engineering role\n• Relevant trade qualifications (e.g. NVQ Level 2/3, City & Guilds)\n• Strong problem-solving skills and attention to detail\n• Full UK driving licence\n• Excellent communication and customer service skills\n• Ability to work independently and manage your own schedule\n\nGiven the nature of this position, you will need to undergo a Basic Disclosure and Barring Service Check (DBS) at offer stage. Applicants with criminal convictions will be assessed individually, and we assure you that we do not discriminate based on an applicant's criminal record or the details of any disclosed offenses. Additionally, certain roles may be subject to additional pre-employment checks.\n\nTo learn more about the checks included in this process, please click on the following link: National Security Vetting\n\nWates is one of the UK’s leading family-owned development, building and property maintenance companies. Founded over 125 years ago, we have a proud legacy in the built environment.\n\nWe are driven by our purpose, ‘reimagining places for people to thrive’ and our three promises:\n\nThriving places – working with customers, partners and communities to create places that are more sustainable, inclusive, and full of opportunity.\n\nThriving planet – protecting nature and taking action on climate change by collaborating and innovating with our partners.\n\nThriving people – creating opportunities and relationships so that everyone who works for and with us feels included, invested in, and treated with care.\n\nWe are proud to be recognised as Gold Investors in People and as a Disability Confident employer. We also ensure that our recruitment processes do not treat anyone less favourably due to an offending background.\n\nPLACEHOLDER",
+      "job_is_remote": false,
+      "job_posted_at": "21 days ago",
+      "job_posted_at_timestamp": 1762041600,
+      "job_posted_at_datetime_utc": "2025-11-02T00:00:00.000Z",
+      "job_location": "Croydon, United Kingdom",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.3769529,
+      "job_longitude": -0.0956895,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dd-lY1fMifea1_DKlAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "u6CASUt3s1Mxeid1AAAAAA==",
+      "job_title": "Senior Mobile Engineer -React Native/Typescript",
+      "employer_name": "Ziff Davis Shopping",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQplOcfV0K3gfRqe3iye1kk0a1MY4Mc6Wqqz3&s=0",
+      "employer_website": "https://www.ziffdavis.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=8ae67ea18ed25d21&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=8ae67ea18ed25d21&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/senior-mobile-engineer-ziff-davis-shopping-JV_IC2671300_KO0,22_KE23,42.htm?jl=1009864977764&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://uk.linkedin.com/jobs/view/senior-mobile-engineer-react-native-typescript-at-vouchercodes-4295410165?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talents By StudySmarter",
+          "apply_link": "https://talents.studysmarter.co.uk/companies/funding-circle/senior-mobile-engineer-funding-circle-4365546/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobijoba UK",
+          "apply_link": "https://www.jobijoba.co.uk/detail/92/dbb08fb52d7f4efc5ba4a1dc4416e667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Expertini",
+          "apply_link": "https://london.uk.expertini.com/job/senior-mobile-engineer-react-nativetypescript-london-ziff-davis-604610f55c70/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobilize",
+          "apply_link": "https://www.jobilize.com/job/gb-london-senior-mobile-engineer-react-native-typescript-ziff-davis?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "The Opportunity\n\nVoucherCodes is one of the UK’s largest money saving websites and leaders in the voucher codes space. Partnered with big brands like ASOS, Nike, Argos, Expedia and Pizza Express, we receive over 8 million visits per month. Our iOS and Android apps serve millions of users everyday and are a critical part of our product offering.\n\nWe are on a mission to make the VoucherCodes app an indispensable and trusted companion for UK shoppers, that delivers a personalised experience to help them save money whenever and however they shop. You will have the opportunity to shape this vision and play a key role in bringing it to life.\n\nWe’re looking for a Senior Mobile Engineer to join as part of our Engineering team of 25+ engineers in the UK across web, mobile and data, within a global team of 50+ engineers.\n\nThe right person will be an experienced React Native developer who knows what it takes to produce innovative, best-in-class mobile apps. You’ll care deeply about the features you’re implementing, are eager to use the latest tools and techniques, and have a track record of building delightful user experiences.\n\nJoin us at our bright, spacious open-plan office. Situated in the heart of London, we occupy all three floors of Yeoman House in Clerkenwell. The area is home to a wonderful array of cafés, restaurants, pubs and galleries. For the more adventurous, there's some of the best street food London has to offer right on our doorstep. We don’t expect you to be in the office every day - there’s plenty of flexibility so you can achieve a great work/life balance.\n\nIf the opportunity piques your interest, please submit your CV and a cover letter telling us why you're excited to apply to VoucherCodes. Since we'll have your CV already, no need to summarize what you've already achieved, please instead focus on what excites you about the opportunity. We encourage you to apply even if you don’t meet all the requirements.\n\nKey Responsibilities:\n• Owning the development of our iOS and Android apps\n• Collaborating with a cross-functional team of engineers, product managers, designers and more to create a best-in-class app\n• Building delightful product experiences that our users will find valuable\n• Ensuring high-quality code and functionality before performing releases\n• Establishing a mature CI/CD pipeline and great coding standards for our app\n• Facilitating product and engineering progress to achieve excellence\n• Staying up to date with the latest innovations in the mobile app ecosystem\n• Providing technical guidance within and outside of the Engineering team\n\nJob Qualifications:\n• 5+ years of commercial React Native development with expert-level TypeScript/JavaScript\n• Deep understanding of React Native ecosystem, including build processes, performance optimisation, LiveOps/monitoring and native development\n• Proven ability to accurately implement Figma designs with animations and microinteractions\n• Experience with modern tooling (Expo, CI/CD, monorepo management) and infrastructure (Docker, Kubernetes, Cloud services)\n• Good understanding of React rendering characteristics, best practices and web development topics (Layer 4/7, frontend, backend)\n• Technical leadership with great appetite for Engineering Excellence and strong mentoring capabilities\n• Excellent communication and collaboration skills\n• Action-oriented mindset focused on delivering best-in-class products\n• Proficiency in agentic coding tools and LLMs preferred but not required\n\nAbout Ziff Davis Shopping\n\nVoucherCodes is part of Ziff Davis Shopping, which helps millions of shoppers discover and save, delivering exceptional consumer and merchant-advertiser experiences across a portfolio of leading mobile and ecommerce brands. Our US brands include RetailMeNot, Offers.com, Blackfriday.com, TechBargains and more.\n\nAbout Ziff Davis\n\nZiff Davis (NASDAQ: ZD) is a vertically focused digital media and internet company whose portfolio includes leading brands in technology, shopping, gaming and entertainment, connectivity, health, cybersecurity, and martech. Today, Ziff Davis is focused on seven key verticals – Technology, Connectivity, Shopping, Entertainment, Health & Wellness, Cybersecurity and Marketing Technology. Its brands include IGN, Mashable, RetailMeNot, PCMag, Humble Bundle, Spiceworks, Ookla (Speedtest), RootMetrics, Everyday Health, BabyCenter, Moz, iContact and Vipre Security.\n\nOur Benefits\n\nZiff Davis Shopping offers competitive salaries in addition to robust, health and wellness-focused benefits. We are committed to work-life balance with paid time off when you need it.\n\nAt Ziff Davis, we remain dedicated to creating an environment where everyone feels valued, respected, and empowered to succeed. We offer Employee Resource Groups, company-sponsored events, and regular opportunities for professional growth through educational support, mentorship programs, and career development resources. Our employees are recognized and celebrated through employee engagement programs and recognition awards.\n\nIf you're seeking a dynamic and collaborative work environment where you can see the direct impact of your performance and thrive both personally and professionally, then Ziff Davis Shopping is the place for you.\n\nZiff Davis is an Equal Opportunity Employer. At Ziff Davis, Diversity, Equity, and Inclusion (DEI) has always been about fairness, equal opportunity, and belonging. DEI enables us to attract and retain the best talent, regardless of background or circumstances, while enabling our thousands of employees worldwide to thrive.\n\nWhat You’ll Get From Us:\n• The flexibility to get that perfect work/life balance with hybrid working - especially when balancing work with family or personal commitments.\n• A supportive, inclusive culture; we care about each other, our customers and our planet\n• Two uninterrupted hours a week dedicated to your personal development\n• Pension, with employer contributions up to 8%\n• Subsidised gym membership\n• Private medical insurance\n• Employee Assistance Programme\n• Free lunch from JustEat for Business when you’re in the office\n• Regular social events\n• 16 hours volunteering time per year along with donation matching\n• Enhanced parental leave, with specific support in place for returning to work parents\n\n#LI-vouchercodes",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Du6CASUt3s1Mxeid1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "DaJf1GpdRE6uX_c9AAAAAA==",
+      "job_title": "Software Engineer - React Native / Mobile",
+      "employer_name": "Natwest",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ46Kv-IwHlpM1GNSEVsHjpH45Z6gjd-GqBaIMb&s=0",
+      "employer_website": "https://www.natwestgroup.com",
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.glassdoor.co.uk/job-listing/software-engineer-react-native-mobile-natwest-JV_IC2671300_KO0,37_KE38,45.htm?jl=1009886022715&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/software-engineer-react-native-mobile-natwest-JV_IC2671300_KO0,37_KE38,45.htm?jl=1009886022715&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Experteer UK",
+          "apply_link": "https://www.experteer.co.uk/career/view-jobs/software-engineer-react-native-mobile-london-grossbritannien-54725840?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talents By StudySmarter",
+          "apply_link": "https://talents.studysmarter.co.uk/companies/orbis-group/mobile-engineer-react-native-tech-start-up-7967232/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SaluteMyJob",
+          "apply_link": "https://salutemyjob.com/jobs/mobile-applications-engineer-react-native-london/2460148804-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs For Stevenage Fans",
+          "apply_link": "https://jobs.stevenagefc.com/jobs/mobile-software-engineer-react-native-london/2470172186-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "KGET Jobs",
+          "apply_link": "https://jobs.kget.com/jobs/mobile-software-engineer-react-native-london/2460562434-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "KSNT Jobs",
+          "apply_link": "https://jobs.ksnt.com/jobs/mobile-software-engineer-react-native-london/2460562434-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "FOX8 Jobs",
+          "apply_link": "https://jobs.fox8.com/jobs/mobile-software-engineer-react-native-london/2470172186-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Join us as a Mobile Engineer\n• This is an opportunity for a technically minded Mobile Engineer to join Mettle and help build and develop the Mettle mobile application\n• You'll be developing features and solving complex problems, and providing technical coaching and oversight to other engineers in the team\n• If you're self-motivated, with a passion for business and technology innovation and enhancing customer experiences, this could be your ideal role\n\nWhat you'll do\n\nJoining one of our mission teams, you'll write custom JavaScript and identify when an off-the-shelf solution may be more suitable. You'll be working with stakeholders across the business to drive the direction of mobile development and put the long-term interests of our customers at the heart of key decisions.\n\nYou’ll also:\n• Develop clean, elegant, and reusable code that is well tested and easy to maintain and extend\n• Collaborate across our mobile chapter to uphold standards and best practices\n• Support other engineers to develop and grow, and act as a subject matter expert\n\nThe skills you'll need\n\nTo thrive in this role, you’ll need a background in software engineering with a passion for crafting well-tested and maintainable software. You’ll be self-motivated with experience of both business and technology innovation, as well as designing and building solutions that cater to a wide user base. You'll also bring the ability to identify the needs of the user and apply this understanding to enhance the overall customer experience.\n\nYou’ll also need:\n• Experience of delivering software as part of an agile team\n• Excellent programming skills in JavaScript, preferably with TypeScript and GraphQL experience\n• In-depth knowledge of the React and React Native frameworks\n• A good understanding of the Android and iOS platforms",
+      "job_is_remote": false,
+      "job_posted_at": "1 month ago",
+      "job_posted_at_timestamp": 1761177600,
+      "job_posted_at_datetime_utc": "2025-10-23T00:00:00.000Z",
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDaJf1GpdRE6uX_c9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "0tjm0MqZlzoG8NkDAAAAAA==",
+      "job_title": "Senior Mobile Engineer (iOS & Android)",
+      "employer_name": "OxSource",
+      "employer_logo": null,
+      "employer_website": "https://www.oxsource.co.uk",
+      "job_publisher": "Jooble",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.jooble.org/jdp/6740848455874679834?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://uk.jooble.org/jdp/6740848455874679834?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Senior Mobile Engineer (iOS & Android)\n\nOxSource is currently on the lookout for an experienced Mobile Engineer to join a growing start-up based in London.\n\nOnly a few years old and powered by next-generation AI, the company is building state-of-the-art video systems which can be used to deliver unprecedented insights across several different industries.\n\nAs an experienced Mobile Engineer, you will join a highly talented team of industry-leading experts to take full ownership of the company's iOS and Android Apps.\n\nRequired Skills:\n• BSc, MSc or PhD in Computer Science, Engineering or similar.\n• Experience building cross-platform applications using React Native.\n• Experience with the full development lifecycle of mobile applications.\n• Experience/knowledge of Swift, Objective-C or Java.\n\nLocation: London\n\nSalary: Up to £120,000 (DOE)\n\nContact: Jacob Moore – OxSource Ltd",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0tjm0MqZlzoG8NkDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "GSfJPOPhrLT63KwFAAAAAA==",
+      "job_title": "Mobile Engineer",
+      "employer_name": "Wates",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX2bcW0PYTdXhl6hinA8VVlQO1h4MPm7ZyJG_O&s=0",
+      "employer_website": "https://www.wates.co.uk",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=42459ab4d232e17e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=42459ab4d232e17e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Apply4U",
+          "apply_link": "https://www.apply4u.co.uk/jobs/bms-engineer/27377976?type=external&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.uk/job/ILx-SRlbIsO6Ho0LzzookBkGNpV2ccZtLqNqE4HjlLrBXegqMCECTA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/mobile-engineer-wates-group-JV_IC3294067_KO0,15_KE16,27.htm?jl=1009929473074&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talents By StudySmarter",
+          "apply_link": "https://talents.studysmarter.co.uk/companies/benjamin-associates-limited/bms-engineer-14547285/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Breakroom",
+          "apply_link": "https://www.breakroom.cc/en-gb/jobs/listing/86746009-wates-mobile-engineer-woking-surrey-gu22-7qq-united-kingdom?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobrapido",
+          "apply_link": "https://uk.jobrapido.com/recruit/www.ziprecruiter-mp-easyrapido.com/2560701783680745472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "?? Mobile Engineer (Electrical Bias) – Surrey/Berkshire\n\nLocation: Mobile – Covering Surrey and Berkshire\nContract Type: Full-time, Permanent\nQualifications Required: 18th Edition (BS7671)\n\nAre you an experienced Mobile Engineer, specifically with an electrical bias, looking for your next challenge? WPS is seeking a skilled and motivated professional to join our FM team, delivering high-quality maintenance services across a portfolio of sites in the Surrey and Berkshire area.\n\n?? About the Role:\n\nAs a Mobile Engineer, you’ll be responsible for:\n• Carrying out planned and reactive maintenance on electrical systems and associated building services.\n• Diagnosing faults and carrying out repairs in a timely and efficient manner.\n• Ensuring compliance with health and safety regulations and company procedures.\n• Providing excellent customer service to clients and stakeholders.\n\n? What We’re Looking For:\n• 18th Edition - essential.\n• Proven experience in a similar mobile engineering role.\n• Strong electrical fault-finding and maintenance skills.\n• Full UK driving licence.\n• Excellent communication and problem-solving abilities.\n\n?? What We Offer:\n• Competitive salary and benefits package.\n• Ongoing training and development opportunities.\n• A supportive and inclusive working environment.\n\nJoin a company that values its people and is committed to delivering excellence in facilities management.\n\nGiven the nature of this position, you will need to undergo a Basic Disclosure and Barring Service Check (DBS) at offer stage. Applicants with criminal convictions will be assessed individually, and we assure you that we do not discriminate based on an applicant's criminal record or the details of any disclosed offenses. Additionally, certain roles may be subject to additional pre-employment checks.\n\nTo learn more about the checks included in this process, please click on the following link: National Security Vetting\n\nWates is one of the UK’s leading family-owned development, building and property maintenance companies. Founded over 125 years ago, we have a proud legacy in the built environment.\n\nWe are driven by our purpose, ‘reimagining places for people to thrive’ and our three promises:\n\nThriving places – working with customers, partners and communities to create places that are more sustainable, inclusive, and full of opportunity.\nThriving planet – protecting nature and taking action on climate change by collaborating and innovating with our partners.\nThriving people – creating opportunities and relationships so that everyone who works for and with us feels included, invested in, and treated with care.\n\nWe are proud to be recognised as Gold Investors in People and as a Disability Confident employer. We also ensure that our recruitment processes do not treat anyone less favourably due to an offending background.\n\nPLACEHOLDER",
+      "job_is_remote": false,
+      "job_posted_at": "18 days ago",
+      "job_posted_at_timestamp": 1762300800,
+      "job_posted_at_datetime_utc": "2025-11-05T00:00:00.000Z",
+      "job_location": "Woking, United Kingdom",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.316773999999995,
+      "job_longitude": -0.5600349,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGSfJPOPhrLT63KwFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "4prkSSJtCmSpDFHVAAAAAA==",
+      "job_title": "Mobile Senior Tech Developer",
+      "employer_name": "Airwallex",
+      "employer_logo": null,
+      "employer_website": "https://www.airwallex.com",
+      "job_publisher": "Jooble",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.jooble.org/rjdp/8175366069912635939?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://uk.jooble.org/rjdp/8175366069912635939?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About Airwallex\nAirwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 150,000 businesses worldwide – including Brex, Rippling, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale.\nProudly founded in Melbourne, we have a team of over 1,700 of the brightest and most innovative people in tech across more than 37 locations around the globe. Valued at US$5.6 billion and backed by world-leading investors including Sequoia, Lone Pine, Greenoaks, DST Global, Salesforce Ventures and Mastercard, Airwallex is leading the charge in building the global payments and financial platform of the future. If you’re ready to do the most ambitious work of your career, join us.\nAbout the team\nOur Mobile Team own both our iOS and Android apps. We’re using the latest technologies like – for iOS: SwiftUI, Combine, Async/Await, and for Android: AndroidX, Coroutines, Hilt, and various Jetpack libraries.\nYou’ll be joining Airwallex at an exciting time as we build out features of our modern, native iOS and Android apps. These apps allows customers to manage business-to-business global payments, submit and approve expenses, and manage Airwallex virtual and physical cards with features such as Google/Apple Pay wallet integration for making card transactions.\nWhat you’ll do\nAs an experienced and dedicated Mobile Engineer, you are someone who enjoys building high quality, intuitive, user-friendly and beautiful mobile apps. You’re interested in working as part of a collaborative team that aims to build a great app using established best practices and the latest mobile frameworks.\nThis role will require a relocation to Singapore.\nResponsibilities\nDay to day you will contribute to the design of how our mobile apps look and feel, you’ll collaborate with your engineering colleagues to share knowledge and work out the best way of building features to ensure the apps are secure, reliable, tested and always available for our customers.\nAs our mobile apps are less than two years old, you’ll have direct impact and influence on the way we scale them up over the next few years.\nIn addition to core engineering duties, we actively encourage our engineering community to contribute to the growth of Airwallex generally. Our business is achieving rapid growth with an evolving roadmap, and we want our engineers to play a part in how that happens.\nWho you are\nWe’re looking for people who meet the minimum qualifications for this role. The preferred qualifications are great to have, but are not mandatory.\nMinimum Qualifications:\n• 5+ years experience developing native mobile apps and experience with Android or iOS development and modern frameworks and practice.\n• Bachelor degree or above in computer science or engineering related majors.\n• Has deployed one or more apps, ideally currently available in the Google or Apple stores\n• Writes testable code with high test coverage, and able to maintain automation pipelines for CI/CD (eg GitHub Actions/Bitrise)\n\nPreferred Qualifications:\n~ Experience with modern tools like AndroidX\n\nEqual opportunity\nAirwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard color, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status when making our hiring decisions. If you have a disability or special need that requires accommodation, please let us know.\nAirwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4prkSSJtCmSpDFHVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    }
+  ]
+}

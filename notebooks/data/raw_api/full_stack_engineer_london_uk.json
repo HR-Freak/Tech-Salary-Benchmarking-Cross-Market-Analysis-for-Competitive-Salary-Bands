@@ -1,0 +1,708 @@
+{
+  "status": "OK",
+  "request_id": "eeae75c5-1946-4ec7-b943-358243ceea33",
+  "parameters": {
+    "query": "Full Stack Engineer salary in London, UK",
+    "page": 1,
+    "num_pages": 1,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": [
+    {
+      "job_id": "fjZQvfRweiyOLSgDAAAAAA==",
+      "job_title": "Full Stack Engineer – Up to £260k per year",
+      "employer_name": "Oliver Bernard",
+      "employer_logo": null,
+      "employer_website": "https://oliverbernard.com",
+      "job_publisher": "SheCanCode",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://shecancode.io/job/full-stack-engineer-up-to-260k-per-year/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "SheCanCode",
+          "apply_link": "https://shecancode.io/job/full-stack-engineer-up-to-260k-per-year/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "IT Jobs London",
+          "apply_link": "https://www.itjobslondon.co.uk/job/full-stack-engineer-up-to-50k-hybrid-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Senior Full Stack Engineer\n\nLocation: Central London, office based, 5 days per week\n\nSalary: Up to £260k (!) total comp plus meaningful equity\n\nThe Role\n\nThis is a high impact full stack role with a fast scaling tech company that has recently reached unicorn status. You will join a small group of top tier engineers working on complex, high growth products in AI. Expect real ownership, high standards, and a pace that suits people who want to build category defining products.\n\nWhat You Will Work On\n\n• Design, build, and scale AI driven features across the product\n\n• Work across Python and TypeScript with a focus on high quality, clean engineering\n\n• Ship fast, iterate based on user feedback, and help shape product direction\n\n• Work alongside exceptional talent with backgrounds in trading, FAANG level engineering, and hyper growth startups\n\nWhat We Are Looking For\n\n• 2+ years full stack engineering experience in a company known for an elite engineering bar, a high growth tech startup, or a high frequency trading environment\n\n• 1+ year working in a genuine high growth startup environment at Seed to Series C\n\n• Strong academic background in Computer Science from a top university\n\n• Python expertise with strong TypeScript proficiency\n\n• Comfortable with asynchronous programming\n\n• Track record of delivering high impact projects or building fast scaling products\n\n• Experience building or integrating AI products\n\n• Clear motivation for a high ownership, office based, rapid execution culture",
+      "job_is_remote": false,
+      "job_posted_at": "6 days ago",
+      "job_posted_at_timestamp": 1763337600,
+      "job_posted_at_datetime_utc": "2025-11-17T00:00:00.000Z",
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfjZQvfRweiyOLSgDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "Ux_k45pAP0fZkQQGAAAAAA==",
+      "job_title": "Full-Stack Engineer (£80k-£120k + Equity) at VC-backed AI venture studio",
+      "employer_name": "Jack & Jill/External ATS",
+      "employer_logo": null,
+      "employer_website": null,
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=b3b5071999362823&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=b3b5071999362823&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/product-engineer-75k-120k-equity-at-well-funded-ai-product-studio-jack-jill-external-ats-JV_IC2671300_KO0,65_KE66,88.htm?jl=1009917521560&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://uk.linkedin.com/jobs/view/full-stack-engineer-%C2%A380k-%C2%A3120k-%2B-equity-at-vc-backed-ai-venture-studio-at-jack-jill-4316787590?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.uk/job/NV7DNYJTfe3piabOGXiHOvSVXZ11dQAM70G5EgCIFs4EZEyZj2_XEA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talents By StudySmarter",
+          "apply_link": "https://talents.studysmarter.co.uk/companies/jack-and-jill/product-engineer-75k-120k-equity-at-well-funded-ai-product-studio-14955488/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remote Rocketship",
+          "apply_link": "https://www.remoterocketship.com/company/jackandjill-ai/jobs/full-stack-engineer-vc-backed-ai-venture-studio-london-hybrid/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobijoba UK",
+          "apply_link": "https://www.jobijoba.co.uk/detail/92/9942f043081595428af29b2425564eaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee GB",
+          "apply_link": "https://gb.bebee.com/job/21036ec8e774778597cec9533c3e55c4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "This is a job that Jill is helping to recruit for on behalf of one of our customers. To apply, speak to Jack.\n\nTitle: Full-Stack Engineer (£80k-£120k + Equity) at VC-backed AI venture studio\n\nJob Title:\n\nFull-Stack Engineer\n\nSalary:\n\n£80k-£120k + Equity\n\nCompany Description:\n\nVC-backed AI venture studio\n\nJob Description:\n\nWe are seeking a Full-Stack Engineer to rapidly prototype and launch products across multiple early-stage AI companies within our venture studio. This role involves turning insights into production systems, building scalable foundations, and contributing to engineering culture, while delivering impactful AI solutions that customers love.\n\nLocation:\n\nLondon, UK\n\nWhy this role is remarkable:\n• Build and ship products at the frontier of AI.\n• Backed by top-tier VCs with an experienced team.\n• Shape the technical foundation of multiple early-stage AI ventures.\n\nWhat you will do:\n• Rapidly prototype and launch products across different industries and problem spaces.\n• Build robust, scalable full-stack systems (Python/FastAPI, React/Next.js, GCP).\n• Experiment with and integrate AI technologies (LLMs, LangChain, ML frameworks) into products.\n\nThe ideal candidate:\n• Strong background in full-stack development with Python/FastAPI and React/Next.js.\n• Experience with cloud infrastructure (GCP/AWS), Docker/Kubernetes, and CI/CD pipelines.\n• Entrepreneurial mindset with proven 0-to-1 building experience in early-stage environments.\n\nHow to Apply:\n\nTo apply for this job speak to Jack, our AI recruiter.\n\nStep 1. Visit our website.\n\nStep 2. Click 'Speak with Jack'.\n\nStep 3. Login with your LinkedIn profile.\n\nStep 4. Talk to Jack for 20 minutes so he can understand your experience and ambitions.\n\nStep 5. If the hiring manager would like to meet you, Jack will make the introduction.",
+      "job_is_remote": false,
+      "job_posted_at": "1 month ago",
+      "job_posted_at_timestamp": 1761177600,
+      "job_posted_at_datetime_utc": "2025-10-23T00:00:00.000Z",
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUx_k45pAP0fZkQQGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": "YEAR",
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "DzGQ4KLK5yIhIOnkAAAAAA==",
+      "job_title": "Full Stack Engineer - House Kubernetes",
+      "employer_name": "DoiT",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2-RmJchzlJjbhdyCvInHPLsQ2e09fFd63jnN&s=0",
+      "employer_website": "https://www.doit.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=0775fbb937356bc7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=0775fbb937356bc7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Totaljobs",
+          "apply_link": "https://www.totaljobs.com/job/full-stack-engineer-c-react-payments/client-server-job106203811?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Built In London",
+          "apply_link": "https://builtinlondon.uk/job/full-stack-engineer-kubernetes-house/7522027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "CW Jobs",
+          "apply_link": "https://www.cwjobs.co.uk/job/staff-engineer-full-stack-start-up/client-server-job106163974?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "CV-Library",
+          "apply_link": "https://www.cv-library.co.uk/job/224321478/Full-Stack-Data-Engineer-x2-England?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Himalayas.app",
+          "apply_link": "https://himalayas.app/companies/doit-international/jobs/full-stack-engineer-kubernetes-house?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/full-stack-engineer-house-kubernetes-doit-international-JV_IC2671300_KO0,36_KE37,55.htm?jl=1009923717358&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Functional Works - WorksHub",
+          "apply_link": "https://functional.works-hub.com/jobs/full-stack-engineer-928?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Location\n\nOur Full Stack Engineer will be an integral part of our Engineering teams in EMEA. This role is based remotely as a full-time employee in the UK, Ireland, Estonia, Israel, the Netherlands, and Sweden. We are also open to contractors in Eastern Europe and Portugal.\n\nWho We Are\nDoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production.\n\nDelivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.\n\nWith decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide.\n\nThe Opportunity\nAs a Full Stack Software Engineer in the Kubernetes House, you will play a key role in building and evolving the foundational infrastructure and services that power PerfectScale for Compute. You'll work on scalable, multi-cloud systems that enhance performance, cost efficiency, and automation across Kubernetes environments.\n\nYou'll design, develop, and maintain critical platform components, including cloud integrations and intelligent cost optimization workflows. This role offers a unique opportunity to shape the infrastructure that underpins the DoiT and PerfectScale partnership and directly influences how customers optimize and scale their compute workloads.\n\nResponsibilities\n• Collaborate with product, backend, and frontend engineers to deliver elegant, well-thought-out solutions for complex problems.\n• Implement features end-to-end - from proposal and design through implementation, testing, and maintenance.\nWrite clean, maintainable, and testable code following engineering best practices, and contribute to code reviews that raise overall quality.\n• Improve the health and maintainability of the codebase, proactively identifying and addressing technical debt.\n• Participate in team planning and provide thoughtful feedback during design discussions to identify challenges and opportunities early.\n\nQualifications\n• 5+ years of software development experience, ideally full stack (Go lang, React + Node.js/TypeScript) or strong backend/frontend, willing to expand skills.\n• Strong understanding of microservices architecture, API design, and cloud-native environments (AWS, GCP, and/or Azure).\n• Familiarity with cloud billing models, cost optimization, and cloud commitment management (e.g., Savings Plans, CUDs, SPs, RIs).\nExcellent communication and collaboration skills in English, both written and verbal.\n\nBonus Points\n• Experience working with Kubernetes and containerized applications in production environments.\n• Knowledge of DevOps practices and tooling (CI/CD, GitOps, Docker, Kubernetes).\n• Solid understanding of databases (relational and non-relational) like BigQuery, ClickHouse, Firestore\n\nAre you a Do'er?\n\nBe your truest self. Work on your terms. Make a difference.\n\nWe are home to a global team of incredible talent who work remotely and have the flexibility to have a schedule that balances your work and home life. We embrace and support leveling up your skills professionally and personally.\n\nWhat does being a Do'er mean? We're all about being entrepreneurial, pursuing knowledge, and having fun! Click here to learn more about our core values.\n\nSounds too good to be true? Check out our Glassdoor Page.\n\nWe thought so too, but we're here and happy we hit that 'apply' button.\n\nFull-time employee benefits include:\n• Unlimited Vacation\n• Flexible Working Options\n• Health Insurance\n• Parental Leave\n• Employee Stock Option Plan\n• Home Office Allowance\n• Professional Development Stipend\n• Peer Recognition Program\n\nMany Do'ers, One Team\n\nDoiT unites as Many Do'ers, One Team, where diversity is more than a goal—it's our strength. We actively cultivate an inclusive, equitable workplace, recognizing that each unique perspective enhances our innovation. By celebrating differences, we create an environment where every individual feels valued, contributing to our collective success.\n\n#LI-Remote",
+      "job_is_remote": true,
+      "job_posted_at": "24 days ago",
+      "job_posted_at_timestamp": 1761782400,
+      "job_posted_at_datetime_utc": "2025-10-30T00:00:00.000Z",
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDzGQ4KLK5yIhIOnkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "vmEcv2l608GTV79KAAAAAA==",
+      "job_title": "Full Stack Engineer, Prototyping",
+      "employer_name": "Miro",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbMtwfj74CH4mdN5B6q1Cw8N52sOxar-d2-j7&s=0",
+      "employer_website": "https://miro.com",
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.glassdoor.co.uk/job-listing/full-stack-engineer-prototyping-miro-JV_IC2671300_KO0,31_KE32,36.htm?jl=1009916528974&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/full-stack-engineer-prototyping-miro-JV_IC2671300_KO0,31_KE32,36.htm?jl=1009916528974&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Built In London",
+          "apply_link": "https://builtinlondon.uk/job/full-stack-engineer-prototyping/7466482?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://uk.linkedin.com/jobs/view/full-stack-engineer-prototyping-at-miro-4337711941?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=82e0a17cb63f24b7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Startup Jobs",
+          "apply_link": "https://startup.jobs/full-stack-engineer-prototyping-miro-7392356?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/full-stack-engineer-prototyping/7466482?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Next Level Jobs EU",
+          "apply_link": "https://nextleveljobs.eu/companies/miro/jobs/68fa56fe821bf6083a33577e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Accel Job Board",
+          "apply_link": "https://jobs.accel.com/companies/miro/jobs/61067450-full-stack-engineer-prototyping?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About the Team\n\nThe Prototyping team is responsible for Miro Prototypes, a set of AI-powered features that enable users to generate interactive prototypes from prompts, images, sticky notes, or spec documents—within minutes. We focus on turning early-stage ideas into shareable, collaborative visuals that accelerate the product design process. By combining generative AI with intuitive workflows, our goal is to empower product teams to move from brief to interactive flow quickly, iterate fast, and align visually across teams.\n\nAbout the Role\n\nWe're looking for a frontend-focused Full Stack Engineer to join the Prototyping team, where we build AI-powered tools that turn prompts, images, and notes into interactive prototypes. In this role, you'll collaborate closely with designers, PMs, and AI/ML engineers to deliver seamless, intuitive user experiences. You'll work across the stack - building rich interfaces with React and TypeScript and integrating backend services in Kotlin - to bring new features to life. This is a high-impact role suited for someone who thrives in fast-paced environments, enjoys rapid iteration, and is passionate about pushing the boundaries of AI-powered product experiences.\n\nWhat you'll do\n• Build intuitive, AI-powered prototyping features using React, TypeScript, and Kotlin, enabling users to go from brief to interactive flow in minutes\n• Collaborate closely with design, product, and AI/ML teams to prototype, ship, and iterate on user-facing features at speed\n• Translate fuzzy user problems and early concepts into well-scoped, technical implementation plans\n• Own frontend components end-to-end, from architecture and implementation to testing, performance, and monitoring\n• Participate in code reviews, technical planning, and shaping best practices that raise the engineering bar\n\nWhat you'll need\n• 5+ years of professional experience in full-stack development\n• Solid frontend skills with JavaScript/TypeScript and modern frameworks (e.g., React), and backend development experience (Java and/or Kotlin preferred)\n• Experience in building AI-powered digital products\n• Experience working in cross-functional teams with product and design, driving alignment and delivering impact\n• Collaborative and communicative, comfortable working across disciplines to align engineering with product goals\n• Detail-oriented without losing sight of the big picture, balancing technical excellence with delivery\n• Growth-oriented mindset with openness to feedback and a drive for continuous improvement\n• Empathetic towards users and teammates, with a strong sense of responsibility for product quality and team success\n\nWhat's in it for you\n• Competitive equity package\n• Health insurance for you and your family\n• Corporate pension plan\n• Lunch, snacks and drinks provided in the office\n• Wellbeing benefit and WFH equipment allowance\n• Annual learning and development allowance to grow your skills and career\n• Opportunity to work for a globally diverse team\n\nAbout Miro\n\nMiro is a visual workspace for innovation that enables distributed teams of any size to build the next big thing. The platform's infinite canvas enables teams to lead engaging workshops and meetings, design products, brainstorm ideas, and more. Miro, co-headquartered in San Francisco and Amsterdam, serves more than 100M users and 250,000 companies collaborate in the Innovation Workspace. Miro was founded in 2011 and currently has more than 1,600 employees in 13 hubs around the world.\n\nWe are a team of dreamers. We look for individuals who dream big, work hard, and above all stay humble. Collaboration is at the heart of what we do and through our work together we hope to create a supportive, welcoming, and innovative environment. We strive to play as a team to win the world and create a better version of ourselves every day. If this sounds like something that excites you, we want to hear from you!\n\nCheck out more about life at Miro:\n• Youtube: https://www.youtube.com/@lifeatmiro\n• Blog: https://miro.com/careers/life-at-miro/all/\n• Instagram: https://www.instagram.com/mirohq/\n\nAt Miro, we strive to create and foster an environment of belonging and collaboration across cultural differences. Miro's mission — Empower teams to create the next big thing — is how we think about our product, people, and culture. We believe that creating big things requires diverse and inclusive teams. Diversity invites all talent with different demography, identities and styles to step in, and inclusion invites them to step closer together. Every day, we are working to build a more diverse Miro, cultivate a sense of belonging for future and current Mironeers around the world, and foster an environment where everyone can collaborate and embrace differences.\n\nMiro handles and uses personal data of job applicants in line with its Recruitment Privacy Policy found here.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvmEcv2l608GTV79KAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "Y7uLkn0Yw0dsvVyTAAAAAA==",
+      "job_title": "Fullstack Engineer, User Platform",
+      "employer_name": "Spotify",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlln8O_qX9zspX4etnYUlFqG8S8RQejfaSY5V&s=0",
+      "employer_website": "https://www.spotify.com",
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.glassdoor.co.uk/job-listing/fullstack-engineer-user-platform-spotify-JV_IC2671300_KO0,32_KE33,40.htm?jl=1009764890611&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/fullstack-engineer-user-platform-spotify-JV_IC2671300_KO0,32_KE33,40.htm?jl=1009764890611&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.uk/job/x0RbpJwprGAYuCVlAJhglVQZgmFjIJgdxtx-fSZr0AngR1VRhSIbSQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=46a8230366d5fc76&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Karkidi",
+          "apply_link": "https://www.karkidi.com/job-details/81818-senior-analytics-engineer-user-platform-insights-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/fullstack-engineer-user-platform-spotify-JV_IC2671300_KO0,32_KE33,40.htm?jl=1009764890611&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talents By StudySmarter",
+          "apply_link": "https://talents.studysmarter.co.uk/companies/deel/senior-analytics-engineer-data-platform-7974155/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remote Rocketship",
+          "apply_link": "https://www.remoterocketship.com/company/hyperexponential-2/jobs/senior-backend-engineer-analytics-london-hybrid/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee GB",
+          "apply_link": "https://gb.bebee.com/job/31dd6c2be8eefaa043baedcd686ff375?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Engineering\n\nWeb\n\nPermanent\n\nLondon\n\nWe are looking for dedicated, engaged software engineers that are passionate about working on highly available, low latency client SDKs and the related backend services in the authentication and session management domains to join our teams. These form the backbone of our product experience for hundreds of millions of users worldwide. You’ll be directly helping with the evolution of Spotify’s overall authentication and session management infrastructure.\n\nWhat You'll Do\n• Be part of an autonomous and cross functional team of Mobile and Backend Engineers along with members from Product, Design and Insights to identify and tackle important problems in the Authentication and Session Management domains.\n• Build highly scalable backend services and SDKs that bring the happiness of music to millions of users.\n• Write clean and maintainable code that will scale across a number of projects and distributed development teams\n• Share knowledge, promote best practices, and collaborate with some of the best engineers in the company\n• Improve developer experience, the team is driven by a strong focus on clean APIs and engineering efficiency\n\nWho You Are\n• You’re a problem solver who loves seeing things through from concept to production and you’re eager to learn whatever skills are needed along the way.\n• You are a Fullstack Developer who understands the complexities of Server side vs Client side development\n• You’re proficient in Java and TypeScript, and ideally familiar with React, Next.js and C++\n• You’re a collaborative teammate who values inclusion and open communication.\n• You bring experience with strong testing practices, A/B testing, or CI/CD pipelines.\n• You have an understanding of the authentication domain, including OAuth and related protocols.\n• You’re familiar with cryptographic techniques and security best practices.\n\nWhere You'll Be\n• This role is based in London, United Kingdom\n• We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home.\n\nLearn about life at Spotify\n\nSpotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.\n\nAt Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.\n\nSpotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service.\n\nOur global benefits\n\nExtensive learning opportunities, through our dedicated team, GreenHouse.\n\nFlexible share incentives letting you choose how you share in our success.\n\nGlobal parental leave, six months off - for all new parents.\n\nAll The Feels, our employee assistance program and self-care hub.\n\nFlexible public holidays, swap days off according to your values and beliefs.",
+      "job_is_remote": false,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1763596800,
+      "job_posted_at_datetime_utc": "2025-11-20T00:00:00.000Z",
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DY7uLkn0Yw0dsvVyTAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "Wao4Akj1AsDUtxNLAAAAAA==",
+      "job_title": "Senior Full-Stack Engineer, Contract",
+      "employer_name": "Xcelirate",
+      "employer_logo": null,
+      "employer_website": "https://www.xcelirate.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Contractor",
+      "job_employment_types": [
+        "CONTRACTOR"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=70dc8c960fe501d6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=70dc8c960fe501d6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Totaljobs",
+          "apply_link": "https://www.totaljobs.com/job/contract-administrator/ser-staffing-ltd-job106150952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/senior-full-stack-engineer-contract-xcelirate-JV_IC2671300_KO0,35_KE36,45.htm?jl=1009858784543&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Jobs At GLORY | GLORY Careers",
+          "apply_link": "https://gloryglobal.pinpointhq.com/de-F/postings/ede97a0c-9edb-4b53-ae58-9f8f66783158?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "CV-Library",
+          "apply_link": "https://www.cv-library.co.uk/job/224255238/Contract-Administrator?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs At EcoSense Cleaning",
+          "apply_link": "https://ecosense-cleaning.hirehive.com/contract-administrator-eltham-london-fq3WSf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs In Jersey - Jersey Evening Post",
+          "apply_link": "https://jobs.jerseyeveningpost.com/jobs/senior-onboarding-administrator-guernsey/51044-1/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Workday",
+          "apply_link": "https://jll.wd1.myworkdayjobs.com/he-IL/jllcareers/job/Contract-Administrator_REQ468997?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Who Are We?\n\nXcelirate develops technologically-advanced platforms which are accessed by thousands of users every minute! We are proud to offer a workplace where the sharpest developers come together to strategically plan and swiftly execute practices which see us maintain our existing market dominance and attain global expansion. We owe our success to our customers who have seen us grow across a decade, and our talented team who have made that growth possible!\n\nWhat are we looking for?\n\nYou’re a full-stack dev - you’ve been around the block, and you know your way through both backend trenches and frontend battlefields. PHP? Still your reliable sidekick. JavaScript? Sometimes a mischievous friend, sometimes a chaos gremlin, but you’ve learned how to keep it in line.\n\nYou work best with fierce independence. You don’t need hand-holding - you’re the one who does the hand-holding when it’s needed. You don’t wait for direction; you are the direction. To twist a phrase: you’re not the one who knocks, you’re the one who delivers.\n\nYou live for making things work. Whether that’s a clean new feature, a quirky legacy bug fix, or tracking down why that button refuses to do what it’s told. You like code that’s neat and maintainable, but you’re also practical - you know sometimes duct tape is exactly what the situation calls for.\n\nBuilding apps is your thing - you tinker, refactor, and optimize because you can’t help yourself. You get a kick out of speeding things up, cleaning things up, and occasionally wondering what exactly your predecessor was drinking when they wrote that function.\n\nAnd yes, you’re not afraid to dive into the relics. That PHP app last touched in 2010? It still needs love. The JavaScript file with 1,200 lines and no semicolons? You’ll wrestle it into submission.\n\nWhat will you be doing?\n• Manage your own time while adhering to priorities set by the company.\n• Build new features and improve existing ones across our platforms.\n• Refactor and enhance applications to keep them performant, scalable, and maintainable.\n• Write tests (unit, integration, and end-to-end) to ensure software reliability.\n• Be involved in every phase of the software lifecycle, from ideation to deployment.\n• Participate in deep technical discussions and help shape our applications and infrastructure.\n• Get hands-on with all elements of the stack, from backend logic to frontend interactions.\n• Identify inefficiencies and help streamline workflows, reducing unnecessary work.\n• Take ownership of your work, ensuring high-quality results and maintainable solutions.\n\nRequirements\n\nWhat will you bring along?\n• 10+ years of PHP development, with expertise in at least one framework (Symfony, Zend preferred).\n• 12+ years of web application development experience: you’ve seen the evolution of web tech and know how to build for the future.\n• 6+ years working with frontend frameworks/libraries like Vue.js, React, Nuxt, or Next.js.\n• Deep understanding of scalable web architectures: monolithic, microservices, or hybrid, you know when to use what.\n• Strong communication skills, with the ability to explain technical concepts to both engineers and non-engineers.\n• Passion for automated testing (unit, integration, and end-to-end) and test-driven development (TDD).\n• Hands-on experience building and maintaining CI/CD pipelines.\n• Strong expertise in PHP development, debugging, and algorithm/software design.\n• Knowledge of agile development tools, techniques, and principles.\n• Familiarity with Ansible and Terraform for infrastructure automation.\n• Experience deploying, managing, and scaling applications in cloud environments (AWS, Azure, Google Cloud). Strong grasp of web security: encryption, authentication, authorization, and everything in between.\n\nWe are always looking for the best candidates, so if you think you would be a good fit even if you don't meet 100% of the requirements, we would love to hear from you!\n\nBenefits\n\nHow We Support Our Contractors\n• €60/hour + retention bonus scheme: Competitive contractor rate with a generous bonus paid every 6 months based on your time with us.\n• Top-Notch Workstation: We provide the latest MacBook, branded merchandise, and everything you need for an optimal work environment.\n• Global Co-Working Access: Work from a global network of co-working spaces to keep your work-life dynamic and flexible.\n• Flexibility: Enjoy full flexibility in work location and hours, supporting a work-life balance tailored to your needs.\n• Events and Gatherings: Participate in exciting events throughout the year, including team gatherings, cultural events, and other fun activities.",
+      "job_is_remote": true,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWao4Akj1AsDUtxNLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "db1MSM89WkkDxFb7AAAAAA==",
+      "job_title": "Senior Full Stack Engineer | London, UK | Hybrid",
+      "employer_name": "McGregor Boyall",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOu7Zz50BMbRlENpzAyAarnavt2kIbqf7AlUJ&s=0",
+      "employer_website": "https://www.mcgregor-boyall.com",
+      "job_publisher": "EFinancialCareers",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.efinancialcareers.co.uk/jobs-UK-London-Senior_Full_Stack_Engineer.id23444251?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "apply_options": [
+        {
+          "publisher": "EFinancialCareers",
+          "apply_link": "https://www.efinancialcareers.co.uk/jobs-UK-London-Senior_Full_Stack_Engineer.id23444251?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Senior Full Stack Engineer\n\nWe are seeking a talented Senior Full Stack Software Engineer to join a leading global investment management firm in London. Paying up to 120k plus bonus per annum, you will contribute to the development, optimisation, and design of front-office applications, collaborating with portfolio managers and product owners to create innovative and high-performance solutions.\n\nAs a Senior Full Stack Software Engineer, you will play a key role in developing and delivering critical investment management tools and systems. Your expertise will be essential in ensuring the optimal performance of the firm's core applications, while working closely with cross-functional teams to drive system improvements and innovations.\n\nBased in London, working to a hybrid working model 3 days a week, they believe in collaboration, teamwork, learning, and innovation. They strongly believe in professional development opportunities and empowering employees to make a difference!\n\nRequired Skills & Experience:\n• Extensive experience in frontend technologies (e.g., Vue.js, React) with a focus on UI/UX.\n• Proven backend expertise, particularly with Java (Python, Node.js a plus), and experience building distributed microservices-based architectures.\n• Strong knowledge of system design principles, scalable architecture patterns, and API design.\n• Hands-on experience with relational (Postgres, MySQL) and NoSQL (DynamoDB) databases.\n• Proficiency in cloud platforms (AWS, Azure, or GCP).\n• Experience with CI/CD pipelines and automated testing frameworks.\n• Deep understanding of investment products and trading workflows is a plus.\n\nIf you have the skills and experience required, then apply now!\n\nMcGregor Boyall is an equal opportunity employer and do not discriminate on any grounds.",
+      "job_is_remote": false,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1763596800,
+      "job_posted_at_datetime_utc": "2025-11-20T00:00:00.000Z",
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ddb1MSM89WkkDxFb7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "QT5Ot4KMkllU0NfvAAAAAA==",
+      "job_title": "Senior Full Stack Engineer - AI",
+      "employer_name": "EF Education First",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkv8cCdcW0iFYrhk13n8eTFPuquTFhYJZVtvCX&s=0",
+      "employer_website": null,
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=a6ac78e36c89e3ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=a6ac78e36c89e3ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://uk.linkedin.com/jobs/view/senior-full-stack-engineer-ai-at-hult-international-business-school-4306624493?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.uk/job/pbkmzh--6WbjcknKVLL2P8mqu3JXTLFZiDfjYdiTBO5QFZIQmDI9GQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.co.uk/jobs/466496957-senior-full-stack-engineer-ai-at-hult-international-business-school?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobijoba UK",
+          "apply_link": "https://www.jobijoba.co.uk/detail/92/5565f99044c351ca2bfa17002b34fab8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talent.com",
+          "apply_link": "https://uk.talent.com/view?id=a744fa7e0270&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "HighFive Partners Job Board",
+          "apply_link": "https://jobs.highfivepartners.com/companies/ef-education-first/jobs/59574984-senior-full-stack-engineer-ai?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "UK Job Search & Talent Acquisition | United Kingdom Jobs Expertini",
+          "apply_link": "https://uk.expertini.com/job/senior-full-stack-engineer-ai-london-ef-education-first-a744fa7e0270/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "This role focuses on front-end web development and AI-augmented workflows, designing and building the next generation of intelligent, personalized web platforms by applying AI and automation across the development lifecycle, while bringing strong human-centered design flair and visual craft.\n\nWe at Hult are a lean, high-impact team where every individual owns meaningful pieces of our mission. You're not just another developer—you're a key architect with the autonomy to drive real change and make decisions that matter.\n\nWe ship fast and iterate constantly. Our engineering philosophy is simple: great products are built through rapid refinement, not lengthy planning cycles.\n\nWe leverage AI as a force multiplier. We use cutting-edge tools to amplify human creativity, automate the mundane, and unlock possibilities we never thought achievable.\n\nFor those who dare to do mighty things—join us in shaping the future of education technology.\n\nYou will report directly to the Engineering Manager. This is a full-time, in-person role based at our London Chelsea office. We’re looking for someone who thrives in a fast-paced, on-site environment, collaborating closely with fellow Administrators, Developers, and Product Owners.\n\nResponsibilities\n\nCollaborate with design, backend, and data teams to prototype & deliver intelligent, adaptive, and scalable web experiences.\n\nDesign & optimize our personalization and tracking approach, whilst ensuring compliance with accessibility, privacy and security standards.\n\nActively scout, test, and implement new AI-driven tools and practices to enhance the development process and user experience.\n\nMaintain clean, performant, and modern front-end foundations using React, TypeScript/JavaScript, CSS, AWS Amplify, and related technologies.\n\nUse headless CMS platforms (e.g., Storyblok) to deliver content while ensuring compatibility with AI-driven development workflows.\n\nStructure complex projects into deliverable increments, contribute to agile processes, and produce technical documentation that accelerates team development.\n\nRequirements\n\nStrong background in front-end engineering (React, TypeScript/JavaScript, CSS, responsive design).\n\nDemonstrated experience with AI-driven development tools (e.g., AI code assistants, automated testing, intelligent deployment pipelines).\n\nFamiliarity with Storyblok (or other headless CMS) and web content workflows.\n\nUnderstanding of web analytics, personalization frameworks, and tracking methodologies.\n\nExperience with cloud platforms (AWS Amplify or similar) and deployment methodologies including CI/CD pipelines, environment management, and feature flag implementations.\n\nUnderstanding of API architecture and design patterns, including REST and GraphQL services.\n\nAbility to work independently and prioritize effectively.\n\nExcellent communication and collaboration skills across technical and non-technical stakeholders.\n\nA keen design sensibility to ensure modern, user-centric interfaces.\n\nCommitment to secure coding practices and awareness of compliance/privacy considerations.\n\nDesirable\n\nHands-on experience integrating LLMs and related frameworks into development workflows, including prompt engineering, context management, and orchestration. Familiarity with MCP or similar standards for managing model interactions, context persistence, and tooling integration is highly desirable.\n\nKnowledge of experimentation and optimization methods (A/B testing, automated UX improvements).\n\nStrong interest in emerging AI-driven web development trends and willingness to drive adoption internally.\n\nContributions to open-source projects involving automation, AI, or web engineering.\n\nThis is an exciting opportunity for someone eager to advance their career while exploring the full potential of AI in development. You’ll be at the forefront of creating intelligent, automated, and adaptive web platforms, working hands-on with cutting-edge technologies and making a tangible impact on the future of digital experiences.\n\nAbout us\n\nHult is a new kind of non-profit business school that constantly innovates to meet the needs of students, employers, and society in a world that is changing faster than ever before. More than a business school, Hult is a dynamic and multicultural community that educates, inspires, and connects some of the most forward-thinking business talent from around the world.\n\nWhat we do\n\nHult International Business School is a non-profit educational pioneer and the first triple accredited US business school. Ranked by the Financial Times, Economist, Forbes, and Bloomberg Businessweek, Hult offers undergraduate, graduate, and executive education programs across its global campuses and rotation centers in Boston, San Francisco, London, Dubai, and New York. The school’s philosophy is that business skills can only truly be learned by doing. By immersing students from all over the world in practical, hands-on experiences from day one, this fresh approach to education is creating a global community of confident, entrepreneurially minded graduates, ready to tackle the challenges of tomorrow.\n\nSolving problems and overcoming challenges is what our students do: all year, every year. We bring together creative, open-minded people from all over the world to find solutions to the world’s most pressing issues by doing business, not just studying it. So they graduate with the skills and the mindset to be ready for anything.\n\nAnd now we’re looking for talented workforce that think the same way.\n\nWe seek to promote an environment for our students, faculty, and staff that welcomes people from all backgrounds, ethnicities, races, religions, genders, sexual identities, abilities, and personal circumstances in a spirit of inclusivity and belonging. At Hult, we believe that it’s through our diversity that we find our strength.\n\nMission statement\n\nWe strive to be the most relevant business school in the world. By using our global reach and always being creative, entrepreneurial, and on the cutting edge, our aim is to have a positive impact on individuals and organizations by transforming their management practices. In so doing, we hope to be the business school of choice for existing and aspiring leaders. We will contribute to sustainable growth, helping leaders to integrate commercial success and societal well-being.\n\nEqual opportunities at Hult\n\nHult is dedicated to actively creating a diverse and inclusive environment and is proud to be an equal opportunity employer. We are committed to providing opportunity regardless of gender, religion, race, color, sexual identity, disability, ethnicity, age, and all the individual identities that make us unique. If you require any accommodation to assist you in the interview process, please submit this with your inquiry.\n\nHult offers competitive salaries and benefits in a global, empathetic, and highly multicultural working environment. If you are motivated by the prospect of an international career with a dynamic and forward-thinking school, we’d love to hear from you.\n\nLegal\n\nHult International Business School is a 501©(3) non-profit educational organization registered in the Commonwealth of Massachusetts, accredited by the New England Association of Schools and Colleges (NEASC) to award U.S. degrees. Students are awarded a joint U.S. and U.K. degree on successful completion of the program. The U.K. degree is awarded by the Ashridge (Bonar Law Memorial) Trust, known as Ashridge, with which Hult has a strategic alliance.\n\nApply Now",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQT5Ot4KMkllU0NfvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "FF36S-2xAL3mTBXHAAAAAA==",
+      "job_title": "Senior Full Stack Engineer | Voice",
+      "employer_name": "DeepL",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0js3tgRLuGy8BzqTCBg9wUG-OgdHDT4k2OD95&s=0",
+      "employer_website": "https://www.deepl.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=ee4d98f5aafaa0dc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=ee4d98f5aafaa0dc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs",
+          "apply_link": "https://jobs.ashbyhq.com/DeepL/4f2e02df-33c9-4ef5-aecb-7ebefde3d4e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/senior-full-stack-engineer-voice-deepl-JV_IC2671300_KO0,32_KE33,38.htm?jl=1009872025639&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In London",
+          "apply_link": "https://builtinlondon.uk/job/senior-full-stack-engineer-voice/7094568?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://uk.linkedin.com/jobs/view/senior-full-stack-engineer-voice-at-deepl-4298380260?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://uk.jooble.org/rjdp/2979543149388078725?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Index Ventures",
+          "apply_link": "https://www.indexventures.com/startup-jobs/deepl/senior-full-stack-engineer-voice-1/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Experteer UK",
+          "apply_link": "https://www.experteer.co.uk/career/view-jobs/senior-full-stack-engineer-%7C-voice-london-grossbritannien-53825907?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Meet DeepL\n\nDeepL is a global communications platform powered by Language AI. Since 2017, we’ve been on a mission to break down language barriers. Our human-sounding translations and intelligent writing suggestions are designed with enterprise security in mind. Today, they enable over 100,000 businesses to transform communications, reach new markets, and improve productivity. And, empower millions of individuals worldwide to make sense of the world and express their ideas.\n\nOur goal is to become the global leader in Language AI, building products that drive better communication, foster connections, and make a real-life impact. To achieve this, we need talented individuals like you to join our exciting journey. If you're ready to work with a dynamic team and build your career in the fast-moving AI space, DeepL is your next destination.\n\nWhat sets us apart\n\nWhat sets us apart is our blend of modern technology, competitive benefits, and an open, welcoming work culture that enables our people to thrive. When we share what it's like to work at DeepL, the reactions are overwhelmingly positive. This may be because of our products that have helped countless people worldwide or our shared mission to improve communication for individuals and businesses, bringing cultures closer together. What we know for sure is this: being part of DeepL means joining a team dedicated to innovation and employee well-being. Discover what our teams have to say about life at DeepL on LinkedIn, Instagram and our Blog.\n\nMeet the team behind this journey\n\nOur journey is built on the foundation of DeepL, a name synonymous with world-class translation quality. The trust we have cultivated with millions of users and leading enterprise customers globally is a testament to our commitment to breaking down language barriers with precision and nuance.\n\nLeading our next chapter is the Voice team. As a dynamic track, we bring together multiple teams across Research, Product Engineering and Design. Together, we are defining the art of the possible for real-time voice interpretation.\n\nFounded just two years ago, we achieved a significant milestone in late 2024 with the successful launch of our first customer-facing features. We are now scaling up with applications designed for major meeting platforms, real-time communication channels, and a powerful Public API to extend our functionality to a broader set of applications.\n\nYour responsibilities\n• Design and build full-stack features: You’ll own problems end-to-end, collaborating closely with product managers, designers, and other engineers to ship scalable, user-facing features with real impact\n• Maintain and improve systems: You’ll take shared ownership of our existing systems, ensuring they stay performant, maintainable, and reliable as we grow\n• Ensure code quality and clarity: You’ll participate in thoughtful code reviews, contribute to architectural decisions, and help raise the bar for engineering excellence across the team\n• Collaborate cross-functionally: You’ll work closely with teammates across disciplines to ensure we’re solving the right problems and delivering real value to users\n• Adapt and grow: You’ll stay curious and keep up with evolving tools and technologies—learning quickly and applying new skills when needed\n• Participation in our on-call rotation: You’ll ensure the reliability and availability of our services by being available to join the team's shared on-call rotation as needed\n\nQualities we look for\n• Strong product engineering mindset: You care deeply about solving real user problems and balance pragmatism with technical rigor when designing systems\n• Full-stack fluency: You're comfortable working across the stack, even if your strengths lean more towards backend or frontend. You have solid foundations in system design, and you understand how to ship production systems\n• Engineering foundations: You have strong software engineering skills—clean abstractions, robust data modeling, sound architectural decisions—and know how to make things scale\n• Collaborative communicator: You’re a clear communicator, active listener, and team player. You thrive in a collaborative environment and welcome feedback\n• Growth-oriented: You’re eager to learn, open to new challenges, and not afraid to work with unfamiliar languages or tools when the problem demands it\n\nWhat we offer\n• Diverse and internationally distributed team: joining our team means becoming part of a large, global community with people of more than 90 nationalities. We're more than just colleagues; we're a group of professionals with a shared mission to connect diverse cultures. Our global presence is growing–we've doubled in size nearly every year, with our employees based in the UK, Germany, the Netherlands, Poland, the US, and Japan, and we continue to expand our network\n• Open communication, regular feedback: as a language-focused company, we value the importance of clear, honest communication. We value smooth collaboration, direct and actionable feedback, and believe that leading with empathy and growth mindset makes us better together\n• Hybrid work, flexible hours: we offer a hybrid work schedule, with team members coming into the office twice a week. This allows you to engage directly with your team and experience the unique energy of our workspace, while still enjoying the flexibility and comfort of working from home. With flexible working hours and trust in your productivity, we are in sync with your team’s general locations and time zones to foster effective and seamless collaboration\n• Monthly full-day hacking sessions: every month, we have Hack Fridays, where you can spend your time diving into a project you're passionate about and get the opportunity to work with other teams–we value your initiatives, impact, and creativity\n• 30 days of annual leave: we value your peace of mind. With 30 days off (excluding public holidays) and access to mental health resources, we make sure you're as strong mentally as you are professionally\n• Virtual Shares: An ownership mindset in every role. We believe everyone should share in our success, and that’s why every employee receives Virtual Shares, linking your contribution directly to DeepL’s growth and rewarding you with a stake in our future\n• Competitive benefits: just as our team spans the globe, so does our benefits package. We've crafted it to reflect the diversity of our team and tailored it to align with your unique location, to ensure you feel supported every step of the way\n\nIf this role and our mission resonate with you, but you're hesitant because you don't check all the boxes, don't let that hold you back. At DeepL, it's all about the value you bring and the growth we can foster together. Go ahead, apply—let's discover your potential together. We can't wait to meet you!\n\nWe are an equal opportunity employer\n\nYou are welcome at DeepL for who you are—we appreciate authenticity here. Our product is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all succeed, contribute, and think forward! So bring us your personal experience, your perspectives, and your background. It’s in our diversity that we will find the power to break down language barriers in the world.",
+      "job_is_remote": false,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFF36S-2xAL3mTBXHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "2Kv1ajc47Lz49KsKAAAAAA==",
+      "job_title": "Senior Fullstack Engineer, Platform",
+      "employer_name": "Spotify",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YPTeJg-OKEzCA0WAYM8QsMGfz1FiexOtFMSU&s=0",
+      "employer_website": "https://www.spotify.com",
+      "job_publisher": "Indeed",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://uk.indeed.com/viewjob?jk=281ee0ce012a7079&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://uk.indeed.com/viewjob?jk=281ee0ce012a7079&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.co.uk/job-listing/senior-fullstack-engineer-platform-spotify-JV_IC2671300_KO0,34_KE35,42.htm?jl=1009940074436&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.co.uk/job/7kCo7hgJZtyj31Rnz7HtscRXJXhfqAeYsy03jQ5f_GaxR-QfZjnpAw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Theround",
+          "apply_link": "https://www.theround.com/spotify-jobs/senior-fullstack-engineer-commerce-platform/ab3c50c4-595a-46c4-8298-6bbf32ea061a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Startup Jobs",
+          "apply_link": "https://startup.jobs/senior-fullstack-engineer-commerce-platform-spotify-7294811?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Simplify",
+          "apply_link": "https://simplify.jobs/p/4cc12236-086b-418f-948a-96107fd3aee4/Senior-Fullstack-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee GB",
+          "apply_link": "https://gb.bebee.com/job/77391f639594cedad40f27227ecf637f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Built In London",
+          "apply_link": "https://builtinlondon.uk/job/senior-fullstack-engineer-commerce-platform/7256015?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Engineering\n\nWeb\n\nPermanent\n\nLondon\n\nWe are looking for dedicated, engaged software engineers that are passionate about working on highly available, low latency client SDKs and the related backend services in the authentication and session management domains to join our teams. These form the backbone of our product experience for hundreds of millions of users worldwide. You’ll be directly helping with the evolution of Spotify’s overall authentication and session management infrastructure.\n\nWhat You'll Do\n• Be part of an autonomous and cross functional team of Mobile and Backend Engineers along with members from Product, Design and Insights to identify and tackle important problems in the Authentication and Session Management domains.\n• Build highly scalable backend services and SDKs that bring the happiness of music to millions of users.\n• Write clean and maintainable code that will scale across a number of projects and distributed development teams\n• Share knowledge, promote best practices, and collaborate with some of the best engineers in the company\n• Improve developer experience, the team is driven by a strong focus on clean APIs and engineering efficiency\n\nWho You Are\n• You’re a problem solver who loves seeing things through from concept to production and you’re eager to learn whatever skills are needed along the way.\n• You are a Fullstack Developer who understands the complexities of Server side vs Client side development\n• You’re proficient in Java and TypeScript, and ideally familiar with React, Next.js and C++\n• You’re a collaborative teammate who values inclusion and open communication.\n• You bring experience with strong testing practices, A/B testing, or CI/CD pipelines.\n• You have an understanding of the authentication domain, including OAuth and related protocols.\n• You’re familiar with cryptographic techniques and security best practices.\n\nWhere You'll Be\n• This role is based in London, United Kingdom\n• We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home.\n\nLearn about life at Spotify\n\nSpotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.\n\nAt Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.\n\nSpotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service.\n\nOur global benefits\n\nExtensive learning opportunities, through our dedicated team, GreenHouse.\n\nFlexible share incentives letting you choose how you share in our success.\n\nGlobal parental leave, six months off - for all new parents.\n\nAll The Feels, our employee assistance program and self-care hub.\n\nFlexible public holidays, swap days off according to your values and beliefs.",
+      "job_is_remote": false,
+      "job_posted_at": "9 days ago",
+      "job_posted_at_timestamp": 1763078400,
+      "job_posted_at_datetime_utc": "2025-11-14T00:00:00.000Z",
+      "job_location": "London, United Kingdom",
+      "job_city": "London",
+      "job_state": null,
+      "job_country": "GB",
+      "job_latitude": 51.5072178,
+      "job_longitude": -0.12758619999999998,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2Kv1ajc47Lz49KsKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4"
+    }
+  ]
+}

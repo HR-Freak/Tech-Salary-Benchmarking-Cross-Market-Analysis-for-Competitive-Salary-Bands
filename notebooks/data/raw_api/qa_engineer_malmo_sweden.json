@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "request_id": "5de1798d-9b8b-40ec-960c-429603a9a190",
+  "parameters": {
+    "query": "QA Engineer salary in Malmo, Sweden",
+    "page": 1,
+    "num_pages": 1,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": []
+}

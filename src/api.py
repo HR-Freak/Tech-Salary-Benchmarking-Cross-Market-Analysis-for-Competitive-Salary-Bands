@@ -48,7 +48,16 @@ def fetch_role_location(role, location, years_experience=None, force_refresh=Fal
 
 
 def extract_rows(payload):
-    data = payload.get("data", [])
+
+    if isinstance(payload, dict):
+        data = payload.get("data", [])
+        if isinstance(data, dict):
+            data = [data]
+
+    elif isinstance(payload, list):
+        data = payload
+    else:
+        return []
 
     rows = []
     for item in data:

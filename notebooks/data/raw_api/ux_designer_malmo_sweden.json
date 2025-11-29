@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "request_id": "daa4168a-204c-4042-a1ee-c2a085c49ff6",
+  "parameters": {
+    "query": "UX Designer salary in Malmo, Sweden",
+    "page": 1,
+    "num_pages": 1,
+    "radius": 50,
+    "country": "us",
+    "language": "en"
+  },
+  "data": []
+}
