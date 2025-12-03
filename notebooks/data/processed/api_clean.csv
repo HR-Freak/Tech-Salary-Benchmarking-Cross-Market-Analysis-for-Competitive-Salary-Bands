@@ -1,139 +1,139 @@
-location_clean,job_title_clean,min_salary_annual_gbp,max_salary_annual_gbp,avg_salary_annual_gbp,confidence,publisher_name,source_file
-Portugal,Software Developer,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,"software_developer__lisbon,_portugal__lvl_junior"
-Portugal,Software Developer,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,"software_developer__lisbon,_portugal__lvl_mid"
-Portugal,Software Developer,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,"software_developer__lisbon,_portugal__lvl_senior"
-Portugal,Software Developer,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,"software_developer__lisbon,_portugal__lvl_lead"
-Portugal,Software Developer,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,"software_developer__lisbon,_portugal__lvl_principal"
-Portugal,Software Developer,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,"software_developer__lisbon,_portugal__lvl_head of"
-Sweden,Software Developer,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,"software_developer__malmo,_sweden__lvl_junior"
-Sweden,Software Developer,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,"software_developer__malmo,_sweden__lvl_mid"
-Sweden,Software Developer,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,"software_developer__malmo,_sweden__lvl_senior"
-Sweden,Software Developer,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,"software_developer__malmo,_sweden__lvl_lead"
-Sweden,Software Developer,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,"software_developer__malmo,_sweden__lvl_principal"
-Sweden,Software Developer,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,"software_developer__malmo,_sweden__lvl_head of"
-New York,Software Developer,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,"software_developer__new_york,_usa__lvl_junior"
-New York,Software Developer,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,"software_developer__new_york,_usa__lvl_mid"
-New York,Software Developer,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,"software_developer__new_york,_usa__lvl_senior"
-New York,Software Developer,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,"software_developer__new_york,_usa__lvl_lead"
-New York,Software Developer,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,"software_developer__new_york,_usa__lvl_principal"
-New York,Software Developer,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,"software_developer__new_york,_usa__lvl_head of"
-Portugal,Software Engineer,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,"software_engineer__lisbon,_portugal__lvl_junior"
-Portugal,Software Engineer,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,"software_engineer__lisbon,_portugal__lvl_mid"
-Portugal,Software Engineer,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,"software_engineer__lisbon,_portugal__lvl_senior"
-Portugal,Software Engineer,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,"software_engineer__lisbon,_portugal__lvl_lead"
-Portugal,Software Engineer,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,"software_engineer__lisbon,_portugal__lvl_principal"
-Portugal,Software Engineer,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,"software_engineer__lisbon,_portugal__lvl_head of"
-Sweden,Software Engineer,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,"software_engineer__malmo,_sweden__lvl_junior"
-Sweden,Software Engineer,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,"software_engineer__malmo,_sweden__lvl_mid"
-Sweden,Software Engineer,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,"software_engineer__malmo,_sweden__lvl_senior"
-Sweden,Software Engineer,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,"software_engineer__malmo,_sweden__lvl_lead"
-Sweden,Software Engineer,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,"software_engineer__malmo,_sweden__lvl_principal"
-Sweden,Software Engineer,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,"software_engineer__malmo,_sweden__lvl_head of"
-New York,Software Engineer,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,"software_engineer__new_york,_usa__lvl_junior"
-New York,Software Engineer,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,"software_engineer__new_york,_usa__lvl_mid"
-New York,Software Engineer,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,"software_engineer__new_york,_usa__lvl_senior"
-New York,Software Engineer,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,"software_engineer__new_york,_usa__lvl_lead"
-New York,Software Engineer,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,"software_engineer__new_york,_usa__lvl_principal"
-New York,Software Engineer,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,"software_engineer__new_york,_usa__lvl_head of"
-Portugal,Full Stack Engineer,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,"full_stack_web_developer__lisbon,_portugal__lvl_junior"
-Portugal,Full Stack Engineer,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,"full_stack_web_developer__lisbon,_portugal__lvl_mid"
-Portugal,Full Stack Engineer,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,"full_stack_web_developer__lisbon,_portugal__lvl_senior"
-Portugal,Full Stack Engineer,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,"full_stack_web_developer__lisbon,_portugal__lvl_lead"
-Portugal,Full Stack Engineer,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,"full_stack_web_developer__lisbon,_portugal__lvl_principal"
-Portugal,Full Stack Engineer,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,"full_stack_web_developer__lisbon,_portugal__lvl_head of"
-Sweden,Full Stack Engineer,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,"full_stack_web_developer__malmo,_sweden__lvl_junior"
-Sweden,Full Stack Engineer,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,"full_stack_web_developer__malmo,_sweden__lvl_mid"
-Sweden,Full Stack Engineer,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,"full_stack_web_developer__malmo,_sweden__lvl_senior"
-Sweden,Full Stack Engineer,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,"full_stack_web_developer__malmo,_sweden__lvl_lead"
-Sweden,Full Stack Engineer,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,"full_stack_web_developer__malmo,_sweden__lvl_principal"
-Sweden,Full Stack Engineer,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,"full_stack_web_developer__malmo,_sweden__lvl_head of"
-New York,Full Stack Engineer,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,"full_stack_web_developer__new_york,_usa__lvl_junior"
-New York,Full Stack Engineer,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,"full_stack_web_developer__new_york,_usa__lvl_mid"
-New York,Full Stack Engineer,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,"full_stack_web_developer__new_york,_usa__lvl_senior"
-New York,Full Stack Engineer,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,"full_stack_web_developer__new_york,_usa__lvl_lead"
-New York,Full Stack Engineer,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,"full_stack_web_developer__new_york,_usa__lvl_principal"
-New York,Full Stack Engineer,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,"full_stack_web_developer__new_york,_usa__lvl_head of"
-Portugal,Mobile Engineer,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,"mobile_developer__lisbon,_portugal__lvl_junior"
-Portugal,Mobile Engineer,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,"mobile_developer__lisbon,_portugal__lvl_mid"
-Portugal,Mobile Engineer,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,"mobile_developer__lisbon,_portugal__lvl_senior"
-Portugal,Mobile Engineer,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,"mobile_developer__lisbon,_portugal__lvl_lead"
-Portugal,Mobile Engineer,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,"mobile_developer__lisbon,_portugal__lvl_principal"
-Portugal,Mobile Engineer,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,"mobile_developer__lisbon,_portugal__lvl_head of"
-New York,Mobile Engineer,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,"mobile_developer__new_york,_usa__lvl_junior"
-New York,Mobile Engineer,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,"mobile_developer__new_york,_usa__lvl_mid"
-New York,Mobile Engineer,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,"mobile_developer__new_york,_usa__lvl_senior"
-New York,Mobile Engineer,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,"mobile_developer__new_york,_usa__lvl_lead"
-New York,Mobile Engineer,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,"mobile_developer__new_york,_usa__lvl_principal"
-New York,Mobile Engineer,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,"mobile_developer__new_york,_usa__lvl_head of"
-Portugal,UX Designer,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,"ux_designer__lisbon,_portugal__lvl_junior"
-Portugal,UX Designer,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,"ux_designer__lisbon,_portugal__lvl_mid"
-Portugal,UX Designer,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,"ux_designer__lisbon,_portugal__lvl_senior"
-Portugal,UX Designer,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,"ux_designer__lisbon,_portugal__lvl_lead"
-Portugal,UX Designer,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,"ux_designer__lisbon,_portugal__lvl_principal"
-Portugal,UX Designer,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,"ux_designer__lisbon,_portugal__lvl_head of"
-Sweden,UX Designer,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,"ux_designer__malmo,_sweden__lvl_junior"
-Sweden,UX Designer,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,"ux_designer__malmo,_sweden__lvl_mid"
-Sweden,UX Designer,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,"ux_designer__malmo,_sweden__lvl_senior"
-Sweden,UX Designer,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,"ux_designer__malmo,_sweden__lvl_lead"
-Sweden,UX Designer,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,"ux_designer__malmo,_sweden__lvl_principal"
-Sweden,UX Designer,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,"ux_designer__malmo,_sweden__lvl_head of"
-New York,UX Designer,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,"ux_designer__new_york,_usa__lvl_junior"
-New York,UX Designer,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,"ux_designer__new_york,_usa__lvl_mid"
-New York,UX Designer,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,"ux_designer__new_york,_usa__lvl_senior"
-New York,UX Designer,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,"ux_designer__new_york,_usa__lvl_lead"
-New York,UX Designer,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,"ux_designer__new_york,_usa__lvl_principal"
-New York,UX Designer,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,"ux_designer__new_york,_usa__lvl_head of"
-Portugal,QA Engineer,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,"qa_engineer__lisbon,_portugal__lvl_junior"
-Portugal,QA Engineer,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,"qa_engineer__lisbon,_portugal__lvl_mid"
-Portugal,QA Engineer,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,"qa_engineer__lisbon,_portugal__lvl_senior"
-Portugal,QA Engineer,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,"qa_engineer__lisbon,_portugal__lvl_lead"
-Portugal,QA Engineer,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,"qa_engineer__lisbon,_portugal__lvl_principal"
-Portugal,QA Engineer,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,"qa_engineer__lisbon,_portugal__lvl_head of"
-Sweden,QA Engineer,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,"qa_engineer__malmo,_sweden__lvl_junior"
-Sweden,QA Engineer,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,"qa_engineer__malmo,_sweden__lvl_mid"
-Sweden,QA Engineer,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,"qa_engineer__malmo,_sweden__lvl_senior"
-Sweden,QA Engineer,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,"qa_engineer__malmo,_sweden__lvl_lead"
-Sweden,QA Engineer,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,"qa_engineer__malmo,_sweden__lvl_principal"
-Sweden,QA Engineer,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,"qa_engineer__malmo,_sweden__lvl_head of"
-New York,QA Engineer,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,"qa_engineer__new_york,_usa__lvl_junior"
-New York,QA Engineer,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,"qa_engineer__new_york,_usa__lvl_mid"
-New York,QA Engineer,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,"qa_engineer__new_york,_usa__lvl_senior"
-New York,QA Engineer,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,"qa_engineer__new_york,_usa__lvl_lead"
-New York,QA Engineer,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,"qa_engineer__new_york,_usa__lvl_principal"
-New York,QA Engineer,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,"qa_engineer__new_york,_usa__lvl_head of"
-Portugal,Backend Engineer,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,"backend_engineer__lisbon,_portugal__lvl_junior"
-Portugal,Backend Engineer,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,"backend_engineer__lisbon,_portugal__lvl_mid"
-Portugal,Backend Engineer,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,"backend_engineer__lisbon,_portugal__lvl_senior"
-Portugal,Backend Engineer,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,"backend_engineer__lisbon,_portugal__lvl_lead"
-Portugal,Backend Engineer,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,"backend_engineer__lisbon,_portugal__lvl_principal"
-Portugal,Backend Engineer,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,"backend_engineer__lisbon,_portugal__lvl_head of"
-Sweden,Backend Engineer,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,"backend_engineer__malmo,_sweden__lvl_junior"
-Sweden,Backend Engineer,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,"backend_engineer__malmo,_sweden__lvl_mid"
-Sweden,Backend Engineer,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,"backend_engineer__malmo,_sweden__lvl_senior"
-Sweden,Backend Engineer,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,"backend_engineer__malmo,_sweden__lvl_lead"
-Sweden,Backend Engineer,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,"backend_engineer__malmo,_sweden__lvl_principal"
-Sweden,Backend Engineer,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,"backend_engineer__malmo,_sweden__lvl_head of"
-New York,Backend Engineer,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,"backend_engineer__new_york,_usa__lvl_junior"
-New York,Backend Engineer,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,"backend_engineer__new_york,_usa__lvl_mid"
-New York,Backend Engineer,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,"backend_engineer__new_york,_usa__lvl_senior"
-New York,Backend Engineer,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,"backend_engineer__new_york,_usa__lvl_lead"
-New York,Backend Engineer,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,"backend_engineer__new_york,_usa__lvl_principal"
-New York,Backend Engineer,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,"backend_engineer__new_york,_usa__lvl_head of"
-Portugal,Frontend Engineer,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,"frontend_engineer__lisbon,_portugal__lvl_junior"
-Portugal,Frontend Engineer,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,"frontend_engineer__lisbon,_portugal__lvl_mid"
-Portugal,Frontend Engineer,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,"frontend_engineer__lisbon,_portugal__lvl_senior"
-Portugal,Frontend Engineer,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,"frontend_engineer__lisbon,_portugal__lvl_lead"
-Portugal,Frontend Engineer,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,"frontend_engineer__lisbon,_portugal__lvl_principal"
-Portugal,Frontend Engineer,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,"frontend_engineer__lisbon,_portugal__lvl_head of"
-Sweden,Frontend Engineer,37800.0,39600.0,38700.0,LOW,Glassdoor,"frontend_engineer__malmo,_sweden__lvl_junior"
-Sweden,Frontend Engineer,37800.0,39600.0,38700.0,LOW,Glassdoor,"frontend_engineer__malmo,_sweden__lvl_mid"
-Sweden,Frontend Engineer,37800.0,39600.0,38700.0,LOW,Glassdoor,"frontend_engineer__malmo,_sweden__lvl_senior"
-Sweden,Frontend Engineer,37800.0,39600.0,38700.0,LOW,Glassdoor,"frontend_engineer__malmo,_sweden__lvl_lead"
-Sweden,Frontend Engineer,37800.0,39600.0,38700.0,LOW,Glassdoor,"frontend_engineer__malmo,_sweden__lvl_principal"
-Sweden,Frontend Engineer,37800.0,39600.0,38700.0,LOW,Glassdoor,"frontend_engineer__malmo,_sweden__lvl_head of"
-New York,Frontend Engineer,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,"frontend_engineer__new_york,_usa__lvl_junior"
-New York,Frontend Engineer,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,"frontend_engineer__new_york,_usa__lvl_mid"
-New York,Frontend Engineer,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,"frontend_engineer__new_york,_usa__lvl_senior"
-New York,Frontend Engineer,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,"frontend_engineer__new_york,_usa__lvl_lead"
-New York,Frontend Engineer,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,"frontend_engineer__new_york,_usa__lvl_principal"
-New York,Frontend Engineer,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,"frontend_engineer__new_york,_usa__lvl_head of"
+location_clean,job_title_clean,job_level_clean,min_salary_annual_gbp,max_salary_annual_gbp,avg_salary_annual_gbp,confidence,publisher_name,source_file
+Portugal,Software Developer,Junior,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,software_developer__portugal__lvl_junior
+Portugal,Software Developer,Mid,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,software_developer__portugal__lvl_mid
+Portugal,Software Developer,Senior,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,software_developer__portugal__lvl_senior
+Portugal,Software Developer,Lead,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,software_developer__portugal__lvl_lead
+Portugal,Software Developer,Principal,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,software_developer__portugal__lvl_principal
+Portugal,Software Developer,Head of,16447.5,27327.5,21887.499999999996,VERY_HIGH,Glassdoor,software_developer__portugal__lvl_head of
+Sweden,Software Developer,Junior,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,software_developer__sweden__lvl_junior
+Sweden,Software Developer,Mid,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,software_developer__sweden__lvl_mid
+Sweden,Software Developer,Senior,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,software_developer__sweden__lvl_senior
+Sweden,Software Developer,Lead,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,software_developer__sweden__lvl_lead
+Sweden,Software Developer,Principal,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,software_developer__sweden__lvl_principal
+Sweden,Software Developer,Head of,31651.05,49942.5,40796.775,VERY_HIGH,Glassdoor,software_developer__sweden__lvl_head of
+New York,Software Developer,Junior,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,software_developer__new_york__lvl_junior
+New York,Software Developer,Mid,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,software_developer__new_york__lvl_mid
+New York,Software Developer,Senior,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,software_developer__new_york__lvl_senior
+New York,Software Developer,Lead,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,software_developer__new_york__lvl_lead
+New York,Software Developer,Principal,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,software_developer__new_york__lvl_principal
+New York,Software Developer,Head of,76095.648,127217.88,101656.76400000001,CONFIDENT,Glassdoor,software_developer__new_york__lvl_head of
+Portugal,Software Engineer,Junior,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,software_engineer__portugal__lvl_junior
+Portugal,Software Engineer,Mid,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,software_engineer__portugal__lvl_mid
+Portugal,Software Engineer,Senior,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,software_engineer__portugal__lvl_senior
+Portugal,Software Engineer,Lead,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,software_engineer__portugal__lvl_lead
+Portugal,Software Engineer,Principal,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,software_engineer__portugal__lvl_principal
+Portugal,Software Engineer,Head of,28344.524999999998,49546.5,38945.5125,VERY_HIGH,Glassdoor,software_engineer__portugal__lvl_head of
+Sweden,Software Engineer,Junior,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,software_engineer__sweden__lvl_junior
+Sweden,Software Engineer,Mid,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,software_engineer__sweden__lvl_mid
+Sweden,Software Engineer,Senior,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,software_engineer__sweden__lvl_senior
+Sweden,Software Engineer,Lead,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,software_engineer__sweden__lvl_lead
+Sweden,Software Engineer,Principal,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,software_engineer__sweden__lvl_principal
+Sweden,Software Engineer,Head of,37500.0,48862.5,43181.25,VERY_HIGH,Glassdoor,software_engineer__sweden__lvl_head of
+New York,Software Engineer,Junior,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,software_engineer__new_york__lvl_junior
+New York,Software Engineer,Mid,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,software_engineer__new_york__lvl_mid
+New York,Software Engineer,Senior,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,software_engineer__new_york__lvl_senior
+New York,Software Engineer,Lead,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,software_engineer__new_york__lvl_lead
+New York,Software Engineer,Principal,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,software_engineer__new_york__lvl_principal
+New York,Software Engineer,Head of,93191.6,154481.448,123836.524,CONFIDENT,Glassdoor,software_engineer__new_york__lvl_head of
+Portugal,Full Stack Engineer,Junior,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,full_stack_engineer__portugal__lvl_junior
+Portugal,Full Stack Engineer,Mid,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,full_stack_engineer__portugal__lvl_mid
+Portugal,Full Stack Engineer,Senior,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,full_stack_engineer__portugal__lvl_senior
+Portugal,Full Stack Engineer,Lead,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,full_stack_engineer__portugal__lvl_lead
+Portugal,Full Stack Engineer,Principal,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,full_stack_engineer__portugal__lvl_principal
+Portugal,Full Stack Engineer,Head of,12027.5,47226.0,29626.75,VERY_HIGH,Glassdoor,full_stack_engineer__portugal__lvl_head of
+Sweden,Full Stack Engineer,Junior,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,full_stack_engineer__sweden__lvl_junior
+Sweden,Full Stack Engineer,Mid,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,full_stack_engineer__sweden__lvl_mid
+Sweden,Full Stack Engineer,Senior,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,full_stack_engineer__sweden__lvl_senior
+Sweden,Full Stack Engineer,Lead,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,full_stack_engineer__sweden__lvl_lead
+Sweden,Full Stack Engineer,Principal,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,full_stack_engineer__sweden__lvl_principal
+Sweden,Full Stack Engineer,Head of,34015.814999999995,40376.805,37196.310000000005,LOW,Glassdoor,full_stack_engineer__sweden__lvl_head of
+New York,Full Stack Engineer,Junior,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,full_stack_engineer__new_york__lvl_junior
+New York,Full Stack Engineer,Mid,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,full_stack_engineer__new_york__lvl_mid
+New York,Full Stack Engineer,Senior,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,full_stack_engineer__new_york__lvl_senior
+New York,Full Stack Engineer,Lead,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,full_stack_engineer__new_york__lvl_lead
+New York,Full Stack Engineer,Principal,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,full_stack_engineer__new_york__lvl_principal
+New York,Full Stack Engineer,Head of,58420.144,99676.376,79048.26000000001,CONFIDENT,Glassdoor,full_stack_engineer__new_york__lvl_head of
+Portugal,Mobile Engineer,Junior,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,mobile_engineer__portugal__lvl_junior
+Portugal,Mobile Engineer,Mid,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,mobile_engineer__portugal__lvl_mid
+Portugal,Mobile Engineer,Senior,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,mobile_engineer__portugal__lvl_senior
+Portugal,Mobile Engineer,Lead,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,mobile_engineer__portugal__lvl_lead
+Portugal,Mobile Engineer,Principal,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,mobile_engineer__portugal__lvl_principal
+Portugal,Mobile Engineer,Head of,15215.0,30682.45,22948.725,VERY_HIGH,Glassdoor,mobile_engineer__portugal__lvl_head of
+New York,Mobile Engineer,Junior,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,mobile_engineer__new_york__lvl_junior
+New York,Mobile Engineer,Mid,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,mobile_engineer__new_york__lvl_mid
+New York,Mobile Engineer,Senior,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,mobile_engineer__new_york__lvl_senior
+New York,Mobile Engineer,Lead,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,mobile_engineer__new_york__lvl_lead
+New York,Mobile Engineer,Principal,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,mobile_engineer__new_york__lvl_principal
+New York,Mobile Engineer,Head of,84770.952,145856.992,115313.97200000001,CONFIDENT,Glassdoor,mobile_engineer__new_york__lvl_head of
+Portugal,UX Designer,Junior,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,ux_designer__portugal__lvl_junior
+Portugal,UX Designer,Mid,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,ux_designer__portugal__lvl_mid
+Portugal,UX Designer,Senior,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,ux_designer__portugal__lvl_senior
+Portugal,UX Designer,Lead,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,ux_designer__portugal__lvl_lead
+Portugal,UX Designer,Principal,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,ux_designer__portugal__lvl_principal
+Portugal,UX Designer,Head of,13668.0,27132.0,20400.0,VERY_HIGH,Glassdoor,ux_designer__portugal__lvl_head of
+Sweden,UX Designer,Junior,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,ux_designer__sweden__lvl_junior
+Sweden,UX Designer,Mid,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,ux_designer__sweden__lvl_mid
+Sweden,UX Designer,Senior,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,ux_designer__sweden__lvl_senior
+Sweden,UX Designer,Lead,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,ux_designer__sweden__lvl_lead
+Sweden,UX Designer,Principal,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,ux_designer__sweden__lvl_principal
+Sweden,UX Designer,Head of,33434.2875,42130.4025,37782.344999999994,VERY_HIGH,Glassdoor,ux_designer__sweden__lvl_head of
+New York,UX Designer,Junior,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,ux_designer__new_york__lvl_junior
+New York,UX Designer,Mid,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,ux_designer__new_york__lvl_mid
+New York,UX Designer,Senior,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,ux_designer__new_york__lvl_senior
+New York,UX Designer,Lead,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,ux_designer__new_york__lvl_lead
+New York,UX Designer,Principal,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,ux_designer__new_york__lvl_principal
+New York,UX Designer,Head of,64317.862,119878.66399999999,92098.26299999999,CONFIDENT,Glassdoor,ux_designer__new_york__lvl_head of
+Portugal,QA Engineer,Junior,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,qa_engineer__portugal__lvl_junior
+Portugal,QA Engineer,Mid,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,qa_engineer__portugal__lvl_mid
+Portugal,QA Engineer,Senior,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,qa_engineer__portugal__lvl_senior
+Portugal,QA Engineer,Lead,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,qa_engineer__portugal__lvl_lead
+Portugal,QA Engineer,Principal,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,qa_engineer__portugal__lvl_principal
+Portugal,QA Engineer,Head of,13818.875,27621.6,20720.2375,VERY_HIGH,Glassdoor,qa_engineer__portugal__lvl_head of
+Sweden,QA Engineer,Junior,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,qa_engineer__sweden__lvl_junior
+Sweden,QA Engineer,Mid,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,qa_engineer__sweden__lvl_mid
+Sweden,QA Engineer,Senior,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,qa_engineer__sweden__lvl_senior
+Sweden,QA Engineer,Lead,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,qa_engineer__sweden__lvl_lead
+Sweden,QA Engineer,Principal,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,qa_engineer__sweden__lvl_principal
+Sweden,QA Engineer,Head of,28950.0,39111.225,34030.612499999996,HIGH,Glassdoor,qa_engineer__sweden__lvl_head of
+New York,QA Engineer,Junior,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,qa_engineer__new_york__lvl_junior
+New York,QA Engineer,Mid,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,qa_engineer__new_york__lvl_mid
+New York,QA Engineer,Senior,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,qa_engineer__new_york__lvl_senior
+New York,QA Engineer,Lead,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,qa_engineer__new_york__lvl_lead
+New York,QA Engineer,Principal,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,qa_engineer__new_york__lvl_principal
+New York,QA Engineer,Head of,63574.600000000006,112655.82400000001,88115.212,CONFIDENT,Glassdoor,qa_engineer__new_york__lvl_head of
+Portugal,Backend Engineer,Junior,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,backend_engineer__portugal__lvl_junior
+Portugal,Backend Engineer,Mid,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,backend_engineer__portugal__lvl_mid
+Portugal,Backend Engineer,Senior,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,backend_engineer__portugal__lvl_senior
+Portugal,Backend Engineer,Lead,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,backend_engineer__portugal__lvl_lead
+Portugal,Backend Engineer,Principal,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,backend_engineer__portugal__lvl_principal
+Portugal,Backend Engineer,Head of,32321.25,55003.5,43662.375,VERY_HIGH,Glassdoor,backend_engineer__portugal__lvl_head of
+Sweden,Backend Engineer,Junior,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,backend_engineer__sweden__lvl_junior
+Sweden,Backend Engineer,Mid,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,backend_engineer__sweden__lvl_mid
+Sweden,Backend Engineer,Senior,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,backend_engineer__sweden__lvl_senior
+Sweden,Backend Engineer,Lead,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,backend_engineer__sweden__lvl_lead
+Sweden,Backend Engineer,Principal,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,backend_engineer__sweden__lvl_principal
+Sweden,Backend Engineer,Head of,38874.329999999994,42518.520000000004,40696.424999999996,LOW,Glassdoor,backend_engineer__sweden__lvl_head of
+New York,Backend Engineer,Junior,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,backend_engineer__new_york__lvl_junior
+New York,Backend Engineer,Mid,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,backend_engineer__new_york__lvl_mid
+New York,Backend Engineer,Senior,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,backend_engineer__new_york__lvl_senior
+New York,Backend Engineer,Lead,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,backend_engineer__new_york__lvl_lead
+New York,Backend Engineer,Principal,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,backend_engineer__new_york__lvl_principal
+New York,Backend Engineer,Head of,97110.82400000001,170089.592,133600.208,CONFIDENT,Glassdoor,backend_engineer__new_york__lvl_head of
+Portugal,Frontend Engineer,Junior,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,frontend_engineer__portugal__lvl_junior
+Portugal,Frontend Engineer,Mid,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,frontend_engineer__portugal__lvl_mid
+Portugal,Frontend Engineer,Senior,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,frontend_engineer__portugal__lvl_senior
+Portugal,Frontend Engineer,Lead,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,frontend_engineer__portugal__lvl_lead
+Portugal,Frontend Engineer,Principal,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,frontend_engineer__portugal__lvl_principal
+Portugal,Frontend Engineer,Head of,34407.7875,48662.5,41535.143749999996,VERY_HIGH,Glassdoor,frontend_engineer__portugal__lvl_head of
+Sweden,Frontend Engineer,Junior,37800.0,39600.0,38700.0,LOW,Glassdoor,frontend_engineer__sweden__lvl_junior
+Sweden,Frontend Engineer,Mid,37800.0,39600.0,38700.0,LOW,Glassdoor,frontend_engineer__sweden__lvl_mid
+Sweden,Frontend Engineer,Senior,37800.0,39600.0,38700.0,LOW,Glassdoor,frontend_engineer__sweden__lvl_senior
+Sweden,Frontend Engineer,Lead,37800.0,39600.0,38700.0,LOW,Glassdoor,frontend_engineer__sweden__lvl_lead
+Sweden,Frontend Engineer,Principal,37800.0,39600.0,38700.0,LOW,Glassdoor,frontend_engineer__sweden__lvl_principal
+Sweden,Frontend Engineer,Head of,37800.0,39600.0,38700.0,LOW,Glassdoor,frontend_engineer__sweden__lvl_head of
+New York,Frontend Engineer,Junior,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,frontend_engineer__new_york__lvl_junior
+New York,Frontend Engineer,Mid,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,frontend_engineer__new_york__lvl_mid
+New York,Frontend Engineer,Senior,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,frontend_engineer__new_york__lvl_senior
+New York,Frontend Engineer,Lead,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,frontend_engineer__new_york__lvl_lead
+New York,Frontend Engineer,Principal,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,frontend_engineer__new_york__lvl_principal
+New York,Frontend Engineer,Head of,91187.168,154971.95200000002,123079.56000000001,CONFIDENT,Glassdoor,frontend_engineer__new_york__lvl_head of
